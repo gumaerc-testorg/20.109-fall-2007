@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 title: Working Page for M13 Refactoring
 uid: 738ada3b-55cf-2c56-09a5-edffe2df3898

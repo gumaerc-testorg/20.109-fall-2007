@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 1b88a657-74a1-a702-79bf-92c805387c4a
 title: 'Module 2 Assignment: Expression Engineering Written Report'
 uid: 1eed501b-947f-9694-08a9-5b5c8aece644

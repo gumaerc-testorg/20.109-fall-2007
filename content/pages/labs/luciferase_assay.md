@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 title: 'Module 2.3: Luciferase Assays and RNA Prep'
 uid: da42df1d-ffb9-a16b-951d-1267c9b1d8fa

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 title: 'Module 1.2: Agarose Gel Electrophoresis'
 uid: 0a3fc94e-dd53-6ee2-6aaf-17593e9a9a7d
@@ -215,10 +219,10 @@ One technique you will see several times this term is plating for plaques. The i
 Plaques formed by bacteriophage upon infection of susceptible bacteria. Source: Assorted Views of Bacteriophage Plaques. © Quiroz. Licensed for use, [ASM MicrobeLibrary](http://www.microbelibrary.org/).
 
 1.  Start by placing 6 LB plates in the 37° incubator to prewarm them. If there is any condensation on the surface of the plates, then you can leave the lids slightly ajar to dry the plate surface.
-2.  Aliquot 200 µl of bacteria into 6 small, sterile test tubes. The bacteria you are using are the strain [ER2267](https://www.neb.com/products/e4103-ecoli-k12-er2267?__cf_chl_jschl_tk__=aad45e3f59a58c43d604e22f7cf23155189d3b15-1576680611-0-AcaVePDN3t9fWChDDJO5PAr1n5CkINrGS-ltcrEHPpsjK-R5ZtpmLCamP55Gw3PYXV4ZvY0_zEEoh6DD4QSXfxi6Y0tijPKAxUBV4T6YTxlMjU54LkJYuOhmUuS0jb0mxDOuSGVfInvZC-Tz01cQMJIIGV6IgzSVtrmm7twmmwgZjw8KELNoFM_8dL7iEh5cL53Q7wJzLRYGh02nBjXYgX4nJdYrjScHHdZt8QcfF7CJ1A6tc6e5GRHGgtrsdo0NqjmsrNH4TJ8elZMTvtVRCXc4cQby6J_A7zqOGYzVChBMizfzsd0Tg8arOH10P03Rhw#Product%20Information) since this strain has a selectible F'. Label the tops of each tube with a colored sticker and one of the following: none, none, 10\-4 E4, 10\-6 E4, 10\-4 K07, 10\-6 K07.
-3.  The teaching faculty have two phage stocks for you to compare, an M13KO7 phage stock and a stock of another M13 phage called E4. You will need to serially dilute each stock, making stepwise 1/100 dilutions in eppendorf tubes. For example, add 10 µl of a phage stock to 990 µl sterile water for a 10\-2 dilution, then repeat, using 10 µl of the 10\-2 dilution into 990 µl sterile water to make a 10\-4 dilution. Vortex the dilutions before removing any liquid and change pipet tips to prepare each new dilution. Continue serially diluting the phage to final concentrations that are 10\-4th and 10\-6th as concentrated as the starting stock.
-4.  Mix 10 µl of one of the 10\-4 dilutions into a tube with bacteria.
-5.  Mix 10 µl of one of the 10\-6 dilution into another tube with bacteria.
+2.  Aliquot 200 µl of bacteria into 6 small, sterile test tubes. The bacteria you are using are the strain [ER2267](https://www.neb.com/products/e4103-ecoli-k12-er2267?__cf_chl_jschl_tk__=aad45e3f59a58c43d604e22f7cf23155189d3b15-1576680611-0-AcaVePDN3t9fWChDDJO5PAr1n5CkINrGS-ltcrEHPpsjK-R5ZtpmLCamP55Gw3PYXV4ZvY0_zEEoh6DD4QSXfxi6Y0tijPKAxUBV4T6YTxlMjU54LkJYuOhmUuS0jb0mxDOuSGVfInvZC-Tz01cQMJIIGV6IgzSVtrmm7twmmwgZjw8KELNoFM_8dL7iEh5cL53Q7wJzLRYGh02nBjXYgX4nJdYrjScHHdZt8QcfF7CJ1A6tc6e5GRHGgtrsdo0NqjmsrNH4TJ8elZMTvtVRCXc4cQby6J_A7zqOGYzVChBMizfzsd0Tg8arOH10P03Rhw#Product%20Information) since this strain has a selectible F'. Label the tops of each tube with a colored sticker and one of the following: none, none, 10{{< sup "\\-4" >}} E4, 10{{< sup "\\-6" >}} E4, 10{{< sup "\\-4" >}} K07, 10{{< sup "\\-6" >}} K07.
+3.  The teaching faculty have two phage stocks for you to compare, an M13KO7 phage stock and a stock of another M13 phage called E4. You will need to serially dilute each stock, making stepwise 1/100 dilutions in eppendorf tubes. For example, add 10 µl of a phage stock to 990 µl sterile water for a 10{{< sup "\\-2" >}} dilution, then repeat, using 10 µl of the 10{{< sup "\\-2" >}} dilution into 990 µl sterile water to make a 10{{< sup "\\-4" >}} dilution. Vortex the dilutions before removing any liquid and change pipet tips to prepare each new dilution. Continue serially diluting the phage to final concentrations that are 10{{< sup "\\-4" >}}th and 10{{< sup "\\-6" >}}th as concentrated as the starting stock.
+4.  Mix 10 µl of one of the 10{{< sup "\\-4" >}} dilutions into a tube with bacteria.
+5.  Mix 10 µl of one of the 10{{< sup "\\-6" >}} dilution into another tube with bacteria.
 6.  Repeat with the dilutions of the other phage stock.
 7.  One of the teaching faculty will show you how to mix 3 ml of top agar into one of the uninfected samples you have prepared and how to pour the molten mix onto the surface of a prewarmed LB plate.
 8.  You and your partner should add top agar to the other uninfected sample and the four phage infected ones.
@@ -230,8 +234,8 @@ DONE!
 For Next Time
 -------------
 
-1.  Take the log10 of the length of each molecular weight marker you can identify on your agarose gel photograph. Graph the log10 of their length on the y-axis versus the distance they migrated from the well on the x-axis, measured in mm using a ruler and the picture of your agarose gel. An example of such a graph is found in the introduction to today's experiment. Use the equation of the line from your graph to determine the size of your M13KO7 backbone (use the band in the lane in which you loaded the cut DNA). How does this measurement compare with the predicted size?
-2.  How many plaques do you expect if you plated 10 µl of a 10\-8 dilution of phage, if the titer of phage was 1012th plaque forming units/ml? How many plaques would you expect if you tested the phage stock on strain DH5?
+1.  Take the log10 of the length of each molecular weight marker you can identify on your agarose gel photograph. Graph the log{{< sub "10" >}} of their length on the y-axis versus the distance they migrated from the well on the x-axis, measured in mm using a ruler and the picture of your agarose gel. An example of such a graph is found in the introduction to today's experiment. Use the equation of the line from your graph to determine the size of your M13KO7 backbone (use the band in the lane in which you loaded the cut DNA). How does this measurement compare with the predicted size?
+2.  How many plaques do you expect if you plated 10 µl of a 10{{< sup "\\-8" >}} dilution of phage, if the titer of phage was 10{{< sup "12" >}}th plaque forming units/ml? How many plaques would you expect if you tested the phage stock on strain DH5?
 3.  The oligonucleotide you are adding to p3 uses traditional genetic engineering ("recombinant") techniques. These are powerful and precise ways to move single genes from one organism to another and to make useful chimeric protein products like the one you are now working on. Synthetic biology is a newer approach to programming cells. Please read one (or more!) of the following articles and then write a paragraph exploring the legitimacy of the following statement: "synthetic biology is about engineering while genetic engineering is about biology."
     *   Tucker, Jonathan B., and Raymond A. Zilinskas. "[The Promise and Perils of Synthetic Biology](http://www.thenewatlantis.com/archive/12/tuckerzilinskas.htm)." The New Atlantis, Spring 2006.
     *   Stone, Marcia. "[Life Redesigned to Suit the Engineering Crowd](http://direct.bl.uk/bld/PlaceOrder.do?UIN=200751107&ETOC=RN&from=searchengine)." Microbe, Fall 2006.

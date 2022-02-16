@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 title: Lab Tour
 uid: d59d7606-9897-4e93-8741-aa4918add9d8
@@ -51,7 +55,7 @@ Today you will be shown how to use each of the microscopes in the main lab and y
 Introduction to Our "Back Room" and {{< anchor "Tissue_Culture" >}}{{< /anchor >}}Tissue Culture Facility (Guided)
 ------------------------------------------------------------------------------------------------------------------
 
-Our lab is beautifully equipped. We have a fume hood for work that generates hazardous vapors. We have a back room where dishes can be washed and material can be decontaminated. The backroom also has an icemaker, a sink with ultrapure water and several CO2 tanks that feed into the incubators in the tissue culture facility.
+Our lab is beautifully equipped. We have a fume hood for work that generates hazardous vapors. We have a back room where dishes can be washed and material can be decontaminated. The backroom also has an icemaker, a sink with ultrapure water and several CO{{< sub "2" >}} tanks that feed into the incubators in the tissue culture facility.
 
 The tissue culture facility has three hoods with germicidal lamps, six incubators for growing eukaryotic cells, two inverted microscopes, and a tabletop centrifuge. It also has a waterbath for warming up solutions and a refrigerator for keeping them cool.
 
@@ -146,7 +150,7 @@ The information and exercises provided here are intended to refresh your memory 
 
 This is the numerical language of science. Base units that you will most often use in this class are meters, grams, liters, and moles. These units will be appended with prefixes to modify the unit by a power of ten.
 
-103  = 1000     = 1000/1    = 103/1   kilo (k-) 100  = 1        = 1/1       = 100 /1  base unit (-g, -l, -mole…) 10\-3 = 0.001    = 1/1000    = 1/103   milli (m-) 10\-6 = 0.000001 = 1/1000000 = 1/106   micro (µ-)
+10{{< sup "3" >}}  = 1000     = 1000/1    = 10{{< sup "3" >}}/1   kilo (k-) 10{{< sup "0" >}}  = 1        = 1/1       = 10{{< sup "0" >}} /1  base unit (-g, -l, -mole…) 10{{< sup "\\-3" >}} = 0.001    = 1/1000    = 1/10{{< sup "3" >}}   milli (m-) 10{{< sup "\\-6" >}} = 0.000001 = 1/1000000 = 1/10{{< sup "6" >}}   micro (µ-)
 
 Practice problems:
 
@@ -155,7 +159,7 @@ Practice problems:
 3.  The volume you want to measure is 100 ml. How many liters is that?
 4.  Your reaction generates 0.1 µmoles of product. How many mmoles is that?
 
-Scientific notation expresses numbers so there is one digit to the left of the decimal point and that number is multiplied by a power of ten. 2334 becomes 2.334 x 103 and 0.0041 becomes 4.1 x 10\-3. Computations are easier with numbers in scientific notation and some numbers that are easier to write (602,214,199,000,000,000,000,000 versus 6.02 x 1023).
+Scientific notation expresses numbers so there is one digit to the left of the decimal point and that number is multiplied by a power of ten. 2334 becomes 2.334 x 10{{< sup "3" >}} and 0.0041 becomes 4.1 x 10{{< sup "\\-3" >}}. Computations are easier with numbers in scientific notation and some numbers that are easier to write (602,214,199,000,000,000,000,000 versus 6.02 x 10{{< sup "23" >}}).
 
 Practice problems:
 
@@ -166,7 +170,7 @@ Convert the following to scientific notation
 3.  0.0023
 4.  0.000000467
 
-The metric system and scientific notation go hand in hand, making unit conversions straightforward. For example 100 µl can be converted to ml by writing the starting volume in scientific notation (1.00 x 102 µl) and multiplying by the power of ten that separates the units (1 ml = 1 x 103 µl). Set up every equation so the units will cancel properly when you multiply through.
+The metric system and scientific notation go hand in hand, making unit conversions straightforward. For example 100 µl can be converted to ml by writing the starting volume in scientific notation (1.00 x 10{{< sup "2" >}} µl) and multiplying by the power of ten that separates the units (1 ml = 1 x 10{{< sup "3" >}} µl). Set up every equation so the units will cancel properly when you multiply through.
 
 Practice problems:
 
@@ -192,7 +196,7 @@ Practice problems:
 
 Many solutions are made by diluting concentrated stock solutions. Dilution factors of 1:2, 1:5, 1:10 and 1:100 are common. These dilutions are made by diluting one "part" stock with 1, 4, 9 or 99 "parts" water. For example, you could make 100 ml of a 0.5M sorbitol solution by mixing 10 ml of a 5M stock solution with 90 ml of water. This is a 1:10 dilution of the stock. The dilution factor can be converted to a fraction to determine the solution's final concentration (5M x 1/10 = 0.5M).
 
-When the dilution factor is less obvious, the formula C1V1 = C2V2 can be used, where C1 is the starting concentration of the stock solution, C2 is the desired concentration, V1 is the volume of stock you'll need (usually this is your unknown) and V2 is the final volume you want to make. For example, to make 1000 ml of a 0.2M Tris from a 1.5M stock you would multiply 1.5M (V1) = 0.2M (1000) to find that you will need 133 ml of the stock. To determine how much water to add you would subtract V2 – V 1 , in this case 1000 ml –133 ml = 867 ml of water.
+When the dilution factor is less obvious, the formula C{{< sub "1" >}}V{{< sub "1" >}} = C{{< sub "2" >}}V{{< sub "2" >}} can be used, where C{{< sub "1" >}} is the starting concentration of the stock solution, C{{< sub "2" >}} is the desired concentration, V{{< sub "1" >}} is the volume of stock you'll need (usually this is your unknown) and V{{< sub "2" >}} is the final volume you want to make. For example, to make 1000 ml of a 0.2M Tris from a 1.5M stock you would multiply 1.5M (V{{< sub "1" >}}) = 0.2M (1000) to find that you will need 133 ml of the stock. To determine how much water to add you would subtract V{{< sub "2" >}} – V {{< sub "1" >}} , in this case 1000 ml –133 ml = 867 ml of water.
 
 When solutions must be diluted several orders of magnitude, then serial dilutions are made. The concentrated stock is progressively diluted, for example using a 1:100 dilution as the new "stock" in another 1:100 dilution. Such a serial dilution produces a solution that is 10,000 times less concentrated than the starting material. One benefit to serial dilutions is that small volumes of each dilution can be made accurately. A drawback is that any pipetting or calculation error is propagated through every dilution.
 
@@ -200,7 +204,7 @@ Practice Problems
 
 1.  How would you make 50 ml of a 1:5 dilution?
 2.  Give the volume of stock and the volume of water necessary to make 50 ml of a 0.25 M solution starting with a 2M solution.
-3.  A concentrated culture of bacteria has approximately 1 x 108 cells/ml. What is the concentration of bacteria after it has been diluted 1:100? What is the concentration of bacteria if a 1:2 dilution was made of the 1:100?
+3.  A concentrated culture of bacteria has approximately 1 x 10{{< sup "8" >}} cells/ml. What is the concentration of bacteria after it has been diluted 1:100? What is the concentration of bacteria if a 1:2 dilution was made of the 1:100?
 
 DONE!
 

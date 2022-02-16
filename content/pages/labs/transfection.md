@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 title: 'Module 2.2: Transfection'
 uid: bbd13c95-2443-ade1-e9c6-5fff93334839
@@ -220,9 +224,9 @@ For **each** lipofection you will need:
 5.  After the 20 minute incubation is over, use your P200 to add 95 µl of the appropriate DNA/RNA/lipofectamine complexes to each well. Since the carrier is quite toxic to the cells it's a good idea to gently rock the plate back and forth after each addition.
 6.  Return the plate to the 37° incubator.
 7.  One of the teaching faculty will complete the transfection protocols by performing the following steps:
-    *   Plates will be incubated overnight @ 37°C, 5% CO2.
+    *   Plates will be incubated overnight @ 37°C, 5% CO{{< sub "2" >}}.
     *   Tomorrow, the media and transfection reagents will be aspirated and replaced with 3ml fresh JI growth media with serum and antibiotics.
-    *   Plates will be incubated overnight @ 37°C, 5% CO2.
+    *   Plates will be incubated overnight @ 37°C, 5% CO{{< sub "2" >}}.
 
 Next time you and your partner will collect cells from today's transfections to analyze their luciferase activity and isolate total RNA for microarray analysis.
 

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 title: 'Module 2.1: siRNA Design'
 uid: 7506446f-0ce3-4227-fbf7-0e265f4a7002
@@ -151,10 +155,10 @@ The art of tissue culture lies in the ability to create conditions that are simi
 
 Cultured mammalian cells must grow in a germ-free environment and researchers using tissue culture must be skilled in sterile technique. Germs double very quickly relative to mammalian cells. An average mammalian cells doubles about once per day whereas a bacterium is able to double every 20 minutes under optimal conditions. Consequently, if you put 100 mammalian cells and 1 bacteria together in a dish, within 24 hours you would have ~200 unhappy mammalian cells, and about 100 million happy bacteria! Needless to say, you would not find it very useful to continue to study the behavior of your mammalian cells under these conditions!
 
-Each of you will have a 25 cm2 flask of mouse embryonic stem (MES) cells that you will use to seed a six-well dish. You and your partner will seed the dishes at different concentrations so you should decide who will seed at 1:100 and who will seed at 1:400.
+Each of you will have a 25 cm{{< sup "2" >}} flask of mouse embryonic stem (MES) cells that you will use to seed a six-well dish. You and your partner will seed the dishes at different concentrations so you should decide who will seed at 1:100 and who will seed at 1:400.
 
 1.  Prewarm all the required reagents in the water bath.
-2.  Look at your cells as you remove them from the incubator. Look first at the color and clarity of the media. Fresh media is reddish-orange in color and if the media on your cells is yellow or cloudy, it could mean that the cells are overgrown, contaminated or starved for CO2. Next look at the cells on the inverted microscope. Note their shape and arrangement in the dish and how densely the cells cover the surface.
+2.  Look at your cells as you remove them from the incubator. Look first at the color and clarity of the media. Fresh media is reddish-orange in color and if the media on your cells is yellow or cloudy, it could mean that the cells are overgrown, contaminated or starved for CO{{< sup "2" >}}. Next look at the cells on the inverted microscope. Note their shape and arrangement in the dish and how densely the cells cover the surface.
 3.  Move the cells into the sterile hood, as well as the PBS, trypsin, and media that you will need. One of the greatest sources for TC contamination is moving materials in and out of the hood since this disturbs the air flow that maintains the sterile environment inside the hood. Anticipate what you will need during your experiment to avoid moving your arms in and out of the hood while your cells are inside.
 4.  Aspirate the media from the cells.
 5.  Wash the cells by adding 5 ml PBS. Tip the flask back and forth to rinse all the cells, and then aspirate the liquid out of the dish.
@@ -217,5 +221,5 @@ Reagents List
         *   10% Fetal Bovine Serum (Atlantic Biologic, Inc., Atlanta, GA)
         *   Leukemia Inhibitory Factor (LIF) - LIF helps stem cells maintain their undifferentiated state
 *   Gelatin
-    *   0.1% TC-grade gelatin prepared in H2O
+    *   0.1% TC-grade gelatin prepared in H{{< sub "2" >}}O
     *   Gelatin is a protein prepared by partial hydrolysis of collagen

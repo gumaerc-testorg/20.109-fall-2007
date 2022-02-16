@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 7a75822e-1a83-50a4-b633-f6257443956b
 title: OpenWetWare Use in 20.109
 uid: 4aad424f-cdab-13ff-214c-f76048b29a9a

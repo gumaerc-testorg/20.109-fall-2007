@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 title: 'Module 1.4: Examine Candidate Clones'
 uid: 1e64ebeb-ccfc-293a-a27c-6269d1dd0c40
@@ -127,7 +131,7 @@ Enzyme
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-H2O
+H{{< sub "2" >}}O
 {{< tdclose >}}
 {{< tdopen colspan="2" >}}
 

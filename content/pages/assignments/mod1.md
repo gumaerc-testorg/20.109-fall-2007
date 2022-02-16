@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 1b88a657-74a1-a702-79bf-92c805387c4a
 title: 'Module 1 Assignment: Genome Engineering Portfolio'
 uid: dc3a75af-65bf-67a8-6b22-50d2a25be03a
@@ -55,7 +59,7 @@ II
 
 Make p2 sensitive to and perhaps degraded by any one of various stimuli (e.g. heat, light, pH, chemical input) so replication can be regulated
 
-Encode so that p2 can be switched on and off based on the environment which it's in, for example: stops replication of phage genome when in a certain concentration of Ca2+ enters the cell
+Encode so that p2 can be switched on and off based on the environment which it's in, for example: stops replication of phage genome when in a certain concentration of Ca{{< sup "2+" >}} enters the cell
 
 Make p2 require a cofactor that must be added before replication of the phage begins
 

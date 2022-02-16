@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 title: 'Module 1.3: DNA Ligation and Bacterial Transformation'
 uid: db49fca7-cdc2-5384-74da-d305fa2b13e0
@@ -29,7 +33,7 @@ Growing colonies on medium, showing that only bacteria with plasmid grow into co
 
 ### Bacterial Transformation
 
-Most bacteria do not usually exist in a 'transformation ready' state, but the bacteria can be made permeable to the plasmid DNA, and cells that are capable of transformation are referred to as 'competent.' Competent cells are extremely fragile and should be handled gently, specifically kept cold and not vortexed. The transformation procedure is efficient enough for most lab purposes, with efficiencies as high as 109 transformed cells per microgram of DNA, but it is important to realize that even with high efficiency cells only 1 DNA molecule in about 10,000 is successfully transformed.
+Most bacteria do not usually exist in a 'transformation ready' state, but the bacteria can be made permeable to the plasmid DNA, and cells that are capable of transformation are referred to as 'competent.' Competent cells are extremely fragile and should be handled gently, specifically kept cold and not vortexed. The transformation procedure is efficient enough for most lab purposes, with efficiencies as high as 10{{< sup "9" >}} transformed cells per microgram of DNA, but it is important to realize that even with high efficiency cells only 1 DNA molecule in about 10,000 is successfully transformed.
 
 Protocols
 ---------

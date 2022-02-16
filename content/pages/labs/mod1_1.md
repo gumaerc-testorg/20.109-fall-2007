@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 title: 'Module 1.1: Start-up Genome Engineering'
 uid: 7f7964e4-2595-1a59-8f84-d95cdcb5de44
@@ -11,7 +15,7 @@ Modules: 1.1 | [1.2]({{< baseurl >}}/pages/labs/mod1_2) | [1.3]({{< baseurl >}}/
 Introduction
 ------------
 
-How many genetically-encoded creatures exist in every milliliter of sea water? 100? 1000? More? It turns out that bacteria are by far the best represented life form, numbering up to a million cells/ml. If each cell is assumed to harbor the DNA content of pedestrian E. coli MG1655, then that means 1012th base pairs of DNA/ml. This thriving gene pool is even more remarkable in light of the fact that each ml of sea water contains approximately 1010th viruses that infect bacteria, aka bacteriophages or "phages" for short. These destroy half the world's bacterial population every 48 hours [\[2\]](http://www.ncbi.nlm.nih.gov/pubmed/12167366?dopt=AbstractPlus). Given the huge number of bacteriophages that exist, it's probably not surprising that most of the Earth's bacteriophages are completely uncharacterized, though massive genome sequencing efforts are underway.
+How many genetically-encoded creatures exist in every milliliter of sea water? 100? 1000? More? It turns out that bacteria are by far the best represented life form, numbering up to a million cells/ml. If each cell is assumed to harbor the DNA content of pedestrian E. coli MG1655, then that means 10{{< sup "12" >}}th base pairs of DNA/ml. This thriving gene pool is even more remarkable in light of the fact that each ml of sea water contains approximately 10{{< sup "10" >}}th viruses that infect bacteria, aka bacteriophages or "phages" for short. These destroy half the world's bacterial population every 48 hours [\[2\]](http://www.ncbi.nlm.nih.gov/pubmed/12167366?dopt=AbstractPlus). Given the huge number of bacteriophages that exist, it's probably not surprising that most of the Earth's bacteriophages are completely uncharacterized, though massive genome sequencing efforts are underway.
 
 A few bacteriophages are exquisitely well characterized. Indeed, the study of phage laid much of the groundwork for our current understanding of genetics and molecular principles in biology. These principles carry over to the biology of more complex cells (Jacques Monod famously said "What is true for Escherichia coli is true for the elephant" \[Francois Jacob (1988)\]). M13 is a member of the filamentous phage family. It has a long (~900 nm), narrow (~20 nm) protein coat that encases a small (~6.4 Kb) single stranded DNA genome. The genome encodes 11 proteins, five of which are exposed on the phage's protein coat and six of which are involved in phage maturation inside its E. coli host.
 
@@ -119,7 +123,7 @@ DNA
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-H2O
+H{{< sub "2" >}}O
 {{< tdclose >}}
 {{< tdopen >}}
 To a final volume of 25 µl
@@ -195,7 +199,7 @@ If the next base in your oligonucleotide was "C" then it would regenerate the Ba
 
 ### Top Strand, Step 3
 
-Add the first of two new restriction sites that will be unique to M13KO7. Review the list of zero cutter enzymes <\*\*link to mod1.1\_zerocutters.txt> that don't cut M13KO7 can be found here. Using the base from step 2 as the first base of the new site, fill in the rest of the sequence for a new restriction site, including commas, slashes or spaces between codons. Underline the new site and then, just below the sequence, write the name of the enzyme that recognizes it.
+Add the first of two new restriction sites that will be unique to M13KO7. Review the list of zero cutter enzymes \<\*\*link to mod1.1\_zerocutters.txt> that don't cut M13KO7 can be found here. Using the base from step 2 as the first base of the new site, fill in the rest of the sequence for a new restriction site, including commas, slashes or spaces between codons. Underline the new site and then, just below the sequence, write the name of the enzyme that recognizes it.
 
 ![DNA Strand 3](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/dna_strand3.jpg)
 

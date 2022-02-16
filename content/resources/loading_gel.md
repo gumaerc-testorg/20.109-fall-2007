@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/539204b9dc73674eef55989880791758_loading_gel.jpg
+file: /media/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/539204b9dc73674eef55989880791758_loading_gel.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Labs
+ocw_type: OCWImage
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Image
 title: loading_gel.jpg
 uid: 539204b9-dc73-674e-ef55-989880791758

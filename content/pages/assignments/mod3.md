@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 1b88a657-74a1-a702-79bf-92c805387c4a
 title: 'Module 3 Assignment: Biomaterials Engineering Oral Presentation'
 uid: 65c3a059-ea75-d1a2-f691-549dfa2f0c79

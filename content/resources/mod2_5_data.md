@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Data file for Module 2.5: cDNA Synthesis and Microarray.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/7ee2345556e84141ebbdec6e00515518_mod2_5_data.xls
+file: /media/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/7ee2345556e84141ebbdec6e00515518_mod2_5_data.xls
 file_type: application/msword
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Other
 title: mod2_5_data.xls
 uid: 7ee23455-56e8-4141-ebbd-ec6e00515518

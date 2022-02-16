@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 title: Guidelines for Maintaining Your Lab Notebook
 uid: 292dd566-2882-ed17-bf2f-c47d70e7100d
@@ -48,7 +52,7 @@ Teaching assistants will collect the duplicate copy of your notebook pages and e
 {{< thopen >}}
 LAB NOTEBOOK
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 EVALUATION
 {{< thclose >}}
 

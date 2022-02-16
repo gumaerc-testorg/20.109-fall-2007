@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 1b88a657-74a1-a702-79bf-92c805387c4a
 title: Guidelines for Oral Presentations
 uid: d8d9ecac-1b70-8a9b-893b-b0ddce686319

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 title: 'Module 1.7: Probe Western'
 uid: 89bac614-a063-67bb-cc05-e887c5398227
@@ -103,4 +107,4 @@ Reagents List
 *   monoclonal anti-p3 from NEB, raised in mouse cells
 *   polyclonal antimouse-AP from BioRad, raised in goat
 *   BioRad AP detection reagents
-    *   1 ml 25x detection stock + 24 ml H2O with 0.25 ml solnA and 0.25 ml solnB.
+    *   1 ml 25x detection stock + 24 ml H{{< sub "2" >}}O with 0.25 ml solnA and 0.25 ml solnB.

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 1b88a657-74a1-a702-79bf-92c805387c4a
 title: Guidelines for Writing a Lab Report
 uid: 78cab3c7-1f19-b0dc-a42f-cd3f15022f6d
@@ -155,7 +159,7 @@ SECTION
 {{< thopen >}}
 GOAL
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 EVALUATION
 {{< thclose >}}
 
@@ -461,7 +465,7 @@ References not properly cited in body of report
 {{< thopen >}}
 WRITING STYLE AND MECHANICS
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 EVALUATION
 {{< thclose >}}
 
