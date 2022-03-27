@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 085e6576-1baf-aa63-e1ae-ea01ee1cabbb
 resourcetype: Document
 title: lec1_5_atissa.pdf
 uid: 65998a66-5a95-8582-f6c6-e4aa3c46b54a

@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Image
 title: normal_fibro.jpg
 uid: 827835d6-4615-503c-c2d1-68f2657601f9

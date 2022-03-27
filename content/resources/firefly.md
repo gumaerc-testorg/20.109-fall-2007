@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Image
 title: firefly.jpg
 uid: f01d4963-9e49-5b67-6a97-0b6b1f20e592

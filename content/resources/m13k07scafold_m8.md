@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Document
 title: m13k07scafold_m8.pdf
 uid: 3e7c39d2-ec86-e2a5-8fed-363ef2165813

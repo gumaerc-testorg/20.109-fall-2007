@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Image
 title: m13_genome.jpg
 uid: e90ca59f-3550-a26c-e78b-0a627b8dc25e

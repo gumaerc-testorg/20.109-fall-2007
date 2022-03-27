@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 7a75822e-1a83-50a4-b633-f6257443956b
 resourcetype: Document
 title: 20_109_openwetwa.pdf
 uid: c956b493-2562-7adc-5e10-05642801982d

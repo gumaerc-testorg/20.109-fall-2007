@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Image
 title: wf_green_purple.jpg
 uid: 982b6b42-48c8-09c5-4fb5-bb1239269a79

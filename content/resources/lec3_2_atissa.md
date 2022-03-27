@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1b88a657-74a1-a702-79bf-92c805387c4a
 resourcetype: Document
 title: lec3_2_atissa.pdf
 uid: bdc33fd6-d778-85c0-255e-20b43322af56

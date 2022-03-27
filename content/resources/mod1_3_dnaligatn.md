@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Image
 title: mod1_3_dnaligatn.jpg
 uid: 459faa08-ec33-32ab-428c-52068e62ce5b

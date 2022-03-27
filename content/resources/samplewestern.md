@@ -14,6 +14,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Image
 title: samplewestern.jpg
 uid: 2d90b3f7-8e4a-5865-a800-5b5963de5ae3

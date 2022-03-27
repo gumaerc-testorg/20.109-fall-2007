@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1b88a657-74a1-a702-79bf-92c805387c4a
 resourcetype: Document
 title: lerner_revie_tip.pdf
 uid: 641905a4-ecb8-27a1-accc-8611c94dd6d9

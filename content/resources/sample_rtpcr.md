@@ -14,6 +14,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Image
 title: sample_rtpcr.jpg
 uid: 5626c9f5-d00a-d897-818d-32264a42b35a

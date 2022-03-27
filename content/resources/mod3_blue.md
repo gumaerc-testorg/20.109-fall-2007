@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1b88a657-74a1-a702-79bf-92c805387c4a
 resourcetype: Document
 title: mod3_blue.pdf
 uid: 3b85b746-9ebf-73dd-f8d0-a17fcb1d9d95
