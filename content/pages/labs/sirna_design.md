@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,9 +9,13 @@ parent_type: CourseSection
 parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 title: 'Module 2.1: siRNA Design'
 uid: 7506446f-0ce3-4227-fbf7-0e265f4a7002
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-Modules: 2.1 | [2.2]({{< baseurl >}}/pages/labs/transfection) | [2.3]({{< baseurl >}}/pages/labs/luciferase_assay) | [2.4]({{< baseurl >}}/pages/labs/mod2_4) | [2.5]({{< baseurl >}}/pages/labs/mod2_5) | [2.6]({{< baseurl >}}/pages/labs/mod2_6)
+Modules: 2.1 | {{% resource_link bbd13c95-2443-ade1-e9c6-5fff93334839 "2.2" %}} | {{% resource_link da42df1d-ffb9-a16b-951d-1267c9b1d8fa "2.3" %}} | {{% resource_link cd9396b1-623d-c638-8b39-94f34a2dccd5 "2.4" %}} | {{% resource_link cf154f53-d733-f827-825a-bd351c2db015 "2.5" %}} | {{% resource_link a26d0242-10aa-7e1f-9778-0a81bc2347cb "2.6" %}}
 
 Introduction
 ------------
@@ -25,7 +30,7 @@ RNAi can silence genes in mammalian cells although other expression effects, not
 
 The biochemistry of the RNAi pathway is relatively well characterized and the general features of siRNAs are known. To induce RNAi, a dsRNA is processed within the cell to an siRNA which then binds to its single-stranded mRNA target. The binding leads to the destruction of the mRNA, effectively silencing gene expression.
 
-![RNA Processing.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/rna_processing.jpg)
+{{< resource "00b9637c-471e-51cc-588b-1382fd94e94d" >}}
 
 RNA Processing.
 
@@ -141,9 +146,9 @@ Part 2: Introduction to Cell Culture
 
 In the past century, we have learned a tremendous amount by studying the behavior of mammalian cells maintained in the laboratory. Tissue culture was originally developed about 100 years ago as a method for learning about mammalian biology. The term tissue culture was originally coined because people were doing exactly that, extracting tissue and letting it live in a dish for a short time. Today, most tissue culture experiments are done using cultured cells. Much of what we know about cancer, heritable diseases, and the effects of the environment on human health has been derived from studies of cultured cells.
 
-![Normal Mouse Fibroblasts.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/normal_fibro.jpg)
+{{< resource "827835d6-4615-503c-c2d1-68f2657601f9" >}}
 
-![Transformed Mouse Fibroblasts.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/transform_fibro.jpg)
+{{< resource "2497796b-63eb-bba2-dbb7-d1d8985e0ee4" >}}
 
 Normal and Transformed Mouse Fibroblasts. (Courtesy of G. Stephen Martin. Used with permission.)
 
@@ -168,7 +173,7 @@ Each of you will have a 25 cm{{< sup "2" >}} flask of mouse embryonic stem (MES)
 9.  Fill one chamber of a hemocytometer with 10 µl of the cell suspension. This slide has an etched grid of nine large squares. The square in the center is further etched into 25 squares each with a volume of 0.1 µl and 16 tiny chambers (4x4 pattern). The concentration of cells in a sample can be determined by counting the cells that fall within the 4x4 pattern and then multiplying by 10,000 to determine the number of cells/ml. You should count the cells in the four corner squares of the 25 square grid, then average the numbers to determine the concentration of cells in your suspension.  
       
     
-    ![Counting cells using a hemocytometer.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/hemocytometer.jpg)
+    {{< resource "06cb4616-f9e6-1736-fa77-3c3c2b52e62b" >}}
     
     Counting cells using a hemocytometer.
     
@@ -187,7 +192,7 @@ For Next Time
     *   Only 25% of the cells are able to stick and proliferate (this is called a 25% plating efficiency).
     *   The doubling time for the cells is 24 hours.
     *   The cells take 24 hours to recover from trypsin treatment before they begin doubling.
-3.  Your major assignment for this experimental module will be a formal lab report describing your work. The requirements for this report are detailed in the [Guidelines for writing a lab report]({{< baseurl >}}/pages/assignments/guide_lab_report-htm). Start by reading these guidelines carefully. You'll write part of the introduction today, first reading the relevant primary literature, and then writing three paragraphs according to the suggested scheme below. This scheme is just a rough framework to help you organize your thoughts. Naturally you are free to apply your personal style and writing approach. One thing everyone must do: keep track of the sources for your information to properly reference them in your final paper.  
+3.  Your major assignment for this experimental module will be a formal lab report describing your work. The requirements for this report are detailed in the {{% resource_link 78cab3c7-1f19-b0dc-a42f-cd3f15022f6d "Guidelines for writing a lab report" %}}. Start by reading these guidelines carefully. You'll write part of the introduction today, first reading the relevant primary literature, and then writing three paragraphs according to the suggested scheme below. This scheme is just a rough framework to help you organize your thoughts. Naturally you are free to apply your personal style and writing approach. One thing everyone must do: keep track of the sources for your information to properly reference them in your final paper.  
     *   Paragraph 1: most general of all: You don't have to start with the dawn of creation or how the first cell came to exist but you might consider framing the experiments around **some** larger questions like:
         *   Why is gene expression important?
         *   How does the cell regulate gene expression?

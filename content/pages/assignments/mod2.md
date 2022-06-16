@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -8,9 +9,13 @@ parent_type: CourseSection
 parent_uid: 1b88a657-74a1-a702-79bf-92c805387c4a
 title: 'Module 2 Assignment: Expression Engineering Written Report'
 uid: 1eed501b-947f-9694-08a9-5b5c8aece644
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-You are asked to write a formal lab report detailing your work in this module. Specifics for each section of this report are detailed below. Be sure to re-read the [Guidelines for writing a lab report]({{< baseurl >}}/pages/labs).
+You are asked to write a formal lab report detailing your work in this module. Specifics for each section of this report are detailed below. Be sure to re-read the {{% resource_link fc19e690-0ca7-af8b-d48d-3a5a9e329f01 "Guidelines for writing a lab report" %}}.
 
  **Abstract**
 

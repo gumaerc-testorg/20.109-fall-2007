@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,9 +9,13 @@ parent_type: CourseSection
 parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 title: 'Module 2.6: Microarray Data Analysis'
 uid: a26d0242-10aa-7e1f-9778-0a81bc2347cb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-Modules: [2.1]({{< baseurl >}}/pages/labs/sirna_design) | [2.2]({{< baseurl >}}/pages/labs/transfection) | [2.3]({{< baseurl >}}/pages/labs/luciferase_assay) | [2.4]({{< baseurl >}}/pages/labs/mod2_4) | [2.5]({{< baseurl >}}/pages/labs/mod2_5) | 2.6
+Modules: {{% resource_link 7506446f-0ce3-4227-fbf7-0e265f4a7002 "2.1" %}} | {{% resource_link bbd13c95-2443-ade1-e9c6-5fff93334839 "2.2" %}} | {{% resource_link da42df1d-ffb9-a16b-951d-1267c9b1d8fa "2.3" %}} | {{% resource_link cd9396b1-623d-c638-8b39-94f34a2dccd5 "2.4" %}} | {{% resource_link cf154f53-d733-f827-825a-bd351c2db015 "2.5" %}} | 2.6
 
 Introduction
 ------------
@@ -48,4 +53,4 @@ DONE!
 For Next Time
 -------------
 
-Your first draft of your [lab report]({{< baseurl >}}/pages/assignments/mod2) is due next time. Review the [Guidelines for writing a lab report]({{< baseurl >}}/pages/assignments/guide_lab_report-htm) to remind yourself of the class expectations.
+Your first draft of your {{% resource_link 1eed501b-947f-9694-08a9-5b5c8aece644 "lab report" %}} is due next time. Review the {{% resource_link 78cab3c7-1f19-b0dc-a42f-cd3f15022f6d "Guidelines for writing a lab report" %}} to remind yourself of the class expectations.

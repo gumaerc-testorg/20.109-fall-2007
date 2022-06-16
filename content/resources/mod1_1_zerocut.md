@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: TA's Notes for Module 1 on available enzymes that don't cut M13K07.
-file: /media/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/924b682290249203b91475da7d476398_mod1_1_zerocut.txt
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/924b682290249203b91475da7d476398_mod1_1_zerocut.txt
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: mod1_1_zerocut.txt
 uid: 924b6822-9024-9203-b914-75da7d476398
 ---
+TA's Notes for Module 1 on available enzymes that don't cut M13K07.
+

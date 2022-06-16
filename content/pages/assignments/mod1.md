@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -8,6 +9,10 @@ parent_type: CourseSection
 parent_uid: 1b88a657-74a1-a702-79bf-92c805387c4a
 title: 'Module 1 Assignment: Genome Engineering Portfolio'
 uid: dc3a75af-65bf-67a8-6b22-50d2a25be03a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Portfolio components:
@@ -255,7 +260,7 @@ Change the GTG to ATG start
 Part 3: Data Summary for p3-Modifications You Performed in Lab
 --------------------------------------------------------------
 
-Consult the [Guidelines for writing a lab report]({{< baseurl >}}/pages/labs). Additionally, many of the "for next time" assignments can get you started on this part of the portfolio. Including but not limited to:
+Consult the {{% resource_link fc19e690-0ca7-af8b-d48d-3a5a9e329f01 "Guidelines for writing a lab report" %}}. Additionally, many of the "for next time" assignments can get you started on this part of the portfolio. Including but not limited to:
 
 *   Table: Oligonucleotide design, sequence consequences for phage when inserted and sequence data
 *   Table: Ligation results

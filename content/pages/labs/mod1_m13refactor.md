@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,6 +9,10 @@ parent_type: CourseSection
 parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 title: Working Page for M13 Refactoring
 uid: 738ada3b-55cf-2c56-09a5-edffe2df3898
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 All parts are specified at the [Registry of Standard Biological Parts](http://parts.igem.org/Main_Page). Refine the parts there as well as here.

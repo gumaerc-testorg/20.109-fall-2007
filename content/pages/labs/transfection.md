@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,9 +9,13 @@ parent_type: CourseSection
 parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 title: 'Module 2.2: Transfection'
 uid: bbd13c95-2443-ade1-e9c6-5fff93334839
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-Modules: [2.1]({{< baseurl >}}/pages/labs/sirna_design) | 2.2 | [2.3]({{< baseurl >}}/pages/labs/luciferase_assay) | [2.4]({{< baseurl >}}/pages/labs/mod2_4) | [2.5]({{< baseurl >}}/pages/labs/mod2_5) | [2.6]({{< baseurl >}}/pages/labs/mod2_6)
+Modules: {{% resource_link 7506446f-0ce3-4227-fbf7-0e265f4a7002 "2.1" %}} | 2.2 | {{% resource_link da42df1d-ffb9-a16b-951d-1267c9b1d8fa "2.3" %}} | {{% resource_link cd9396b1-623d-c638-8b39-94f34a2dccd5 "2.4" %}} | {{% resource_link cf154f53-d733-f827-825a-bd351c2db015 "2.5" %}} | {{% resource_link a26d0242-10aa-7e1f-9778-0a81bc2347cb "2.6" %}}
 
 Introduction
 ------------
@@ -19,7 +24,7 @@ Luciferase is an enzyme that oxidizes its substrate, luciferin. The product, oxy
 
 Luciferin-luciferase pairs are widely used in nature for courtship, camouflage or baiting. Fireflies (also known as lightning bugs or more technically Photinus pyralis) use an ATP-requiring luciferin-luciferase pair and emit species-specific patterns of light as part of their mating ritual. Bioluminescent bacteria (such as Vibrio harveyi) can be found in symbiotic relationships with marine organisms. The fish give such bacteria a suitable home and in return the bacteria emit light to give the fish "night vision,” or to mask the fish's shadow, effectively cloaking them from their prey. The usefulness of such luciferin/luciferase pairs was not lost to researchers who began isolating and sequencing luciferase genes from different organisms in order to clone them into useful vectors, such as the one we'll use today.
 
-![Firefly.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/firefly.jpg)![Plasmid map.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/plasmid_map.jpg)![Sea pansy.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/sea_pansy.jpg)
+{{< resource "f01d4963-9e49-5b67-6a97-0b6b1f20e592" >}}{{< resource "3a9c843b-2c65-fc79-d7c3-a3c385a32211" >}}{{< resource "51e27964-808d-958d-7ea9-f32eb2baf6e3" >}}
 
 Left to right: Firefly photo courtesy of Eloise Mason ([Flickr](http://www.flickr.com/photos/eloisemason/235967054/)). Plasmid map. (Courtesy of Promega Corporation. Used with permission.) "Sea pansy" (Renilla reniformis) courtesy of NOAA.
 
@@ -27,7 +32,7 @@ Unexpectedly, there is little primary sequence similarity for luciferases from d
 
 In many ways, the assay for luciferase activity is a "standard" assay. The enzyme and substrate must react for a defined time and the amount of product gets recorded. What's a little unusual is that in this case the measured product is light and the light can be quantified using a luminometer. Today's reactions are slightly more advanced than standard ones in that you'll perform two sequential measurements. The first reaction is initiated with Beetle luciferin, a substrate for firefly luciferase. The light produced, called a "flash reaction” because it does not persist, will be measured for 10 seconds and then a reagent to stop the reaction will be added. The stop reagent also contains the substrate to initiate the second reaction. Coelenterazine reacts with Renilla luciferase in a "glow reaction” which decays more slowly but you will measure it for precisely 10 seconds so the lumens emitted can be compared to those from the firefly luciferase. There are several attractive aspects to these reactions including the assay's low cost, high speed, great sensitivity (to attomolar amounts of luciferase, that's 10-18th!) and wide dynamic range, linear through 7 orders of magnitude. It is also beneficial that there is no endogenous luciferase-luciferin pair in most experimental organisms.
 
-![Plasmid reaction.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/reaction.jpg)
+{{< resource "fc6abb06-eb9b-6afc-e8ce-809d4edcd7d6" >}}
 
 Plasmid reaction. (Courtesy of Promega Corporation. Used with permission.)
 
@@ -48,7 +53,7 @@ Two days ago, cells were prepared for you at a density of 1 X 10^5 cells/well in
 
 A schematic of your experiment is shown below.
 
-![Transfection scheme.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/schematic.jpg)
+{{< resource "4457667d-815b-8687-9670-723ed23771b0" >}}
 
 Transfection Scheme.
 
@@ -257,7 +262,7 @@ For Next Time
     *   Background subtraction: Background may come from light leaks into the luminometer, from autoluminescence of the reagents you used, or from other proteins in the cell lysates that might produce some light. Which sample you transfected today could be used to take these considerations into account?
     *   Normalization: In the RNAi experiment you have performed, the firefly luciferase should be unaffected by any of the siRNAs and thus can be used to normalize for transfection efficiency in each well. With the data you collected today, express each Renilla luciferase measurement as a fraction of the firefly luciferase value. What does a value less than one tell you? If you were to plot the ratios on an X-Y axis, would a four-fold increase and a four-fold decrease be visually equal?
 
-Write the Materials and Methods section for your lab report based on the material we've done so far, namely siRNA design, transfection, and luciferase assays (you'll have to read ahead to the next lab for the details of the samples you'll be really testing). You do not have to include M&M for the "practice luciferase reactions" you performed today as they are not fundamental to the experiment itself. Again consult the [Guidelines for writing a lab report]({{< baseurl >}}/pages/labs/guide_lab_notebook). Again, you and your lab partner can and should help each other. When it comes time to write, you must do so on your own. You and your lab partner will hand in individual assignments.
+Write the Materials and Methods section for your lab report based on the material we've done so far, namely siRNA design, transfection, and luciferase assays (you'll have to read ahead to the next lab for the details of the samples you'll be really testing). You do not have to include M&M for the "practice luciferase reactions" you performed today as they are not fundamental to the experiment itself. Again consult the {{% resource_link 292dd566-2882-ed17-bf2f-c47d70e7100d "Guidelines for writing a lab report" %}}. Again, you and your lab partner can and should help each other. When it comes time to write, you must do so on your own. You and your lab partner will hand in individual assignments.
 
 Reagents List
 -------------

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,6 +9,10 @@ parent_type: CourseSection
 parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 title: Lab Tour
 uid: d59d7606-9897-4e93-8741-aa4918add9d8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 There are six stations for you and your lab partner to visit on your lab tour today. Some will be guided tours with a TA or faculty there to help you and others are self-guided, leaving you and your partner to try things on your own. Your visit to each station will last 10-15 minutes. It doesn't matter which station you visit first but you must visit them all before you leave today. Your lab practical next time will assess your mastery of each station.
@@ -42,11 +47,11 @@ Much of biology examines natural components that are too small to see. Imaging t
 
 No matter how fine its lens, a light microscope cannot distinguish objects closer than 200 nm. The resolution of light microscopes is limited by both the wavelength of white light (300-700 nm) and the scattering of light by the object it strikes. For better resolution, great lenses must be combined with shorter wavelengths, such as those followed by electrons or lasers, and better ways of focusing the beam such as forcing it to travel through a vacuum or an oil. Linking the microscope to a computer with digital image processing can also enhance its images. The sample itself can also be stained or fluorescently tagged to improve detection of its features.
 
-![Conventional microscope.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/cnvntnl_mcrscope.jpg)
+{{< resource "9912a0e3-af43-6757-874c-d9f39eda5984" >}}
 
 Conventional microscope.
 
-![Fluorescent microscope.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/flrscnc_mcrscope.jpg)
+{{< resource "0824c259-caad-f3be-4965-f1963e07d049" >}}
 
 Fluorescent microscope.
 
@@ -66,11 +71,11 @@ Introduction to {{< anchor "Making_Solutions" >}}{{< /anchor >}}Making Solutions
 
 Today you will make 100 ml of a 0.5M sorbitol solution and measure its pH. Making solutions is a fundamental part of being in lab and the success of your experiments is absolutely dependent on doing it correctly and consistently. If you are unclear about any of the following instructions, be sure to ask for help.
 
-![Balance.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/balance.jpg)
+{{< resource "7bd6c90c-12b0-0e1d-261b-cffb1ab78c7a" >}}
 
 Balance.
 
-![pH meter.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/ph_meter.jpg)
+{{< resource "51756608-e743-1159-f604-17cf89e0b9fe" >}}
 
 pH meter.
 
@@ -105,17 +110,17 @@ Introduction to Our {{< anchor "Spectrophotometer" >}}{{< /anchor >}}Spectrophot
 
 Color is created when a white light strikes a molecule that then reflects light of a certain wavelength and absorbs all the others. A spectrophotometer is an instrument that measures the amount of light absorbed by a sample. It does this by shining light of a particular wavelength into a sample and measuring how much light comes all the way through. Samples are held in cuvettes between the light source and the detector.
 
-![Diagram of spectrophotometry process to measure absorbance.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/msrng_absrbnce.jpg)
+{{< resource "b50c422d-dcf7-5ab2-4175-66d0aa509669" >}}
 
 Measuring absorbance. (Figure by MIT OpenCourseWare.)
 
 Here are two important things to remember about spectrophotometers. First, different compounds absorb different wavelengths of light. Red pigments absorb blue light (light of ~300 nm wavelengths) and blue pigments absorb red light (light of ~600 nm wavelengths). Therefore all spectrophotometers have ways of adjusting the wavelength of light shining into the sample. The second important point is that the amount of light absorbed by a sample is directly proportional the concentration of that sample. This is a very useful relationship, making the spectrophotometer a valuable research tool.
 
-![Spectrophotometer.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/spectrophotometr.jpg)
+{{< resource "ade9e7df-fb83-3655-f93a-a28e9d52d764" >}}
 
 Spectrophotometer.
 
-![Cuvette holder.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/cuvetteholder.jpg)
+{{< resource "8d8ed308-7e39-7174-b8b2-de77e5169aef" >}}
 
 Cuvette holder.
 
@@ -138,7 +143,7 @@ In this assay you will calibrate your pipets by measuring the absorbance of the 
 2.  If the pipets were well calibrated and the measurements were done carefully, then the points should fall close to a straight line, and the r-squared will be close to 1. If one point seems way off, you can repeat the three measurements for that pipetman. If the second set of data does not look linear, we can clean the inner workings of your pipetman before you try the assay again.
 3.  There should also be good agreement between the 20 µl measurements made with the P20 and the P200 as well as the 100 µl measurements made with the P200 and P1000. Is there?
 
-![P20 calibration.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/p20calibration.jpg)![P200 calibration.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/p200calibration.jpg)![P1000 calibration.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/p1000calibration.jpg)
+{{< resource "5f50eed1-94d4-cb07-60c1-03e543a62201" >}}{{< resource "038f84f2-b384-1c18-7aaf-30486715501d" >}}{{< resource "1d60b24e-34da-601d-c86b-55546e0e75ff" >}}
 
 Left to right: P20 calibration, P200 calibration, and P1000 calibration.
 
@@ -150,7 +155,7 @@ The information and exercises provided here are intended to refresh your memory 
 
 This is the numerical language of science. Base units that you will most often use in this class are meters, grams, liters, and moles. These units will be appended with prefixes to modify the unit by a power of ten.
 
-10{{< sup "3" >}}  = 1000     = 1000/1    = 10{{< sup "3" >}}/1   kilo (k-) 10{{< sup "0" >}}  = 1        = 1/1       = 10{{< sup "0" >}} /1  base unit (-g, -l, -mole…) 10{{< sup "\\-3" >}} = 0.001    = 1/1000    = 1/10{{< sup "3" >}}   milli (m-) 10{{< sup "\\-6" >}} = 0.000001 = 1/1000000 = 1/10{{< sup "6" >}}   micro (µ-)
+10{{< sup "3" >}}  = 1000     = 1000/1    = 10{{< sup "3" >}}/1   kilo (k-) 10{{< sup "0" >}}  = 1        = 1/1       = 10{{< sup "0" >}} /1  base unit (-g, -l, -mole…) 10{{< sup "\-3" >}} = 0.001    = 1/1000    = 1/10{{< sup "3" >}}   milli (m-) 10{{< sup "\-6" >}} = 0.000001 = 1/1000000 = 1/10{{< sup "6" >}}   micro (µ-)
 
 Practice problems:
 
@@ -159,7 +164,7 @@ Practice problems:
 3.  The volume you want to measure is 100 ml. How many liters is that?
 4.  Your reaction generates 0.1 µmoles of product. How many mmoles is that?
 
-Scientific notation expresses numbers so there is one digit to the left of the decimal point and that number is multiplied by a power of ten. 2334 becomes 2.334 x 10{{< sup "3" >}} and 0.0041 becomes 4.1 x 10{{< sup "\\-3" >}}. Computations are easier with numbers in scientific notation and some numbers that are easier to write (602,214,199,000,000,000,000,000 versus 6.02 x 10{{< sup "23" >}}).
+Scientific notation expresses numbers so there is one digit to the left of the decimal point and that number is multiplied by a power of ten. 2334 becomes 2.334 x 10{{< sup "3" >}} and 0.0041 becomes 4.1 x 10{{< sup "\-3" >}}. Computations are easier with numbers in scientific notation and some numbers that are easier to write (602,214,199,000,000,000,000,000 versus 6.02 x 10{{< sup "23" >}}).
 
 Practice problems:
 
@@ -223,4 +228,4 @@ DONE!
     *   add the 20.109 home page to your "watch" list so you'll be notified by email when an announcement is made.
     *   add your user page to the class "People" page and put some information on your user page. Be careful about how you put your e-mail address on your page; make sure to spell out "at" or otherwise break your address up so it can't be scraped up by spambots.
 4.  Complete the student registration/questionnaire to turn in next time.
-5.  Be prepared to [Start up Genome Engineering]({{< baseurl >}}/pages/labs/mod1_1), by reading the introduction at that link. It describes some basic information that you'll need for the experiment that you'll start next time. Come to class next time familiar with some of the life cycle of the M13 bacteriophage as well as a copy of its [Genome Sequence](http://www.genomenewsnetwork.org/resources/whats_a_genome/Chp2_1.shtml).
+5.  Be prepared to {{% resource_link 7f7964e4-2595-1a59-8f84-d95cdcb5de44 "Start up Genome Engineering" %}}, by reading the introduction at that link. It describes some basic information that you'll need for the experiment that you'll start next time. Come to class next time familiar with some of the life cycle of the M13 bacteriophage as well as a copy of its [Genome Sequence](http://www.genomenewsnetwork.org/resources/whats_a_genome/Chp2_1.shtml).

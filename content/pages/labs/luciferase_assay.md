@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,9 +9,13 @@ parent_type: CourseSection
 parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 title: 'Module 2.3: Luciferase Assays and RNA Prep'
 uid: da42df1d-ffb9-a16b-951d-1267c9b1d8fa
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-Modules: [2.1]({{< baseurl >}}/pages/labs/sirna_design) | [2.2]({{< baseurl >}}/pages/labs/transfection) | 2.3 | [2.4]({{< baseurl >}}/pages/labs/mod2_4) | [2.5]({{< baseurl >}}/pages/labs/mod2_5) | [2.6]({{< baseurl >}}/pages/labs/mod2_6)
+Modules: {{% resource_link 7506446f-0ce3-4227-fbf7-0e265f4a7002 "2.1" %}} | {{% resource_link bbd13c95-2443-ade1-e9c6-5fff93334839 "2.2" %}} | 2.3 | {{% resource_link cd9396b1-623d-c638-8b39-94f34a2dccd5 "2.4" %}} | {{% resource_link cf154f53-d733-f827-825a-bd351c2db015 "2.5" %}} | {{% resource_link a26d0242-10aa-7e1f-9778-0a81bc2347cb "2.6" %}}
 
 Introduction
 ------------
@@ -19,7 +24,7 @@ Two images removed due to copyright restrictions.
 
 1\. Changing biological classification models — two to three to five kingdoms, now three domains of life. 2. The geocentric model of the solar system
 
-![Touched by His Noodly Appendage.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/touched.jpg)
+{{< resource "87e23ff4-b34d-a24b-6ee6-fd1e5c25358a" >}}
 
 FSM and the moment of creation. (Image courtesy of [Wikipedia](http://www.venganza.org/).)
 
@@ -64,7 +69,7 @@ Qiagen sells a kit for isolating RNA and we will be using their protocol and rea
 
 ### Part 2: Luciferase Assays
 
-These assays should be performed as you did last time. Refer to the [Module 2 Lab 2 protocol]({{< baseurl >}}/pages/labs/transfection) for any particulars of the assay that you may have forgotten.
+These assays should be performed as you did last time. Refer to the {{% resource_link bbd13c95-2443-ade1-e9c6-5fff93334839 "Module 2 Lab 2 protocol" %}} for any particulars of the assay that you may have forgotten.
 
 ### Part 3: Isolation of Total RNA
 
@@ -155,7 +160,7 @@ For Next Time
 3.  Read the following articles for a class discussion next time.
     *   The news story: Check, Erika. "RNA Interference: Hitting the Switch." _Nature_ 448 (2007): 855-8.
     *   The original paper, describing some work labeled "RNA activation": Li, Long-Cheng, et al. "[Small dsRNAs Induce Transcriptional Activation in Human Cells](http://www.pnas.org/cgi/content/abstract/103/46/17337)." _PNAS_ 103, no. 46 (2006): 17337-17342.
-        *   Questions to guide your reading and some background information can be found on the page associated with the next lab [Module 2 Day 4]({{< baseurl >}}/pages/labs/mod2_4). **You do not have to turn in the answers** to these questions but you will be asked to guide the class discussion around some of these topics so you must come to lab familiar with the content of the articles and ready to discuss the material.
+        *   Questions to guide your reading and some background information can be found on the page associated with the next lab {{% resource_link cd9396b1-623d-c638-8b39-94f34a2dccd5 "Module 2 Day 4" %}}. **You do not have to turn in the answers** to these questions but you will be asked to guide the class discussion around some of these topics so you must come to lab familiar with the content of the articles and ready to discuss the material.
 
 Reagents List
 -------------

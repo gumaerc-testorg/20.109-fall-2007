@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,6 +9,10 @@ parent_type: CourseSection
 parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 title: TA's Notes for Module 1
 uid: bdc20a7d-e0c2-9141-dc41-94e9e341221a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 General Notes
@@ -25,7 +30,7 @@ Before term begins:
 6.  Make 1L top agar, divide between autoclaved 250 ml bottles, 100 ml per bottle for reheating
 7.  Check volume/availability of needed kits, reagents:
     *   [M13KO7 from NEB](https://www.neb.com/products/n0315-m13ko7-helper-phage#Product%20Information)
-    *   restriction enzymes (BamHI, others on list of no cutters ([TXT]({{< baseurl >}}/resources/mod1_1_zerocut)))
+    *   restriction enzymes (BamHI, others on list of no cutters ({{% resource_link 924b6822-9024-9203-b914-75da7d476398 "TXT" %}}))
     *   Qiagen kit for agarose clean-up (need 1/pair of students)
     *   T4 DNA ligase and buffer for ligation mix
     *   super competent XL1-blue cells (need one tube of 200 µl/pair of students)

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,9 +9,13 @@ parent_type: CourseSection
 parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 title: 'Module 1.2: Agarose Gel Electrophoresis'
 uid: 0a3fc94e-dd53-6ee2-6aaf-17593e9a9a7d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-Modules: [1.1]({{< baseurl >}}/pages/labs/mod1_1) | 1.2 | [1.3]({{< baseurl >}}/pages/labs/mod1_3) | [1.4]({{< baseurl >}}/pages/labs/examine_clones) | [1.5]({{< baseurl >}}/pages/labs/mod1_5) | [1.6]({{< baseurl >}}/pages/labs/mod1_6) | [1.7]({{< baseurl >}}/pages/labs/mod1_7)
+Modules: {{% resource_link 7f7964e4-2595-1a59-8f84-d95cdcb5de44 "1.1" %}} | 1.2 | {{% resource_link db49fca7-cdc2-5384-74da-d305fa2b13e0 "1.3" %}} | {{% resource_link 1e64ebeb-ccfc-293a-a27c-6269d1dd0c40 "1.4" %}} | {{% resource_link 57397949-c673-e872-7d34-f9eeba887214 "1.5" %}} | {{% resource_link 6b023b7d-0017-7df6-1d56-533d6e1b41e8 "1.6" %}} | {{% resource_link 89bac614-a063-67bb-cc05-e887c5398227 "1.7" %}}
 
 Introduction
 ------------
@@ -19,7 +24,7 @@ Electrophoresis is a technique that separates large molecules by size using an a
 
 DNA and RNA are negatively charged molecules due to their phosphate backbone, and they naturally travel toward the positive charge at the far end of the gel. They are typically examined with agarose gels. Proteins are composed of amino acids that can be positively, negatively or uncharged. To give proteins a uniformly negative charge, they are coated with a detergent, SDS, prior to running them on a gel. Protein samples are also boiled to remove any secondary structure that might make two molecules of the same size migrate differently. Polyacrylamide is the matrix commonly used to separate proteins. These gels are typically run vertically while agarose gels are run horizontally but gravity has nothing to do with the separation.
 
-![Diagram of agarose gel setup.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/mod1_2_photo.jpg)
+{{< resource "d329fe15-4880-1b95-614e-492ca5e08a34" >}}
 
 Diagram of agarose gel setup, for agarose gel electrophoresis. (Figure by MIT OpenCourseWare.)
 
@@ -27,11 +32,11 @@ Today you will separate DNA fragments using an agarose matrix. Agarose is a poly
 
 The distance a DNA fragment travels is inversely proportional to its length. Over time fragments of similar length accumulate into “bands” in the gel. Higher concentrations of agarose can be used to resolve smaller DNA fragments. This figure shows the same DNA fragments resolved with three agarose concentrations. The 1000 base pair fragment is indicated in each.
 
-![DNA fragments resolved with three agarose concentrations at 0.7, 1.0 and 1.5%.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/mod1_2cncntrtn_ba.jpg)
+{{< resource "3ba88c95-afe9-a246-3ee0-cf5510695258" >}}
 
 DNA fragments resolved with three agarose concentrations. The line indicates the 1000 base pair fragment. (Figure by MIT OpenCourseWare.)
 
-![scanning_em.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/scanning_em.jpg)
+{{< resource "cf6176a3-1102-8bd5-dc3f-abf317191ac3" >}}
 
 Size vs. migration distance.
 
@@ -193,7 +198,7 @@ Empty
 
 {{< tableclose >}}
 
-![Diagram of loading agarose gel.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/mod1_2_agaro_gel.jpg)
+{{< resource "872825d1-3271-0d3d-b284-b156c3298b4f" >}}
 
 Loading a gel. (Figure by MIT OpenCourseWare.)
 
@@ -214,15 +219,15 @@ To purify your DNA from the agarose, you will use a kit sold by Qiagen. The reag
 
 One technique you will see several times this term is plating for plaques. The idea of this technique is simple. Since phage infection slows down the growth of bacteria, any phage-infected cell will grow less quickly than an uninfected one, giving rise to a zone that is more clear on a lawn of fully grown cells. This zone is called a plaque and by counting the number of plaques formed, it is possible to measure the number of infective phage in the sample you are testing. The number of infected phages is measured as PFUs, which is "plaque forming units per ml."
 
-![Plaques.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/plaques.jpg)
+{{< resource "4f330970-4aee-bdbb-82c8-37fd5a00e3a0" >}}
 
 Plaques formed by bacteriophage upon infection of susceptible bacteria. Source: Assorted Views of Bacteriophage Plaques. © Quiroz. Licensed for use, [ASM MicrobeLibrary](http://www.microbelibrary.org/).
 
 1.  Start by placing 6 LB plates in the 37° incubator to prewarm them. If there is any condensation on the surface of the plates, then you can leave the lids slightly ajar to dry the plate surface.
-2.  Aliquot 200 µl of bacteria into 6 small, sterile test tubes. The bacteria you are using are the strain [ER2267](https://www.neb.com/products/e4103-ecoli-k12-er2267?__cf_chl_jschl_tk__=aad45e3f59a58c43d604e22f7cf23155189d3b15-1576680611-0-AcaVePDN3t9fWChDDJO5PAr1n5CkINrGS-ltcrEHPpsjK-R5ZtpmLCamP55Gw3PYXV4ZvY0_zEEoh6DD4QSXfxi6Y0tijPKAxUBV4T6YTxlMjU54LkJYuOhmUuS0jb0mxDOuSGVfInvZC-Tz01cQMJIIGV6IgzSVtrmm7twmmwgZjw8KELNoFM_8dL7iEh5cL53Q7wJzLRYGh02nBjXYgX4nJdYrjScHHdZt8QcfF7CJ1A6tc6e5GRHGgtrsdo0NqjmsrNH4TJ8elZMTvtVRCXc4cQby6J_A7zqOGYzVChBMizfzsd0Tg8arOH10P03Rhw#Product%20Information) since this strain has a selectible F'. Label the tops of each tube with a colored sticker and one of the following: none, none, 10{{< sup "\\-4" >}} E4, 10{{< sup "\\-6" >}} E4, 10{{< sup "\\-4" >}} K07, 10{{< sup "\\-6" >}} K07.
-3.  The teaching faculty have two phage stocks for you to compare, an M13KO7 phage stock and a stock of another M13 phage called E4. You will need to serially dilute each stock, making stepwise 1/100 dilutions in eppendorf tubes. For example, add 10 µl of a phage stock to 990 µl sterile water for a 10{{< sup "\\-2" >}} dilution, then repeat, using 10 µl of the 10{{< sup "\\-2" >}} dilution into 990 µl sterile water to make a 10{{< sup "\\-4" >}} dilution. Vortex the dilutions before removing any liquid and change pipet tips to prepare each new dilution. Continue serially diluting the phage to final concentrations that are 10{{< sup "\\-4" >}}th and 10{{< sup "\\-6" >}}th as concentrated as the starting stock.
-4.  Mix 10 µl of one of the 10{{< sup "\\-4" >}} dilutions into a tube with bacteria.
-5.  Mix 10 µl of one of the 10{{< sup "\\-6" >}} dilution into another tube with bacteria.
+2.  Aliquot 200 µl of bacteria into 6 small, sterile test tubes. The bacteria you are using are the strain [ER2267](https://www.neb.com/products/e4103-ecoli-k12-er2267?__cf_chl_jschl_tk__=aad45e3f59a58c43d604e22f7cf23155189d3b15-1576680611-0-AcaVePDN3t9fWChDDJO5PAr1n5CkINrGS-ltcrEHPpsjK-R5ZtpmLCamP55Gw3PYXV4ZvY0_zEEoh6DD4QSXfxi6Y0tijPKAxUBV4T6YTxlMjU54LkJYuOhmUuS0jb0mxDOuSGVfInvZC-Tz01cQMJIIGV6IgzSVtrmm7twmmwgZjw8KELNoFM_8dL7iEh5cL53Q7wJzLRYGh02nBjXYgX4nJdYrjScHHdZt8QcfF7CJ1A6tc6e5GRHGgtrsdo0NqjmsrNH4TJ8elZMTvtVRCXc4cQby6J_A7zqOGYzVChBMizfzsd0Tg8arOH10P03Rhw#Product%20Information) since this strain has a selectible F'. Label the tops of each tube with a colored sticker and one of the following: none, none, 10{{< sup "\-4" >}} E4, 10{{< sup "\-6" >}} E4, 10{{< sup "\-4" >}} K07, 10{{< sup "\-6" >}} K07.
+3.  The teaching faculty have two phage stocks for you to compare, an M13KO7 phage stock and a stock of another M13 phage called E4. You will need to serially dilute each stock, making stepwise 1/100 dilutions in eppendorf tubes. For example, add 10 µl of a phage stock to 990 µl sterile water for a 10{{< sup "\-2" >}} dilution, then repeat, using 10 µl of the 10{{< sup "\-2" >}} dilution into 990 µl sterile water to make a 10{{< sup "\-4" >}} dilution. Vortex the dilutions before removing any liquid and change pipet tips to prepare each new dilution. Continue serially diluting the phage to final concentrations that are 10{{< sup "\-4" >}}th and 10{{< sup "\-6" >}}th as concentrated as the starting stock.
+4.  Mix 10 µl of one of the 10{{< sup "\-4" >}} dilutions into a tube with bacteria.
+5.  Mix 10 µl of one of the 10{{< sup "\-6" >}} dilution into another tube with bacteria.
 6.  Repeat with the dilutions of the other phage stock.
 7.  One of the teaching faculty will show you how to mix 3 ml of top agar into one of the uninfected samples you have prepared and how to pour the molten mix onto the surface of a prewarmed LB plate.
 8.  You and your partner should add top agar to the other uninfected sample and the four phage infected ones.
@@ -235,7 +240,7 @@ For Next Time
 -------------
 
 1.  Take the log10 of the length of each molecular weight marker you can identify on your agarose gel photograph. Graph the log{{< sub "10" >}} of their length on the y-axis versus the distance they migrated from the well on the x-axis, measured in mm using a ruler and the picture of your agarose gel. An example of such a graph is found in the introduction to today's experiment. Use the equation of the line from your graph to determine the size of your M13KO7 backbone (use the band in the lane in which you loaded the cut DNA). How does this measurement compare with the predicted size?
-2.  How many plaques do you expect if you plated 10 µl of a 10{{< sup "\\-8" >}} dilution of phage, if the titer of phage was 10{{< sup "12" >}}th plaque forming units/ml? How many plaques would you expect if you tested the phage stock on strain DH5?
+2.  How many plaques do you expect if you plated 10 µl of a 10{{< sup "\-8" >}} dilution of phage, if the titer of phage was 10{{< sup "12" >}}th plaque forming units/ml? How many plaques would you expect if you tested the phage stock on strain DH5?
 3.  The oligonucleotide you are adding to p3 uses traditional genetic engineering ("recombinant") techniques. These are powerful and precise ways to move single genes from one organism to another and to make useful chimeric protein products like the one you are now working on. Synthetic biology is a newer approach to programming cells. Please read one (or more!) of the following articles and then write a paragraph exploring the legitimacy of the following statement: "synthetic biology is about engineering while genetic engineering is about biology."
     *   Tucker, Jonathan B., and Raymond A. Zilinskas. "[The Promise and Perils of Synthetic Biology](http://www.thenewatlantis.com/archive/12/tuckerzilinskas.htm)." The New Atlantis, Spring 2006.
     *   Stone, Marcia. "[Life Redesigned to Suit the Engineering Crowd](http://direct.bl.uk/bld/PlaceOrder.do?UIN=200751107&ETOC=RN&from=searchengine)." Microbe, Fall 2006.

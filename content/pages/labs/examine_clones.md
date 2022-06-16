@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,9 +9,13 @@ parent_type: CourseSection
 parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 title: 'Module 1.4: Examine Candidate Clones'
 uid: 1e64ebeb-ccfc-293a-a27c-6269d1dd0c40
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-Modules: [1.1]({{< baseurl >}}/pages/labs/mod1_1) | [1.2]({{< baseurl >}}/pages/labs/mod1_2) | [1.3]({{< baseurl >}}/pages/labs/mod1_3) | 1.4 | [1.5]({{< baseurl >}}/pages/labs/mod1_5) | [1.6]({{< baseurl >}}/pages/labs/mod1_6) | [1.7]({{< baseurl >}}/pages/labs/mod1_7)
+Modules: {{% resource_link 7f7964e4-2595-1a59-8f84-d95cdcb5de44 "1.1" %}} | {{% resource_link 0a3fc94e-dd53-6ee2-6aaf-17593e9a9a7d "1.2" %}} | {{% resource_link db49fca7-cdc2-5384-74da-d305fa2b13e0 "1.3" %}} | 1.4 | {{% resource_link 57397949-c673-e872-7d34-f9eeba887214 "1.5" %}} | {{% resource_link 6b023b7d-0017-7df6-1d56-533d6e1b41e8 "1.6" %}} | {{% resource_link 89bac614-a063-67bb-cc05-e887c5398227 "1.7" %}}
 
 Introduction
 ------------
@@ -46,7 +51,7 @@ One of the teaching faculty has set up four overnight LB + kan cultures of bacte
 3.  Balance the eppendorf tubes in the microfuge, and then spin them for one minute.
 4.  Aspirate the supernatant, as shown, removing as few cells as possible.
     
-    ![Schematic showing how to aspirate the supernatant.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/removing_cells.jpg)
+    {{< resource "93a0ca82-246f-dce6-6e66-4a067070415f" >}}
     
     Aspirate the supernatant, as shown, removing as few cells as possible. Make sure to use a yellow pipet tip on the aspirator and change between samples. (Figure by MIT OpenCourseWare.)
     
