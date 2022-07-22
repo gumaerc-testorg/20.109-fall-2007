@@ -1,9 +1,18 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 1b88a657-74a1-a702-79bf-92c805387c4a
 title: Guidelines for Oral Presentations
 uid: d8d9ecac-1b70-8a9b-893b-b0ddce686319
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Scientific data is communicated in many ways. Data can be shared informally through email with a collaborator or in lab group meetings. Data can also be formally communicated as publications in peer-reviewed journals or as hour-long seminars at international meetings. Successful scientific careers require both written and oral presentations, and scientific reputations are based on BOTH. It is important to know that every presentation, no matter how informal, will build or hurt your reputation.

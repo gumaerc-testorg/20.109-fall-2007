@@ -1,19 +1,28 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 title: 'Module 1.3: DNA Ligation and Bacterial Transformation'
 uid: db49fca7-cdc2-5384-74da-d305fa2b13e0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-Modules: [1.1]({{< baseurl >}}/pages/labs/mod1_1) | [1.2]({{< baseurl >}}/pages/labs/mod1_2) | 1.3 | [1.4]({{< baseurl >}}/pages/labs/examine_clones) | [1.5]({{< baseurl >}}/pages/labs/mod1_5) | [1.6]({{< baseurl >}}/pages/labs/mod1_6) | [1.7]({{< baseurl >}}/pages/labs/mod1_7)
+Modules: {{% resource_link 7f7964e4-2595-1a59-8f84-d95cdcb5de44 "1.1" %}} | {{% resource_link 0a3fc94e-dd53-6ee2-6aaf-17593e9a9a7d "1.2" %}} | 1.3 | {{% resource_link 1e64ebeb-ccfc-293a-a27c-6269d1dd0c40 "1.4" %}} | {{% resource_link 57397949-c673-e872-7d34-f9eeba887214 "1.5" %}} | {{% resource_link 6b023b7d-0017-7df6-1d56-533d6e1b41e8 "1.6" %}} | {{% resource_link 89bac614-a063-67bb-cc05-e887c5398227 "1.7" %}}
 
 Introduction
 ------------
 
 Today you will ligate your linearized M13KO7 backbone with your oligonucleotide insert by mixing the two in the presence of ATP and an enzyme, T4 DNA ligase. During the ligation reactions, hydrogen bonds will form between the overhangs on the fragments, and then the ligase will repair the phosphate backbone, creating a stable circular plasmid
 
-![Diagram of DNA ligation.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/mod1_3_dnaligatn.jpg)
+{{< resource "459faa08-ec33-32ab-428c-52068e62ce5b" >}}
 
 Ligation Reactions. (Figure by MIT OpenCourseWare.)
 
@@ -23,13 +32,13 @@ Hopefully, your ligation reactions will generate your desired construct, namely 
 
 You will transform today's ligation reactions into bacteria. During 'transformation,' a single plasmid from the ligation mixture enters a single bacterium and, once inside, replicates and expresses the genes it encodes. One of the genes on the M13KO7 genome leads to kanamycin-resistance. Thus, a transformed bacterium will grow on agar medium containing kanamycin. Untransformed cells will die before they can form a colony on the agar surface.
 
-![Diagram showing bacterial transformation on an antibiotic medium.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/mod1_3_sche_bact.jpg)
+{{< resource "88e1e95b-b4ae-de64-60db-bb0924980b51" >}}
 
 Growing colonies on medium, showing that only bacteria with plasmid grow into colonies. (Figure by MIT OpenCourseWare.)
 
 ### Bacterial Transformation
 
-Most bacteria do not usually exist in a 'transformation ready' state, but the bacteria can be made permeable to the plasmid DNA, and cells that are capable of transformation are referred to as 'competent.' Competent cells are extremely fragile and should be handled gently, specifically kept cold and not vortexed. The transformation procedure is efficient enough for most lab purposes, with efficiencies as high as 109 transformed cells per microgram of DNA, but it is important to realize that even with high efficiency cells only 1 DNA molecule in about 10,000 is successfully transformed.
+Most bacteria do not usually exist in a 'transformation ready' state, but the bacteria can be made permeable to the plasmid DNA, and cells that are capable of transformation are referred to as 'competent.' Competent cells are extremely fragile and should be handled gently, specifically kept cold and not vortexed. The transformation procedure is efficient enough for most lab purposes, with efficiencies as high as 10{{< sup "9" >}} transformed cells per microgram of DNA, but it is important to realize that even with high efficiency cells only 1 DNA molecule in about 10,000 is successfully transformed.
 
 Protocols
 ---------

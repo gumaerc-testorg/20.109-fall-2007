@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: The syllabus section provides information on the layout of the class,
+  labs and assignments, the OpenWetWare Wiki, lab attendance, grading, recommended
+  citation, and the course calendar.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 7a75822e-1a83-50a4-b633-f6257443956b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 For many of you this will be the first time in a research lab and for others it will not, but it is our goal to make this class a useful and fun introduction to experiments and techniques in biological engineering. There is not time enough to show you everything you'll need to know if you go on to do research, but after taking this class you should feel confident and familiar with some fundamental experimental approaches and lab protocols. You will develop good habits at the bench, ones that will increase the likelihood of success in your work and ensure the health and safety of you and those around you. By the end of the semester, you should also be aware of good scientific practice, having had some experience with report writing, notebook keeping and publicly presenting your data. All of us involved in teaching 20.109 hope you will find it a satisfying challenge and an exciting experience that has lasting value.
@@ -96,14 +105,14 @@ These will vary considerably in content and points associated with each assignme
 
 ### Laboratory Notebooks
 
-You will record your data on the white pages of a bound notebook. The yellow, duplicate pages will be collected and evaluated by the teaching assistants. Be sure you follow the [guidelines for lab notebooks]({{< baseurl >}}/pages/labs/guide_lab_notebook). **Late work will be penalized 1/3 of a letter grade for each day late and will not be accepted after a week.**
+You will record your data on the white pages of a bound notebook. The yellow, duplicate pages will be collected and evaluated by the teaching assistants. Be sure you follow the {{% resource_link 292dd566-2882-ed17-bf2f-c47d70e7100d "guidelines for lab notebooks" %}}. **Late work will be penalized 1/3 of a letter grade for each day late and will not be accepted after a week.**
 
 OpenWetWare Wiki
 ----------------
 
 Since 20.109 is a lab class, we think the students, TAs and instructors would benefit from having a shared space in which to discuss experimental protocols and results. By putting all course materials on the [20.109 (Fall 2007) OpenWetWare Wiki](http://openwetware.org/wiki/20.109%28F07%29) , they can be updated and improved instantly by everyone (not just the instructors).
 
-[More about OpenWetWare use in 20.109]({{< baseurl >}}/pages/syllabus/usingopenwetware)
+{{% resource_link 4aad424f-cdab-13ff-214c-f76048b29a9a "More about OpenWetWare use in 20.109" %}}
 
 Lab Attendance
 --------------

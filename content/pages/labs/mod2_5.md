@@ -1,19 +1,28 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 title: 'Module 2.5: cDNA Synthesis and Microarray'
 uid: cf154f53-d733-f827-825a-bd351c2db015
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-Modules: [2.1]({{< baseurl >}}/pages/labs/sirna_design) | [2.2]({{< baseurl >}}/pages/labs/transfection) | [2.3]({{< baseurl >}}/pages/labs/luciferase_assay) | [2.4]({{< baseurl >}}/pages/labs/mod2_4) | 2.5 | [2.6]({{< baseurl >}}/pages/labs/mod2_6)
+Modules: {{% resource_link 7506446f-0ce3-4227-fbf7-0e265f4a7002 "2.1" %}} | {{% resource_link bbd13c95-2443-ade1-e9c6-5fff93334839 "2.2" %}} | {{% resource_link da42df1d-ffb9-a16b-951d-1267c9b1d8fa "2.3" %}} | {{% resource_link cd9396b1-623d-c638-8b39-94f34a2dccd5 "2.4" %}} | 2.5 | {{% resource_link a26d0242-10aa-7e1f-9778-0a81bc2347cb "2.6" %}}
 
 Introduction
 ------------
 
 Today you will use one tool, a DNA microarray, to simultaneously examine the expression of many genes. DNA microarrays are slides with DNA sequences spotted in a known order on the surface. The spots of DNA, each one smaller than the period at the end of this sentence, are placed on the slide surface with robotic arms or built one base at a time with photolithography. Each spot of DNA gets a unique address on the slide surface, and the identity and location of each spot get stored in the computerized "design file" for the array. The slide shown below is the same size as the one you'll use (1 x 3 inches) but yours will have 4 arrays each with 44,000 spots of DNA instead of the 250 dots shown!
 
-![DNA microarrays.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/mc_hd_nkdel_miar.jpg)
+{{< resource "03426022-eb77-4f2c-f589-c525d53e73d3" >}}
 
 DNA microarrays are slides with DNA sequences.
 
@@ -23,7 +32,7 @@ The GAPD and TERT spots can be used to illustrate how microarray data is generat
 
 For this example, the normal cells get green and the cancerous cells get red. The two colored samples are mixed and then simultaneously hybridized to a DNA microarray. The DNA spotted on the surface of the slide is in vast excess to either colored cDNA sample and so the intensity of each color will vary with the amount of RNA originally present in each sample. A gene expressed similarly in normal and cancerous cells, like the housekeeping GAPD gene, will give rise to a yellow spot in Row 6 Position 30 since equal amounts of green and red cDNA will be bound there and the merged color will appear yellow. By contrast, only red cDNA will bind at Row 4 Position 10 since cancerous cells express telomerase and normal cells do not.
 
-![Illustration on how microarray data is generated and interpreted.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/mc_nkdel_marhyb.jpg)
+{{< resource "bd829a87-9685-c2af-480a-a104402e0b4e" >}}
 
 The GAPD and TERT spots can be used to illustrate how microarray data is generated and interpreted.
 
@@ -40,7 +49,7 @@ Today you will convert the RNA isolated from your mouse cells into cDNA and hybr
 
 Creating cDNA from RNA is done using an enzyme called reverse transcriptase. Like all DNA polymerases, this enzyme can only add sequence to an existing chain and so needs a short "primer" to begin synthesis. To perform the cDNA synthesis, you will use a kit from a company named Genisphere. The primers in this kit have a special "capture sequence" at their 5' end. The capture sequences allow the cDNA to be reacted with Cy3 or Cy5 later.
 
-![Creating cDNA from RNA.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/mc_hd_nkdel_cdna.jpg)
+{{< resource "21aea629-1be9-6c2b-4123-7b8a527fa82b" >}}
 
 Creating cDNA from RNA is done using an enzyme called reverse transcriptase.
 
@@ -123,7 +132,7 @@ vial 11, **blue**
 
 ### Part 2: Practice Array Data Analysis
 
-Data for these exercises ([XLS]({{< baseurl >}}/resources/mod2_5_data))
+Data for these exercises ({{% resource_link 7ee23455-56e8-4141-ebbd-ec6e00515518 "XLS" %}})
 
 **You can decide to take notes on this in your notebook or to skip it...up to you.**
 
@@ -201,7 +210,7 @@ The arrays we will use are the [mouse whole genome microarrays](https://www.agil
 
 **To hybridize the arrays**
 
-![Layout of Agilent 4x44K whole mouse genome array.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/agilentarray.jpg)
+{{< resource "28051ada-b4bc-707f-920e-35ff9b2119a7" >}}
 
 Figure: Layout of Agilent 4x44K whole mouse genome array.
 

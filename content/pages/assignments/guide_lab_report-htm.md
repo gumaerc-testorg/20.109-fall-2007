@@ -1,9 +1,18 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 1b88a657-74a1-a702-79bf-92c805387c4a
 title: Guidelines for Writing a Lab Report
 uid: 78cab3c7-1f19-b0dc-a42f-cd3f15022f6d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 A formal lab report is the principle way scientific data are conveyed to the rest of the scientific community and preserved for future examination. Each scientific journal has its own idiosyncrasies regarding particulars of the format, but the most common elements of a scientific report, in order of presentation, are:
@@ -155,7 +164,7 @@ SECTION
 {{< thopen >}}
 GOAL
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 EVALUATION
 {{< thclose >}}
 
@@ -461,7 +470,7 @@ References not properly cited in body of report
 {{< thopen >}}
 WRITING STYLE AND MECHANICS
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 EVALUATION
 {{< thclose >}}
 

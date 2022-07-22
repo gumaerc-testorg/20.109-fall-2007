@@ -1,9 +1,18 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 title: TA's Notes for Module 1
 uid: bdc20a7d-e0c2-9141-dc41-94e9e341221a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 General Notes
@@ -14,14 +23,14 @@ Notes: NB271 is a strain that can be selected for on LB-Kan media. It does not c
 Before term begins:
 
 1.  Pour several liters of LB+Kan (~2L) and LB (~4L) plates.
-2.  Streak out NB251 (M13KO7) on LB+Kan. Make 16 overnight cultures (each 2.5 ml LB+Kan). Miniprep these for the vector DNA the next day. Resuspend each pellet in 50 µl H2O. You do not have to pool since each group in the class will be given one tube for their cloning experiment that starts on Day1 of the module. Store at -20°.
+2.  Streak out NB251 (M13KO7) on LB+Kan. Make 16 overnight cultures (each 2.5 ml LB+Kan). Miniprep these for the vector DNA the next day. Resuspend each pellet in 50 µl H{{< sub "2" >}}O. You do not have to pool since each group in the class will be given one tube for their cloning experiment that starts on Day1 of the module. Store at -20°.
 3.  Double-check volume of needed oligos: for cloning control, for sequencing.
 4.  NEB titers M13KO7 on their strain [ER2267](https://www.neb.com/products/e4103-ecoli-k12-er2267#Product%20Information) cat#E4103S. This strain is in the lab collection as NB271. Streak out a plate on LB+Kan so you will have colonies to pick for liquid cultures before phage titration. The Kan is important to select for the F'. This is just to check that the phage stock is still active.
 5.  Autoclave several racks of small and large test tubes.
 6.  Make 1L top agar, divide between autoclaved 250 ml bottles, 100 ml per bottle for reheating
 7.  Check volume/availability of needed kits, reagents:
     *   [M13KO7 from NEB](https://www.neb.com/products/n0315-m13ko7-helper-phage#Product%20Information)
-    *   restriction enzymes (BamHI, others on list of no cutters ([TXT](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/mod1_1_zerocut.txt)))
+    *   restriction enzymes (BamHI, others on list of no cutters ({{% resource_link 924b6822-9024-9203-b914-75da7d476398 "TXT" %}}))
     *   Qiagen kit for agarose clean-up (need 1/pair of students)
     *   T4 DNA ligase and buffer for ligation mix
     *   super competent XL1-blue cells (need one tube of 200 µl/pair of students)
@@ -153,7 +162,7 @@ Day before lab:
 2.  Start overnights of 7x NB251 liquid cultures for + control on Western (3 ml of LB+Kan in large tubes), each group needs ~1 ml.
 3.  Pour 2L of LB plates
 4.  Have protein gels and chambers
-5.  For each day, make microtubes of 1X sample buffer without BME (500 µl 2X + 400 µl H2O) add 100 µl of BME to both on day of lab (could parafilm after adding BME, save 2 days). Need <1 ml / group.
+5.  For each day, make microtubes of 1X sample buffer without BME (500 µl 2X + 400 µl H{{< sub "2" >}}O) add 100 µl of BME to both on day of lab (could parafilm after adding BME, save 2 days). Need \<1 ml / group.
 6.  Make 3 L of transfer buffer for each day and refrigerate
 7.  Make 1L 1X TBS-T in graduated cylinder, refrigerate, mix in 5% powdered milk close to lab day
 
@@ -165,7 +174,7 @@ Day of lab:
 2.  Turn on water baths and melt top agar
 3.  Protein gels and blot
     *   Students' candidates in liquid culture tubes
-    *   Blank for spec (900 µl H2O and 100 µl LB)
+    *   Blank for spec (900 µl H{{< sub "2" >}}O and 100 µl LB)
     *   Sample buffer + 100 µl BME
     *   Lid locks for microtubes in hood
     *   Boiling tank on hot plate in hood with boiling chips, be sure it's turned off once students are done.
@@ -180,9 +189,9 @@ Day of lab:
 4.  Plaque assay
     *   top agar, melted in microwave and kept in 55C water bath
     *   200 µl x 10 /group NB271(=ER2267) bacteria for plaque assay
-    *   106 dilution of positive phage control in microtube
+    *   10{{< sup "6" >}} dilution of positive phage control in microtube
     *   small sterile test tubes, 10/group
-    *   10 LB plates/group for plaque assay (no phage, + phage control, 4 dilutions supernatant: 100, 102, 104, 106, for each of two candidates)
+    *   10 LB plates/group for plaque assay (no phage, + phage control, 4 dilutions supernatant: 10{{< sup "0" >}}, 10{{< sup "2" >}}, 10{{< sup "4" >}}, 10{{< sup "6" >}}, for each of two candidates)
     *   5 ml pipets and Pipetmen
 
 Day 7
@@ -210,27 +219,27 @@ Recipes/Reagents
 ### Growth media
 
 1.  LB: 10g Tryptone, 5g Yeast Extract, 10g NaCl per liter. 20g of Agar for plates. Autoclave 30 minutes with stirbar. Pour when ~55°. Let plates dry ON on bench and store in sleeves in 4°. For LB-Kan plates, add the Kan after autoclaving, once the mixture has cooled down.
-2.  Top Agar: 10g Tryptone, 5g Yeast Extract, 10g NaCl, 1g MgCl2\*6H2O 7g Agar per liter. Autoclave then aliquot to 50 ml conical tubes or bottles. Store at RT. Melt in microwave in beaker of water, 2’ then keep molten in 55° water bath.
-3.  Amp: 100 mg/ml in H2O. Filter and store at 4°. Use at 1:1000 in liq media. 2ml/L in plates
+2.  Top Agar: 10g Tryptone, 5g Yeast Extract, 10g NaCl, 1g MgCl2\*6H{{< sub "2" >}}O 7g Agar per liter. Autoclave then aliquot to 50 ml conical tubes or bottles. Store at RT. Melt in microwave in beaker of water, 2’ then keep molten in 55° water bath.
+3.  Amp: 100 mg/ml in H{{< sub "2" >}}O. Filter and store at 4°. Use at 1:1000 in liq media. 2ml/L in plates
 4.  Tet: 20 mg/ml MeOH. Keep in dark at 4°. Use at 1:1000 in liq media. 1ml/L in plates
-5.  Kan: 25 mg/ml in H2O. Filter and store at 4°. Use at 1:1000 in liq media. 2ml/L in plates.
+5.  Kan: 25 mg/ml in H{{< sub "2" >}}O. Filter and store at 4°. Use at 1:1000 in liq media. 2ml/L in plates.
 
 ### DNA Miniprep
 
-1.  Soln I for miniprep: 2.3 ml 40% glucose, 2.5 ml 1M Tris 8, 2 ml 0.5M EDTA. To 100 ml with good H2O. Store at RT
-2.  Soln II for miniprep: equal parts 2% SDS (2g/100 ml H2 O): 0.4M NaOH (1.6g/100 ml H2O). Store components at RT. Mix just enough just before using.
-3.  Soln III for miniprep: 29.4 g KAc dissolved in 60 ml H2O. Add 11.5 ml glacial acetic acid. Bring to 100 ml final volume. Store at RT.
+1.  Soln I for miniprep: 2.3 ml 40% glucose, 2.5 ml 1M Tris 8, 2 ml 0.5M EDTA. To 100 ml with good H{{< sub "2" >}}O. Store at RT
+2.  Soln II for miniprep: equal parts 2% SDS (2g/100 ml H{{< sub "2" >}} O): 0.4M NaOH (1.6g/100 ml H{{< sub "2" >}}O). Store components at RT. Mix just enough just before using.
+3.  Soln III for miniprep: 29.4 g KAc dissolved in 60 ml H{{< sub "2" >}}O. Add 11.5 ml glacial acetic acid. Bring to 100 ml final volume. Store at RT.
 
 ### Agarose Gel
 
 1.  DNA gel: 1% agarose gel in 1X TAE, 1 g agarose, 100mL 1X TAE, 2 µl EtBr (wear nitrile gloves when handling EtBr!)
 2.  Loading dye for agarose gel: 250 µl 1% XC (xylene cyanol), 750 µl 40% glycerol, 10 µl RNase. Store at RT
-3.  1kb marker: 10 µl 1kb marker stock (in -20 freezer), 10 µl loading dye, 90 µl H2O
+3.  1kb marker: 10 µl 1kb marker stock (in -20 freezer), 10 µl loading dye, 90 µl H{{< sub "2" >}}O
 4.  Western Blot
 5.  5X TBE 5.4% Tris base, 2.75% Boric Acid, 10mM EDTA, pH 8.0
-6.  2X sample dye for protein gel (no BME): 4 ml 10% SDS, 5 ml 40% glycerol, 1 ml 1M Tris 6.8, 0.5 ml <1% bromophenol blue, stocks on NK's bench
-7.  1X sample dye for protein gel: 500 µl 2X sample dye, 400 µl H2O, 100 µl BME
+6.  2X sample dye for protein gel (no BME): 4 ml 10% SDS, 5 ml 40% glycerol, 1 ml 1M Tris 6.8, 0.5 ml \<1% bromophenol blue, stocks on NK's bench
+7.  1X sample dye for protein gel: 500 µl 2X sample dye, 400 µl H{{< sub "2" >}}O, 100 µl BME
 8.  Running Buffer: 1X TGS (10X from BioRad: 161-0772)
-9.  Western Transfer Buffer: 3.03 g Trizma base, 14.4g glycine, 200 ml methanol to 1L with good H2O. Store at 4°C. (25 mM Tris, 192 mM glycine, 20% v/v methanol)
-10.  TBS-T: Dilute 100 ml 10X TBS with 900 ml H2O then add 10 ml 10% Tween20
+9.  Western Transfer Buffer: 3.03 g Trizma base, 14.4g glycine, 200 ml methanol to 1L with good H{{< sub "2" >}}O. Store at 4°C. (25 mM Tris, 192 mM glycine, 20% v/v methanol)
+10.  TBS-T: Dilute 100 ml 10X TBS with 900 ml H{{< sub "2" >}}O then add 10 ml 10% Tween20
 11.  TBS-T + 5% milk: add 2.5g milk powder to 50 ml TBS-T per blot

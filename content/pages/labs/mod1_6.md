@@ -1,17 +1,26 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 title: 'Module 1.6: Western Analysis'
 uid: 6b023b7d-0017-7df6-1d56-533d6e1b41e8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-Modules: [1.1]({{< baseurl >}}/pages/labs/mod1_1) | [1.2]({{< baseurl >}}/pages/labs/mod1_2) | [1.3]({{< baseurl >}}/pages/labs/mod1_3) | [1.4]({{< baseurl >}}/pages/labs/examine_clones) | [1.5]({{< baseurl >}}/pages/labs/mod1_5) | 1.6 | [1.7]({{< baseurl >}}/pages/labs/mod1_7)
+Modules: {{% resource_link 7f7964e4-2595-1a59-8f84-d95cdcb5de44 "1.1" %}} | {{% resource_link 0a3fc94e-dd53-6ee2-6aaf-17593e9a9a7d "1.2" %}} | {{% resource_link db49fca7-cdc2-5384-74da-d305fa2b13e0 "1.3" %}} | {{% resource_link 1e64ebeb-ccfc-293a-a27c-6269d1dd0c40 "1.4" %}} | {{% resource_link 57397949-c673-e872-7d34-f9eeba887214 "1.5" %}} | 1.6 | {{% resource_link 89bac614-a063-67bb-cc05-e887c5398227 "1.7" %}}
 
 Introduction
 ------------
 
-![Creative drawing of whimsical creatures and a DNA double helix.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/introduction.jpg)
+{{< resource "1937de87-dab9-267b-fb14-f9e1440844ac" >}}
 
 Image courtesy of Justin Lo. Used with permission.
 
@@ -202,10 +211,10 @@ The bacterial strains will be lysed to release all their proteins.
 
 You will use the plaque assay to titer the supernatant from the candidate strains you are following. This will allow you to determine (if/how many) phage have been secreted by your cells carrying the modified p3 phage protein. You will include a positive and negative control for the assay as well.
 
-1.  Titer the supernatant from the candidates you're running on the SDS-PAGE, examining dilutions that are 10\-8, 10\-10, and 10\-12 of the starting concentration.
+1.  Titer the supernatant from the candidates you're running on the SDS-PAGE, examining dilutions that are 10{{< sup "\-8" >}}, 10{{< sup "\-10" >}}, and 10{{< sup "\-12" >}} of the starting concentration.
 2.  As a negative control, you should set up a plate with bacteria and top agar but without any phage.
-3.  As a positive control, you should set up a plate with bacteria and top agar and 10 µl of 10\-8 dilution of the supernatant from the M13KO7-infected cells you're running on the SDS-PAGE.
-4.  Consult your lab notebook or the protocol from day 2 of this module ([Agarose gel electrophoresis]({{< baseurl >}}/pages/labs/mod1_2)) if you need reminding about how to perform the plaque assay.
+3.  As a positive control, you should set up a plate with bacteria and top agar and 10 µl of 10{{< sup "\-8" >}} dilution of the supernatant from the M13KO7-infected cells you're running on the SDS-PAGE.
+4.  Consult your lab notebook or the protocol from day 2 of this module ({{% resource_link 0a3fc94e-dd53-6ee2-6aaf-17593e9a9a7d "Agarose gel electrophoresis" %}}) if you need reminding about how to perform the plaque assay.
 
 DONE!
 
