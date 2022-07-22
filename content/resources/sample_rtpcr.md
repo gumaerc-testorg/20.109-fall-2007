@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
@@ -24,4 +25,3 @@ video_metadata:
   youtube_id: null
 ---
 Sample RT-PCR data, fig 12A and 12B. Source: Li, Long-Cheng, et al. "Small dsRNAs Induce Transcriptional Activation in Human Cells." PNAS 103 no. 46 (2006): 17337-42. (2006 National Academy of Sciences, U.S.A. Used with permission.
-

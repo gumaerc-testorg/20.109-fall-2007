@@ -6,6 +6,7 @@ file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Example of student work: Expression of dsRNA in Spirogyna algae to inhibit development of malaria carrying mosquitoes.
-

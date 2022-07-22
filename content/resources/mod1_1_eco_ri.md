@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
@@ -24,4 +25,3 @@ video_metadata:
   youtube_id: null
 ---
 EcoRI cuts between the G and the A on each strand of DNA, leaving a single stranded DNA overhang (also called a "sticky end") when the strands separate. (Figure by MIT OpenCourseWare.)
-

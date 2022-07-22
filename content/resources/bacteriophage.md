@@ -12,6 +12,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
@@ -25,4 +26,3 @@ video_metadata:
   youtube_id: null
 ---
 Figure 1. Electron micrographs of microphage described by Specthrie, et al. Source: Specthrie, L., et al. "Construction of a Microphage Variant of Filamentous Bacteriophage." J Mol Biol 228, no. 3 (December 5, 1992): 720-724. Courtesy of Elsevier, Inc. ScienceDirect. Used with permission.
-

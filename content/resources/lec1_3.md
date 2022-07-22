@@ -7,6 +7,7 @@ file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on how synthetic biology relates to genetic engineering, and implementing reliable physical and functional composition via standard biological parts.
-

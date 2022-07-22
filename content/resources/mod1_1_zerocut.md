@@ -5,6 +5,7 @@ file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-200
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: mod1_1_zerocut.txt
 uid: 924b6822-9024-9203-b914-75da7d476398
 ---
 TA's Notes for Module 1 on available enzymes that don't cut M13K07.
-
