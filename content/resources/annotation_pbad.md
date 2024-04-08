@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Step 4c: add weak promoter.'
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/fd8016031f80fce4cdc3a6703c28da36_annotation_pbad.jpg
+file_size: 33214
 file_type: image/jpeg
 image_metadata:
   caption: ''

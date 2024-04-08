@@ -2,6 +2,7 @@
 content_type: resource
 description: Spectrophotometer.
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/ade9e7dffb833655f93aa28e9d52d764_spectrophotometr.jpg
+file_size: 80898
 file_type: image/jpeg
 image_metadata:
   caption: ''

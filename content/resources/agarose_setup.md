@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/8c5b7cb3f649bd848caeaa16b5bf4812_agarose_setup.jpg
+file_size: 26205
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -2,6 +2,7 @@
 content_type: resource
 description: T7.1 refactoring algorithm.
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/ba9d73cf9533c34337919b35c6db5464_surrogate_13.jpg
+file_size: 20948
 file_type: image/jpeg
 image_metadata:
   caption: ''

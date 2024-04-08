@@ -2,6 +2,7 @@
 content_type: resource
 description: Counting cells using a hemocytometer.
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/06cb4616f9e61736fa773c3c2b52e62b_hemocytometer.jpg
+file_size: 22136
 file_type: image/jpeg
 image_metadata:
   caption: ''

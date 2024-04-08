@@ -2,6 +2,7 @@
 content_type: resource
 description: Plasmid reaction. (Courtesy of Promega Corporation. Used with permission.)
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/fc6abb06eb9b6afce8ce809d4edcd7d6_reaction.jpg
+file_size: 28028
 file_type: image/jpeg
 image_metadata:
   caption: ''

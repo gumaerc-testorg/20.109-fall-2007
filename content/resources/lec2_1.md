@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture slides on expression engineering, siRNA design, and introduction
   to cell culture.
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/787806243cdbd167c32f0914c7bb2b23_lec2_1.pdf
+file_size: 1052176
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

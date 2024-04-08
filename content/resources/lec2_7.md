@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture slides on expression engineering and high throughput technologies.
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/929195a66bdbbe085ece502cdbc82b76_lec2_7.pdf
+file_size: 401483
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

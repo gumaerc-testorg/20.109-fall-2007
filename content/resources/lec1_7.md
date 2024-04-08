@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture slides on environmental health and safety.
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/998985685d28fc5895eaaf761aa172d3_lec1_7.pdf
+file_size: 1124837
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

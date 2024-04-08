@@ -22,7 +22,7 @@ Part 1: Rebuttal to Editorial
 
 This will be written as a homework assignment associated with lab module 1.4 (Examine candidate clones), exchanged with your lab partner for peer review, then submitted to the teaching faculty as part of your portfolio. **This portion of the assignment accounts for up to 15% of your grade**.
 
-Essay 1: Choose **one** of the following quotes to address. Both come from Andrew Pollack in the New York Times, Tuesday, Jan 17, 2006, [Custom-Made Microbes, at Your Service](http://query.nytimes.com/gst/fullpage.html?sec=health&res=9B03E6DA143FF934A25752C0A9609C8B63) which quotes Professor Arnold of Caltech as saying:
+Essay 1: Choose **one** of the following quotes to address. Both come from Andrew Pollack in the New York Times, Tuesday, Jan 17, 2006, {{% resource_link "2cc08c57-69ac-4441-affc-1e641303fd28" "Custom-Made Microbes, at Your Service" %}} which quotes Professor Arnold of Caltech as saying:
 
 *   "(Synthetic Biology) has a catchy new name, but anybody over 40 will recognize it as good old genetic engineering applied to more complex problems."
 
@@ -293,7 +293,7 @@ In no more than three pages provide a business plan that includes:
     *   Who are your customers
     *   What the future holds for the registry in particular and synthetic biololgy more generally
     *   What you see as the key to success
-*   This summary should sound enthusiastic, professional and [be more readable](http://www.dilbert.com/comics/dilbert/games/career/bin/ms.cgi) than most "mission statements."
+*   This summary should sound enthusiastic, professional and {{% resource_link "53217465-06f3-4f41-82ab-484c672ed82a" "be more readable" %}} than most "mission statements."
 *   Consider writing this section after you've written the rest of the plan.
 
 *   Describe what the Registry is, including products, services, customers, ownership, history, location, facilities.
@@ -347,4 +347,4 @@ Here are some questions you might consider as you formulate your business plan:
 *   How will you set prices?
 *   What kind of guarantees and privacy protects will you offer?
 
-This section has no defined length or format but should end on an enthusiastic note that might lead some venture capital firm or a funding agency to stay interested. A helpful link on persuasive writing techniques is [here](http://grammar.ccc.commnet.edu/grammar/composition/argument.htm).
+This section has no defined length or format but should end on an enthusiastic note that might lead some venture capital firm or a funding agency to stay interested. A helpful link on persuasive writing techniques is {{% resource_link "7cd3c734-7a1c-4346-bdc4-07c78c8e92fc" "here" %}}.

@@ -2,6 +2,7 @@
 content_type: resource
 description: Figure 2. Cartoon of phage life cycle.
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/95bb556c328b4450e9db5046f77188e2_life_cycle.jpg
+file_size: 18866
 file_type: image/jpeg
 image_metadata:
   caption: ''

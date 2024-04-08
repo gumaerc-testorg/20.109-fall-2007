@@ -19,7 +19,7 @@ What is OpenWetWare?
 
 OpenWetWare is a wiki (an application designed to make it easy to create, edit and organize webpages) for biological science and engineering. It basically provides a common space for people to share information about protocols, materials, research projects, meetings or anything else that might be of interest to users.
 
-Also see [OpenWetWare: About](http://openwetware.org/wiki/OpenWetWare:About).
+Also see {{% resource_link "018c0e1d-2232-4eb8-9b43-f6ba27cd40c9" "OpenWetWare: About" %}}.
 
 Why are we using OpenWetWare in 20.109?
 ---------------------------------------
@@ -31,7 +31,7 @@ For instance, one problem often encountered when teaching people new lab techniq
 How do I get an account?
 ------------------------
 
-Fill out the form at [how to join](http://openwetware.org/wiki/OpenWetWare:How_to_join) to register for an account on OpenWetWare. You will be sent an email with your account information. Once you have an account, you can login from any webbrowser by clicking the login link at the top right corner of the browser window.
+Fill out the form at {{% resource_link "2508c36e-3ec6-4b2e-af11-2aa86665ac6a" "how to join" %}} to register for an account on OpenWetWare. You will be sent an email with your account information. Once you have an account, you can login from any webbrowser by clicking the login link at the top right corner of the browser window.
 
 What should I contribute?
 -------------------------
@@ -49,12 +49,12 @@ Basically use OpenWetWare however it might be useful to you. If you think OpenWe
 How do I contribute?
 --------------------
 
-Once you have an account, the best way to learn how to edit the wiki is to look at existing pages. Click the "edit" tab at the top of a page to view the "source code" for the page. If you want to play around to see how things appear, you can do that in the [Sandbox](http://openwetware.org/wiki/Sandbox) or even on your own user page.
+Once you have an account, the best way to learn how to edit the wiki is to look at existing pages. Click the "edit" tab at the top of a page to view the "source code" for the page. If you want to play around to see how things appear, you can do that in the {{% resource_link "b41e2ea9-7f4d-4d8f-9d57-35bdc1ee73df" "Sandbox" %}} or even on your own user page.
 
-If you have a question about how encode something in wiki markup language, try googling. There are lots of reference sources out there since OpenWetWare is based on the same software as [Wikipedia](http://en.wikipedia.org/wiki/Main_Page). Other reference pages include
+If you have a question about how encode something in wiki markup language, try googling. There are lots of reference sources out there since OpenWetWare is based on the same software as {{% resource_link "b266ffcf-82f1-46bf-ac2b-74f1de87e72a" "Wikipedia" %}}. Other reference pages include
 
-*   The [help page](http://openwetware.org/wiki/Help:Contents) which shows up in the sidebar of every page.
-*   In particular, see [Simple wiki editing examples](http://openwetware.org/wiki/Simple_wiki_editing_examples) for a quick how-to on wiki editing.
+*   The {{% resource_link "dd059e45-1f0b-4a6f-88b2-3027c2165274" "help page" %}} which shows up in the sidebar of every page.
+*   In particular, see {{% resource_link "168d6718-22fb-486e-a5eb-7371db88ac66" "Simple wiki editing examples" %}} for a quick how-to on wiki editing.
 
 Why should I contribute?
 ------------------------
