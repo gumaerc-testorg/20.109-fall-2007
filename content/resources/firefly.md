@@ -2,6 +2,7 @@
 content_type: resource
 description: Firefly photo courtesy of Eloise Mason (Flickr).
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/f01d49639e495b676a970b6b1f20e592_firefly.jpg
+file_size: 7025
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -2,6 +2,7 @@
 content_type: resource
 description: Gel for green and purple groups, WF.
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/982b6b4248c809c54fb5bb1239269a79_wf_green_purple.jpg
+file_size: 49773
 file_type: image/jpeg
 image_metadata:
   caption: ''

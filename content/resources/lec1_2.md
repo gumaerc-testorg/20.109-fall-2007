@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on standard biological parts, reliable physical composition,
   reliable functional composition, and how synthetic biology relates to genetic engineering.
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/b703dd882eefd8825186ec61f18ea1fa_lec1_2.pdf
+file_size: 110324
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

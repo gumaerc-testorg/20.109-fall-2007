@@ -2,6 +2,7 @@
 content_type: resource
 description: Plasmid map. (Courtesy of Promega Corporation. Used with permission.)
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/3a9c843b2c65fc79d7c3a3c385a32211_plasmid_map.jpg
+file_size: 10794
 file_type: image/jpeg
 image_metadata:
   caption: ''
