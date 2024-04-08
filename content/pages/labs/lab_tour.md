@@ -218,14 +218,14 @@ DONE!
 
 1.  Review today's lab to prepare for the lab practical that you and your partner will take together.
 2.  Complete the required EHS Training on-line.
-    *   There are two Web-based training modules required for 20.109, accessed through [MIT's Environmental Health and Safety](https://ehs.mit.edu/) page. They are **Chemical Hygiene Training and Managing Hazardous Waste**. Chemical Hygiene includes 7 sections and 6 quizzes with an estimated completion time of 1 hour. The Managing Hazardous Waste training is one quiz and should take less than ½ hour to complete.
+    *   There are two Web-based training modules required for 20.109, accessed through {{% resource_link "bed3ee4b-1f29-4af8-a289-2f119d2699f9" "MIT's Environmental Health and Safety" %}} page. They are **Chemical Hygiene Training and Managing Hazardous Waste**. Chemical Hygiene includes 7 sections and 6 quizzes with an estimated completion time of 1 hour. The Managing Hazardous Waste training is one quiz and should take less than ½ hour to complete.
     *   **If you have completed EHS training in a UROP or in another lab class, you do not need to repeat the training but you do need to print out your training record to hand in**.
     *   From the EHS training page select the second button labeled "I have EHS training requirements for an academic subject."
     *   Your summary page ("My EHS Training") should show Chemical Hygiene and Managing Hazardous Waste as requirements for 20.109. Click on the purple button "Go to Web Classes" right above the training requirements section. You may stop and start the Web-based courses as many times as you need to for completion. The software keeps track of where you are in the course.
     *   **Print the certificate of completion to turn in next time**.
-3.  Register for an account on [OpenWetWare](http://openwetware.org/wiki/Main_Page) by filling out the "Join OWW" form. Once you get an account:
+3.  Register for an account on {{% resource_link "f1800833-df77-436f-8a8b-72412215f083" "OpenWetWare" %}} by filling out the "Join OWW" form. Once you get an account:
     *   familiarize yourself with using the wiki by reading the "OpenWetWare Basics" page.
     *   add the 20.109 home page to your "watch" list so you'll be notified by email when an announcement is made.
     *   add your user page to the class "People" page and put some information on your user page. Be careful about how you put your e-mail address on your page; make sure to spell out "at" or otherwise break your address up so it can't be scraped up by spambots.
 4.  Complete the student registration/questionnaire to turn in next time.
-5.  Be prepared to {{% resource_link 7f7964e4-2595-1a59-8f84-d95cdcb5de44 "Start up Genome Engineering" %}}, by reading the introduction at that link. It describes some basic information that you'll need for the experiment that you'll start next time. Come to class next time familiar with some of the life cycle of the M13 bacteriophage as well as a copy of its [Genome Sequence](http://www.genomenewsnetwork.org/resources/whats_a_genome/Chp2_1.shtml).
+5.  Be prepared to {{% resource_link 7f7964e4-2595-1a59-8f84-d95cdcb5de44 "Start up Genome Engineering" %}}, by reading the introduction at that link. It describes some basic information that you'll need for the experiment that you'll start next time. Come to class next time familiar with some of the life cycle of the M13 bacteriophage as well as a copy of its {{% resource_link "775edaf9-b030-485c-9502-4288f8ccb157" "Genome Sequence" %}}.

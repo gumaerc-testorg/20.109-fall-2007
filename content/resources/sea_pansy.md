@@ -2,6 +2,7 @@
 content_type: resource
 description: '"Sea pansy" (Renilla reniformis) courtesy of NOAA.'
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/51e27964808d958d7ea9f32eb2baf6e3_sea_pansy.jpg
+file_size: 9023
 file_type: image/jpeg
 image_metadata:
   caption: ''

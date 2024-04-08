@@ -3,6 +3,7 @@ content_type: resource
 description: TEM of M13E4 after CoCl2/NaBH4 treatment, image courtesy of Natalie Kuldell,
   Anthony Garratt-Reed and KiTae Nam.
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/107cc2df38d637210a4e167abed29179_tem_of_m13e4.jpg
+file_size: 32135
 file_type: image/jpeg
 image_metadata:
   caption: ''

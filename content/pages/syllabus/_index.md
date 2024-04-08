@@ -110,7 +110,7 @@ You will record your data on the white pages of a bound notebook. The yellow, du
 OpenWetWare Wiki
 ----------------
 
-Since 20.109 is a lab class, we think the students, TAs and instructors would benefit from having a shared space in which to discuss experimental protocols and results. By putting all course materials on the [20.109 (Fall 2007) OpenWetWare Wiki](http://openwetware.org/wiki/20.109%28F07%29) , they can be updated and improved instantly by everyone (not just the instructors).
+Since 20.109 is a lab class, we think the students, TAs and instructors would benefit from having a shared space in which to discuss experimental protocols and results. By putting all course materials on the {{% resource_link "699e1e10-0d8f-4800-a0cb-cf5275c1f171" "20.109 (Fall 2007) OpenWetWare Wiki" %}} , they can be updated and improved instantly by everyone (not just the instructors).
 
 {{% resource_link 4aad424f-cdab-13ff-214c-f76048b29a9a "More about OpenWetWare use in 20.109" %}}
 

@@ -2,6 +2,7 @@
 content_type: resource
 description: Balance.
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/7bd6c90c12b00e1d261bcffb1ab78c7a_balance.jpg
+file_size: 91739
 file_type: image/jpeg
 image_metadata:
   caption: ''

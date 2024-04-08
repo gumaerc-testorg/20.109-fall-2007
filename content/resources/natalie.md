@@ -2,6 +2,7 @@
 content_type: resource
 description: Child jumping through sprinkler, with sunlight. Photo by Natalie Kuldell.
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/df3860eef8eceaa51334dafd105233b4_natalie.jpg
+file_size: 22401
 file_type: image/jpeg
 image_metadata:
   caption: ''

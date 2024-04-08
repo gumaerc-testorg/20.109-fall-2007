@@ -25,11 +25,11 @@ Before term begins:
 1.  Pour several liters of LB+Kan (~2L) and LB (~4L) plates.
 2.  Streak out NB251 (M13KO7) on LB+Kan. Make 16 overnight cultures (each 2.5 ml LB+Kan). Miniprep these for the vector DNA the next day. Resuspend each pellet in 50 µl H{{< sub "2" >}}O. You do not have to pool since each group in the class will be given one tube for their cloning experiment that starts on Day1 of the module. Store at -20°.
 3.  Double-check volume of needed oligos: for cloning control, for sequencing.
-4.  NEB titers M13KO7 on their strain [ER2267](https://www.neb.com/products/e4103-ecoli-k12-er2267#Product%20Information) cat#E4103S. This strain is in the lab collection as NB271. Streak out a plate on LB+Kan so you will have colonies to pick for liquid cultures before phage titration. The Kan is important to select for the F'. This is just to check that the phage stock is still active.
+4.  NEB titers M13KO7 on their strain {{% resource_link "c29cdf4e-441a-4779-9b47-8a32296fd5bf" "ER2267" %}} cat#E4103S. This strain is in the lab collection as NB271. Streak out a plate on LB+Kan so you will have colonies to pick for liquid cultures before phage titration. The Kan is important to select for the F'. This is just to check that the phage stock is still active.
 5.  Autoclave several racks of small and large test tubes.
 6.  Make 1L top agar, divide between autoclaved 250 ml bottles, 100 ml per bottle for reheating
 7.  Check volume/availability of needed kits, reagents:
-    *   [M13KO7 from NEB](https://www.neb.com/products/n0315-m13ko7-helper-phage#Product%20Information)
+    *   {{% resource_link "3de52cff-193c-4ebd-b329-629b43cfc6c5" "M13KO7 from NEB" %}}
     *   restriction enzymes (BamHI, others on list of no cutters ({{% resource_link 924b6822-9024-9203-b914-75da7d476398 "TXT" %}}))
     *   Qiagen kit for agarose clean-up (need 1/pair of students)
     *   T4 DNA ligase and buffer for ligation mix

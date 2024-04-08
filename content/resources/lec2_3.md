@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture slides on expression engineering, luciferase assays, and RNA.
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/3402a654f6a4561d241dcac741be88d5_lec2_3.pdf
+file_size: 637220
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

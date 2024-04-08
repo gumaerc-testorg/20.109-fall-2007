@@ -2,6 +2,7 @@
 content_type: resource
 description: Jalview of sequence alignment.
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/79dff8dc516aedbf4b42e71298b9b33e_dna_alignment.jpg
+file_size: 30974
 file_type: image/jpeg
 image_metadata:
   caption: ''

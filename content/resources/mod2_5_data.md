@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Data file for Module 2.5: cDNA Synthesis and Microarray.'
 file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/7ee2345556e84141ebbdec6e00515518_mod2_5_data.xls
+file_size: 288768
 file_type: application/msword
 learning_resource_types:
 - Labs
