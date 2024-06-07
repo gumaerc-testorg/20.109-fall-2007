@@ -1,6 +1,7 @@
 ---
 content_type: page
-description: ''
+description: This section contains details on the assignment for Module 1.
+draft: false
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -14,53 +15,37 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
 Portfolio components:
 
-Part 1: Rebuttal to Editorial
------------------------------
+## Part 1: Rebuttal to Editorial
 
 This will be written as a homework assignment associated with lab module 1.4 (Examine candidate clones), exchanged with your lab partner for peer review, then submitted to the teaching faculty as part of your portfolio. **This portion of the assignment accounts for up to 15% of your grade**.
 
-Essay 1: Choose **one** of the following quotes to address. Both come from Andrew Pollack in the New York Times, Tuesday, Jan 17, 2006, {{% resource_link "2cc08c57-69ac-4441-affc-1e641303fd28" "Custom-Made Microbes, at Your Service" %}} which quotes Professor Arnold of Caltech as saying:
+Essay 1: Choose **one** of the following quotes to address. Both come from Andrew Pollack in the New York Times, Tuesday, Jan 17, 2006, [Custom-Made Microbes, at Your Service](http://query.nytimes.com/gst/fullpage.html?sec=health&res=9B03E6DA143FF934A25752C0A9609C8B63) which quotes Professor Arnold of Caltech as saying:
 
-*   "(Synthetic Biology) has a catchy new name, but anybody over 40 will recognize it as good old genetic engineering applied to more complex problems."
+- "(Synthetic Biology) has a catchy new name, but anybody over 40 will recognize it as good old genetic engineering applied to more complex problems."
 
 and
 
-*   "There is no such thing as a standard component, because even a standard component works differently depending on the environment. The expectation that you can type in a sequence and can predict what a circuit will do is far from reality and always will be."
+- "There is no such thing as a standard component, because even a standard component works differently depending on the environment. The expectation that you can type in a sequence and can predict what a circuit will do is far from reality and always will be."
 
-Essay 2: "Editorial: Meaning of Life." In _Nature_ (2007) 447: 1031-1032:
+Essay 2: "Editorial: Meaning of Life." In *Nature* (2007) 447: 1031-1032:
 
-*   "it would be a service...to dismiss the idea that life is a precise scientific concept"
+- "it would be a service…to dismiss the idea that life is a precise scientific concept"
 
-Part 2: M13.1 Redesign Description and Parts
---------------------------------------------
+## Part 2: M13.1 Redesign Description and Parts
 
 Submit your annotated sequence as well as a human-readable text to describe your refactoring. What do you need to do exactly? First, choose a section of the M13.1 scaffold in which you will do your refactoring work (you should choose what you want to refactor based on what seems interesting or important to you). Do not try to refactor all of M13. Only one section between two unique restriction endonuclease sites. Second, design the sequence of DNA for your refactored section of the M13 genome (**Note**: your DNA sequence must start and end with two of the available unique restriction endonuclease sites across the M13 genome). Third, provide the annotated sequence for your refactored section (follow the color scheme suggested, or a better, clearly defined scheme of your own). Don't do anything fancy. A rich text file, word document, or powerpoint file should be good enough. Fourth, provide a one paragraph description of what the purpose or goal of your refactored section is (e.g., what will it test? or, what new function will it provide?). Also, include a cost estimate for your refactored section ($1.35 per bp) and tell us whether or not you think we should have the section synthesized (GO or NO GO). We will quickly check your designs (regardless of GO/NO GO), follow-up w/ any questions, and then order them for DNA synthesis (if you or we say GO). Because we are trying to do this v. quickly this term, it is very important that your clearly annotate your designed sequence (so that we can check it), and provide a good written paragraph describing what your design goals are (so that we can more readily understand what you are hoping to do). **This portion of the assignment accounts for up to 40% of your grade**.
 
-Redesign Ideas from 20.109 (S07)
---------------------------------
+## Redesign Ideas from 20.109 (S07)
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 GENE
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 IDEAS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 II
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Make p2 sensitive to and perhaps degraded by any one of various stimuli (e.g. heat, light, pH, chemical input) so replication can be regulated
 
@@ -82,16 +67,9 @@ Modify so it can nick foreign DNA (e.g. the E. coli's) and the phage can replica
 
 Remove p2 and p5 to see if the bacteria still make the phage gene products without replicating the phage DNA
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 X
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Make p10 sensitive to a different stimulus than p2 to again regulate replication
 
@@ -109,16 +87,9 @@ Make pX more active so that more + strands will accumulate, allowing the host ce
 
 Extract from gene II
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 V
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Add a tag different from p8 (e.g. RFP) to determine what stage of the phage life cycle it is in or to monitor levels of p5-ssDNA complex
 
@@ -142,16 +113,9 @@ Add more DNA binding sites to see if more DNA can be packaged into phage
 
 Add some base pairs between V and VII to allow for a restriction site
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 VII
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Alter gene so protein adopts different/more flexible conformation. A change in conformation might expand the different residues that can be attatched to its N-terminal portion
 
@@ -169,16 +133,9 @@ Increase it's expression to learn more about its function
 
 Tag protein to monitor interaction with p5/DNA complex
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 IX
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Modify p9 to bind to p3 to create long filaments of phage lined up end to end
 
@@ -192,16 +149,9 @@ Modify beginning and end sequences so that g9 does not overlap with g7 and g8
 
 Modify the p9 so that it can bind to bacterial surface proteins (the way p3 does) — see if this allows the phage to interact with other bacteria (now that both ends of the phage can bind and perhaps bridge the two bacterial cells)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 VIII
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Add epitope or other tags, e.g. x-ray sensitive, UV sensitive, flourescent
 
@@ -219,16 +169,9 @@ Add a small protein to the gene for p8 to amplify because p8 is synthesized so m
 
 uncoupled gene for p8 from the gene for p9
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 III
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Add epitope or other tags, e.g. X-ray sensitive, UV sensitive, flourescent
 
@@ -248,39 +191,30 @@ Delay the time at which the p3/p6 cap is added by making p3 expression a functio
 
 Change the GTG to ATG start
 
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< tdclose >}}
+## Part 3: Data Summary for p3-Modifications You Performed in Lab
 
-{{< trclose >}}
+Consult the {{% resource_link "fc19e690-0ca7-af8b-d48d-3a5a9e329f01" "Guidelines for writing a lab report" %}}. Additionally, many of the "for next time" assignments can get you started on this part of the portfolio. Including but not limited to:
 
-{{< tableclose >}}
-
-  
-
-Part 3: Data Summary for p3-Modifications You Performed in Lab
---------------------------------------------------------------
-
-Consult the {{% resource_link fc19e690-0ca7-af8b-d48d-3a5a9e329f01 "Guidelines for writing a lab report" %}}. Additionally, many of the "for next time" assignments can get you started on this part of the portfolio. Including but not limited to:
-
-*   Table: Oligonucleotide design, sequence consequences for phage when inserted and sequence data
-*   Table: Ligation results
-*   Figure: Agarose gel examining candidate clones
-*   Figure: Western results
-*   Table: Plaque assay
-*   Short paragraph for each table and figure describing and interpreting what's shown
-*   One or two sentence summary of your experimental results
-*   One or two sentence proposal for what you'd do next if we had one more month to spend on this project
+- Table: Oligonucleotide design, sequence consequences for phage when inserted and sequence data
+- Table: Ligation results
+- Figure: Agarose gel examining candidate clones
+- Figure: Western results
+- Table: Plaque assay
+- Short paragraph for each table and figure describing and interpreting what's shown
+- One or two sentence summary of your experimental results
+- One or two sentence proposal for what you'd do next if we had one more month to spend on this project
 
 **This portion of the assignment accounts for up to 20% of your grade.**
 
-Part 4: Mini-business Plan for the Registry of Standard Biological Parts
-------------------------------------------------------------------------
+## Part 4: Mini-business Plan for the Registry of Standard Biological Parts
 
 Put yourself 5 years in the future and imagine that the Registry is floundering. Though the number of useful parts has grown through the hard work and dedication of its volunteer workforce in the iGEM program, there is a notable lack of standards:
 
-*   around the parts themselves (some work always, some in rare conditions, some not at all)
-*   around the assembly process (alternative biobricks and registries have gained popularity)
-*   and around documentation for the parts (some have great spec sheets and some have nothing)
+- around the parts themselves (some work always, some in rare conditions, some not at all)
+- around the assembly process (alternative biobricks and registries have gained popularity)
+- and around documentation for the parts (some have great spec sheets and some have nothing)
 
 Decide that you will direct the Registry into a manufacturing, service, high tech, or retail business and then devise a plan to grow and stabilize that business. **This portion of the assignment accounts for up to 25% of your grade.**
 
@@ -288,34 +222,34 @@ In no more than three pages provide a business plan that includes:
 
 ### 1\. An Executive Summary
 
-*   In 250 words or fewer, explain:
-    *   What is your product
-    *   Who are your customers
-    *   What the future holds for the registry in particular and synthetic biololgy more generally
-    *   What you see as the key to success
-*   This summary should sound enthusiastic, professional and {{% resource_link "53217465-06f3-4f41-82ab-484c672ed82a" "be more readable" %}} than most "mission statements."
-*   Consider writing this section after you've written the rest of the plan.
-
-*   Describe what the Registry is, including products, services, customers, ownership, history, location, facilities.
-*   Include strengths and core competencies of the Registry.
-*   Segue into the next section by mentioning the significant challenges faced in the near and long term.
-*   This section should be no longer than 2 paragraphs.
+- In 250 words or fewer, explain:   
+      
+    - What is your product
+    - Who are your customers
+    - What the future holds for the registry in particular and synthetic biololgy more generally
+    - What you see as the key to success
+- This summary should sound enthusiastic, professional and be more readable than most "mission statements."
+- Consider writing this section after you've written the rest of the plan.
+- Describe what the Registry is, including products, services, customers, ownership, history, location, facilities.
+- Include strengths and core competencies of the Registry.
+- Segue into the next section by mentioning the significant challenges faced in the near and long term.
+- This section should be no longer than 2 paragraphs.
 
 ### 2\. Summary of the Current Registry
 
-*   Describe what the Registry is, including products, services, customers, ownership, history, location, facilities.
-*   Include strengths and core competencies of the Registry.
-*   Segue into the next section by mentioning the significant challenges faced in the near and long term.
-*   This section should be no longer than 2 paragraphs.
+- Describe what the Registry is, including products, services, customers, ownership, history, location, facilities.
+- Include strengths and core competencies of the Registry.
+- Segue into the next section by mentioning the significant challenges faced in the near and long term.
+- This section should be no longer than 2 paragraphs.
 
 ### 3\. Market Analysis
 
 Dedicate one paragraph to a description of the market. You might consider including information like:
 
-*   Who makes up your market?
-*   What is it's size now? how fast is it growing? how do you know?
-*   What percentage of the market do you expect the Registry to have now and 5 years from now?
-*   How could changes in technology, government, and the economy affect your business?
+- Who makes up your market?
+- What is it's size now? how fast is it growing? how do you know?
+- What percentage of the market do you expect the Registry to have now and 5 years from now?
+- How could changes in technology, government, and the economy affect your business?
 
 ### 4\. Business Plan
 
@@ -323,28 +257,28 @@ Specify your strategy for continued growth of the Registry. The emphasis of this
 
 Here are some questions you might consider as you formulate your business plan:
 
-*   How will you promote the use of the Registry?
-*   How will you advertise?
-*   How will you price your product/services?
-*   Where will you locate the Registry (or BioBrick franchises) and how you will distribute parts/services?
-*   How you will keep the Registry competitive?
-*   How/if you will protect intellectual property while also promoting sharing and community?
-*   Does your plan emphasize increased production, diversification, or eventual sale of franchises?
-*   How long will your strategy take to be partially or fully realized?
-*   Are there start-up costs associated with your business model? How much and where will the capital come from?
-*   Will your registry require insurance coverage or litigation insurance?
-*   Are there trademarks, copyrights, or patents (pending, existing, or purchased) considerations?
-*   How many and what kind (skilled, unskilled, and professional) of employees to you anticipate?
-*   Where will you recruit employees?
-*   Will top notch employees advance? To what?
-*   How will you training employees?
-*   What kind of inventory will you keep: raw materials, supplies, finished goods?
-*   Will there be seasonal fluctuations to demand for parts?
-*   Will you need lead-time for ordering?
-*   Do you expect shortages or delivery problems?
-*   Are supply costs steady? Reliable?
-*   Will you sell parts on credit?
-*   How will you set prices?
-*   What kind of guarantees and privacy protects will you offer?
+- How will you promote the use of the Registry?
+- How will you advertise?
+- How will you price your product/services?
+- Where will you locate the Registry (or BioBrick franchises) and how you will distribute parts/services?
+- How you will keep the Registry competitive?
+- How/if you will protect intellectual property while also promoting sharing and community?
+- Does your plan emphasize increased production, diversification, or eventual sale of franchises?
+- How long will your strategy take to be partially or fully realized?
+- Are there start-up costs associated with your business model? How much and where will the capital come from?
+- Will your registry require insurance coverage or litigation insurance?
+- Are there trademarks, copyrights, or patents (pending, existing, or purchased) considerations?
+- How many and what kind (skilled, unskilled, and professional) of employees to you anticipate?
+- Where will you recruit employees?
+- Will top notch employees advance? To what?
+- How will you training employees?
+- What kind of inventory will you keep: raw materials, supplies, finished goods?
+- Will there be seasonal fluctuations to demand for parts?
+- Will you need lead-time for ordering?
+- Do you expect shortages or delivery problems?
+- Are supply costs steady? Reliable?
+- Will you sell parts on credit?
+- How will you set prices?
+- What kind of guarantees and privacy protects will you offer?
 
-This section has no defined length or format but should end on an enthusiastic note that might lead some venture capital firm or a funding agency to stay interested. A helpful link on persuasive writing techniques is {{% resource_link "7cd3c734-7a1c-4346-bdc4-07c78c8e92fc" "here" %}}.
+This section has no defined length or format but should end on an enthusiastic note that might lead some venture capital firm or a funding agency to stay interested.

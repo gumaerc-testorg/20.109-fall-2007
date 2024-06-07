@@ -26,7 +26,7 @@ Check, Erika. "RNA Interference: Hitting the Switch." _Nature_ 448 (2007): 855-8
 
 The original paper:
 
-Li, Long-Cheng, et al. "{{% resource_link "82551c52-f933-4e08-ab70-904eac14a895" "Small dsRNAs Induce Transcriptional Activation in Human Cells" %}}." _PNAS_ 103, no. 46 (2006): 17337-42.
+Li, Long-Cheng, et al. "[Small dsRNAs Induce Transcriptional Activation in Human Cells](http://www.pnas.org/cgi/content/abstract/103/46/17337)." _PNAS_ 103, no. 46 (2006): 17337-42.
 
 Questions to Guide Your Reading
 -------------------------------
@@ -40,7 +40,7 @@ Helpful information and guidelines for reading are presented here. Questions you
 
 2\. Next skim the whole scientific article by Li et al. This means read the abstract once. Read the first and last sentence of the introduction. Read the subdivision headings of the Results section. Look at all the figures and their legends. Read the first and last paragraph of the Discussion.
 
-3\. Now it's time to really comb through the data. We'll focus on the reported results, including the {{% resource_link "c2936851-67e8-45f2-8efa-c9679c2b430f" "supplemental information" %}}. To help you organize the material, a few links and tables are given here.
+3\. Now it's time to really comb through the data. We'll focus on the reported results, including the [supplemental information](http://www.pnas.org/cgi/content/full/0607015103/DC1). To help you organize the material, a few links and tables are given here.
 
 3A. Experimental Matrix
 -----------------------
@@ -123,7 +123,7 @@ Where the treatment variation is shown above the gel lanes, the intensity of the
 
 ### RT-PCR (also sometimes called q-PCR)
 
-See {{% resource_link "f9ef0c8d-c439-436e-bcef-a8abc4c3734d" "this link" %}} for some description of RNA measurement techniques including RT-PCR. You might also want to learn a little about standard PCR if you're not already familiar with this technique. Most biology textbooks describe PCR or you could look at some animations of the process, for example {{% resource_link "7b10b925-4dd7-4761-a4c0-2e3b7b41fb4a" "here" %}}, just follow the links through "techniques" and "amplifying DNA."
+See [this link](http://openwetware.org/wiki/BE.109:Systems_engineering/Measuring_DNA,_RNA,_protein) for some description of RNA measurement techniques including RT-PCR. You might also want to learn a little about standard PCR if you're not already familiar with this technique. Most biology textbooks describe PCR or you could look at some animations of the process, for example [here](http://www.dnai.org/b/index.html), just follow the links through "techniques" and "amplifying DNA."
 
 {{< resource "5626c9f5-d00a-d897-818d-32264a42b35a" >}}
 
@@ -177,4 +177,4 @@ Prepare a figure from the digital photographs you took of your cells last time. 
 
 Calculate the volume for 4 µg, 2 µg, 1 µg and 0.5 µg of each RNA sample that you prepared. Show your work. Save a copy of your answer since you'll need to know this volume to perform your experiment.
 
-Please familiarize yourself with the basics of microarrays by reading {{% resource_link "75c6d685-c9e0-4e09-b35d-f0cebd963615" "NCBI's primer on the technique" %}}.
+Please familiarize yourself with the basics of microarrays by reading [NCBI's primer on the technique](http://www.ncbi.nlm.nih.gov/genome/probe/doc/TechMicroarray.shtml).

@@ -39,7 +39,7 @@ DNA fragments resolved with three agarose concentrations. The line indicates the
 
 Size vs. migration distance.
 
-{{% resource_link "6adcde2c-ff0a-4930-ad44-050d2429f6fc" "Ethidium Bromide" %}} is a fluorescent dye that is commonly added to agarose gels. This dye intercalates between the bases of DNA, allowing DNA fragments to be located in the gel under UV light and photographed. The intensity of the band reflects the concentration of molecules that size, although there are upper and lower limits to the sensitivity of dyes. Because of its interaction with DNA, **ethidium bromide is a powerful mutagen** and will interact with the DNA in your body just as it does with any DNA on a gel. You should always handle all gels and gel equipment with gloves. Agarose gels with Ethidium Bromide must be disposed as hazardous waste in the labelled container in the fume hood.
+[Ethidium Bromide](http://openwetware.org/wiki/Ethidium_Bromide) is a fluorescent dye that is commonly added to agarose gels. This dye intercalates between the bases of DNA, allowing DNA fragments to be located in the gel under UV light and photographed. The intensity of the band reflects the concentration of molecules that size, although there are upper and lower limits to the sensitivity of dyes. Because of its interaction with DNA, **ethidium bromide is a powerful mutagen** and will interact with the DNA in your body just as it does with any DNA on a gel. You should always handle all gels and gel equipment with gloves. Agarose gels with Ethidium Bromide must be disposed as hazardous waste in the labelled container in the fume hood.
 
 Today you will run your M13KO7 digested samples on an agarose gel, cut the linearized backbone out of your gel and then purify the DNA from the agarose. Next time you will mix the backbone and insert in a ligation reaction.
 
@@ -62,7 +62,7 @@ VOLUMES TO LOAD
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "06052331-931e-4a6c-879b-dda7731491aa" "1 kb Marker" %}}
+[1 kb Marker](https://www.neb.com/products/n0468-quick-load-1-kb-dna-ladder#Quality,%20Safety%20&%20Legal_Specifications)
 {{< tdclose >}}{{< tdopen >}}
 5 µl
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -86,7 +86,7 @@ Empty
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "06052331-931e-4a6c-879b-dda7731491aa" "1 kb Marker" %}}
+[1 kb Marker](https://www.neb.com/products/n0468-quick-load-1-kb-dna-ladder#Quality,%20Safety%20&%20Legal_Specifications)
 {{< tdclose >}}{{< tdopen >}}
 5 µl
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -144,10 +144,10 @@ One technique you will see several times this term is plating for plaques. The i
 
 {{< resource uuid="4f330970-4aee-bdbb-82c8-37fd5a00e3a0" >}}
 
-Plaques formed by bacteriophage upon infection of susceptible bacteria. Source: Assorted Views of Bacteriophage Plaques. © Quiroz. Licensed for use, {{% resource_link "11136c87-a55a-42b7-a620-48537f1e2bb0" "ASM MicrobeLibrary" %}}.
+Plaques formed by bacteriophage upon infection of susceptible bacteria. Source: Assorted Views of Bacteriophage Plaques. © Quiroz. Licensed for use, [ASM MicrobeLibrary](http://www.microbelibrary.org/).
 
 1. Start by placing 6 LB plates in the 37° incubator to prewarm them. If there is any condensation on the surface of the plates, then you can leave the lids slightly ajar to dry the plate surface.
-2. Aliquot 200 µl of bacteria into 6 small, sterile test tubes. The bacteria you are using are the strain {{% resource_link "cfea0202-7d83-4084-ac51-d8c1ea2bee17" "ER2267" %}} since this strain has a selectible F'. Label the tops of each tube with a colored sticker and one of the following: none, none, 10{{< sup "\-4" >}} E4, 10{{< sup "\-6" >}} E4, 10{{< sup "\-4" >}} K07, 10{{< sup "\-6" >}} K07.
+2. Aliquot 200 µl of bacteria into 6 small, sterile test tubes. The bacteria you are using are the strain [ER2267](https://www.neb.com/products/e4103-ecoli-k12-er2267?__cf_chl_jschl_tk__=aad45e3f59a58c43d604e22f7cf23155189d3b15-1576680611-0-AcaVePDN3t9fWChDDJO5PAr1n5CkINrGS-ltcrEHPpsjK-R5ZtpmLCamP55Gw3PYXV4ZvY0_zEEoh6DD4QSXfxi6Y0tijPKAxUBV4T6YTxlMjU54LkJYuOhmUuS0jb0mxDOuSGVfInvZC-Tz01cQMJIIGV6IgzSVtrmm7twmmwgZjw8KELNoFM_8dL7iEh5cL53Q7wJzLRYGh02nBjXYgX4nJdYrjScHHdZt8QcfF7CJ1A6tc6e5GRHGgtrsdo0NqjmsrNH4TJ8elZMTvtVRCXc4cQby6J_A7zqOGYzVChBMizfzsd0Tg8arOH10P03Rhw#Product%20Information) since this strain has a selectible F'. Label the tops of each tube with a colored sticker and one of the following: none, none, 10{{< sup "\-4" >}} E4, 10{{< sup "\-6" >}} E4, 10{{< sup "\-4" >}} K07, 10{{< sup "\-6" >}} K07.
 3. The teaching faculty have two phage stocks for you to compare, an M13KO7 phage stock and a stock of another M13 phage called E4. You will need to serially dilute each stock, making stepwise 1/100 dilutions in eppendorf tubes. For example, add 10 µl of a phage stock to 990 µl sterile water for a 10{{< sup "\-2" >}} dilution, then repeat, using 10 µl of the 10{{< sup "\-2" >}} dilution into 990 µl sterile water to make a 10{{< sup "\-4" >}} dilution. Vortex the dilutions before removing any liquid and change pipet tips to prepare each new dilution. Continue serially diluting the phage to final concentrations that are 10{{< sup "\-4" >}}th and 10{{< sup "\-6" >}}th as concentrated as the starting stock.
 4. Mix 10 µl of one of the 10{{< sup "\-4" >}} dilutions into a tube with bacteria.
 5. Mix 10 µl of one of the 10{{< sup "\-6" >}} dilution into another tube with bacteria.
@@ -164,9 +164,9 @@ DONE!
 1. Take the log10 of the length of each molecular weight marker you can identify on your agarose gel photograph. Graph the log{{< sub "10" >}} of their length on the y-axis versus the distance they migrated from the well on the x-axis, measured in mm using a ruler and the picture of your agarose gel. An example of such a graph is found in the introduction to today's experiment. Use the equation of the line from your graph to determine the size of your M13KO7 backbone (use the band in the lane in which you loaded the cut DNA). How does this measurement compare with the predicted size?
 2. How many plaques do you expect if you plated 10 µl of a 10{{< sup "\-8" >}} dilution of phage, if the titer of phage was 10{{< sup "12" >}}th plaque forming units/ml? How many plaques would you expect if you tested the phage stock on strain DH5?
 3. The oligonucleotide you are adding to p3 uses traditional genetic engineering ("recombinant") techniques. These are powerful and precise ways to move single genes from one organism to another and to make useful chimeric protein products like the one you are now working on. Synthetic biology is a newer approach to programming cells. Please read one (or more!) of the following articles and then write a paragraph exploring the legitimacy of the following statement: "synthetic biology is about engineering while genetic engineering is about biology."
-    - Tucker, Jonathan B., and Raymond A. Zilinskas. "{{% resource_link "c8f2e29e-c93d-48b3-9b76-b4805e7bc978" "The Promise and Perils of Synthetic Biology" %}}." The New Atlantis, Spring 2006.
-    - Stone, Marcia. "{{% resource_link "9c431e70-1596-4c3c-bcc5-9ffbd4c7827e" "Life Redesigned to Suit the Engineering Crowd" %}}." Microbe, Fall 2006.
-    - Marguet, P., et al. "Biology by Design: Reduction and Synthesis of Cellular Components and Behaviour." Journal of the *Royal Society Interface* 4 no. 15 (August 22, 2007): 607-623. ({{% resource_link "d186fa99-ed48-42e1-a65c-d24dcb0931f9" "PDF" %}})
+    - Tucker, Jonathan B., and Raymond A. Zilinskas. ["The Promise and Perils of Synthetic Biology." (PDF)](https://www.thenewatlantis.com/wp-content/uploads/legacy-pdfs/TNA12-TuckerZilinskas.pdf) New Atlantis, Spring 2006.
+    - Stone, Marcia. ["Life Redesigned to Suit the Engineering Crowd." (PDF)](https://web.archive.org/web/20180612142707/https://pdfs.semanticscholar.org/8d45/e0f37a0fb6c1a3c659c71ee9c52619b18364.pdf) Microbe, Fall 2006.
+    - Marguet, P., et al. "Biology by Design: Reduction and Synthesis of Cellular Components and Behaviour." Journal of the *Royal Society Interface* 4 no. 15 (August 22, 2007): 607-623. ([PDF](http://www.duke.edu/~you/publications/marguet_etal.pdf))
 
 ## Reagents list
 
@@ -179,7 +179,7 @@ DONE!
     - 40 mM Tris-acetate
     - 1 mM EDTA
     - pH 8.3
-- {{% resource_link "5e1b8094-77d2-4fac-94e8-77593a1d80f8" "1 kb Marker" %}}
+- [1 kb Marker](https://www.neb.com/en-us/products/n0468-quick-load-1-kb-dna-ladder#Quality,%20Safety%20&%20Legal)
 - T4 DNA Ligase Buffer (1X)
     - 50 mM Tris-HCl
     - 10 mM MgCl2
