@@ -28,7 +28,7 @@ With your molecular manipulations to add unique restriction sites to the gene en
 Western analysis begins with SDS-PAGE, an acronym for "Sodium Dodecyl Sulfate-Polyacrylamide Electrophoresis." The last word, "electrophoresis," is something you're already familiar with from your DNA work. SDS-PAGE uses charge to separate proteins rather than DNA, but is not identical to agarose gel electrophoresis since proteins are chemically and physically so different from DNA.
 
 - Unlike DNA, proteins are not uniformly charged. Consequently, proteins are coated with a detergent ("SDS"—same thing that's in many shampoos) to allow them to be drawn through the electrophoresis matrix according to their size.
-- Proteins are too big to move through most agarose gels, so a different matrix ("polyacrylamide" is used). Polyacrylamide is more hazardous than agarose (check out the {{% resource_link "75bd33ef-b13b-42fc-bbfc-4a41cf227d26" "MSDS" %}}) so extra care must be used when handling these gels.
+- Proteins are too big to move through most agarose gels, so a different matrix ("polyacrylamide" is used). Polyacrylamide is more hazardous than agarose (check out the [MSDS](https://www.msdsonline.com/sds-search/)) so extra care must be used when handling these gels.
 - Proteins come in a wide wide variety of shapes and exist in complexes with other proteins. In order for each protein to move through the gel according to its size, the higher order folds are removed by boiling the proteins in the presence of a reducing agent.
 
 The electrophoresis itself you're already familiar with. It may feel different because the gels are much thinner and are run vertically rather than horizontally. After the run is done, you'll transfer the proteins out of the gel (which is why the gel is so thin) onto a charged membrane which will be probed with antibody next time.
@@ -48,7 +48,7 @@ The bacterial strains will be lysed to release all their proteins.
 5. Move the supernatant of each to a new, labelled eppendorf tube. Later today, you will test the supernatant of these samples for phage using the plaque assay and by counting the plaques that develop, know the titer of the phage in the supernatant.
 6. Resuspend the bacterial pellets in 100 µl of 1X sample buffer. Sample Buffer contains glycerol to help your samples sink into the wells of the gel, SDS to coat amino acids with negative charge, BME to reduce disulfide bonds, and bromophenol blue to track the migration of the smallest proteins through the gel. **Wear gloves when using sample buffer or your hands will get blue and smelly.**
 7. Put lid locks on the eppendorf tubes and boil for 5 minutes.
-8. Put on gloves. Load the indicated volumes of each sample onto your acrylamide gel in the order below. Once you have loaded a sample from one tube, move it to a different row in your eppendorf tube rack. This will help you keep track of which samples you have loaded.   
+8. Put on gloves. Load the indicated volumes of each sample onto your acrylamide gel in the order below. Once you have loaded a sample from one tube, move it to a different row in your eppendorf tube rack. This will help you keep track of which samples you have loaded.    
       
      
 
@@ -61,7 +61,7 @@ VOLUMES to LOAD
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "acd662e4-938e-4247-a16d-8e72a1280a17" "\"Kaleidoscope\" protein molecular weight standards" %}}
+"Kaleidoscope" protein molecular weight standards
 {{< tdclose >}}{{< tdopen >}}
 5 µl
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -91,7 +91,7 @@ Empty
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "ad2610d5-b8a2-4422-9eae-7bb239817787" "\"Kaleidoscope\" protein molecular weight standards" %}}
+"Kaleidoscope" protein molecular weight standards
 {{< tdclose >}}{{< tdopen >}}
 5 µl
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -122,7 +122,7 @@ Empty
 
 1. Once all the samples are loaded, turn on the power and run the gel at 200 V. The molecular weight standards are pre-stained and will separate as the gel runs. The gel should take approximately one hour to run. During that hour, you should work on part two of today's protocol.
 2. Wearing gloves, disassemble the electrophoresis chamber.
-3. Blot the gel to nitrocellulose as follows:   
+3. Blot the gel to nitrocellulose as follows:    
       
     - Place the gray side of the transfer cassette in a tupperware container which is half full of transfer buffer. The transfer cassette is color-coded so the gray side should end up facing the cathode (black electrode) and the clear side facing the anode (red).
     - Place a ScotchBrite pad on the gray side of the cassette.
@@ -150,7 +150,7 @@ DONE!
 
 ## For Next Time
 
-1. Remind yourself what size you expect to see for p3. Determine which of the {{% resource_link "ad660edd-239b-40f2-8961-76d18efe4a60" "kaleidoscope markers" %}} you expect to see nearby.
+1. Remind yourself what size you expect to see for p3. Determine which of the [kaleidoscope markers](https://www.bio-rad.com/en-us/sku/1610375-precision-plus-protein-kaleidoscope-prestained-protein-standards?ID=1610375) you expect to see nearby.
 2. Your first draft of parts 1, 2, and 4 of your portfolio assignment will be due when you arrive in lab next time. Email your draft to the instructors prior to arriving in lab.
 
 ## Reagents List
