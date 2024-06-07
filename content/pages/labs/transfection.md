@@ -26,7 +26,7 @@ Luciferin-luciferase pairs are widely used in nature for courtship, camouflage o
 
 {{< resource "f01d4963-9e49-5b67-6a97-0b6b1f20e592" >}}{{< resource "3a9c843b-2c65-fc79-d7c3-a3c385a32211" >}}{{< resource "51e27964-808d-958d-7ea9-f32eb2baf6e3" >}}
 
-Left to right: Firefly photo courtesy of Eloise Mason ({{% resource_link "c7cea2db-72a4-4dae-9909-9faebbad8ab9" "Flickr" %}}). Plasmid map. (Courtesy of Promega Corporation. Used with permission.) "Sea pansy" (Renilla reniformis) courtesy of NOAA.
+Left to right: Firefly photo courtesy of Eloise Mason ([Flickr](http://www.flickr.com/photos/eloisemason/235967054/)). Plasmid map. (Courtesy of Promega Corporation. Used with permission.) "Sea pansy" (Renilla reniformis) courtesy of NOAA.
 
 Unexpectedly, there is little primary sequence similarity for luciferases from different organisms. This finding will be used to our advantage as we target mRNA from the Renilla luciferase gene for destruction while using the product of the firefly luciferase gene as an unaffected control. On the plasmid we will use, each gene is controlled by a strong constitutive promoter, leading to high expression levels of both luciferases when the plasmid enters a mammalian cell. Other plasmid features that you will be familiar with from experimental module 1 include an antibiotic resistance gene, in this case against the antibiotic ampicillin, that serves as a selectable marker in bacterial cells, a bacterial origin of replication, and multiple restriction sites that can be used for cloning.
 

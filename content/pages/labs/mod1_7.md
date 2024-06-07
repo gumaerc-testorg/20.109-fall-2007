@@ -50,7 +50,7 @@ Protocols
 3.  Place the blot lanes 1-4 in one blotting container, and the other portion of the blot (lanes 5-10) in another container.
 4.  Add 15 ml of TBS-T + milk to each.
 5.  Add 15 µl of anti-p3 antibody to the container.
-6.  Cover the containers, label with your team color and the antibody they contain, and place on the platform shaker for 45 minutes. During this time, a representative from MIT's {{% resource_link "7186ec21-f6fe-4e20-a632-54a81e199d7f" "Environment, Health and Safety Office" %}} will speak with us about biosafety as it relates to cell culture work.
+6.  Cover the containers, label with your team color and the antibody they contain, and place on the platform shaker for 45 minutes. During this time, a representative from MIT's [Environment, Health and Safety Office](http://web.mit.edu/environment/) will speak with us about biosafety as it relates to cell culture work.
 7.  Pour the antibody solution into a conical tube, writing the identity of the antibody and the date on the tube.
 8.  Give the blots a quick rinse with TBS-T, enough to cover the blot (volume is not critical here).
 9.  Wash the blot on the platform shaker 2 times with TBS-T at room temperature, five minutes per wash. Again the volume of the wash solution is not critical.
@@ -62,30 +62,30 @@ Protocols
 Part 2: Sequence Analysis
 -------------------------
 
-Analysis of sequence data is no small task. "Sequence gazing" can swallow hours of time with little or no results. There are also many web-based programs to decipher patterns. The nucleotide or its translated protein can be examined in this way. Thanks to the genome sequence information that is now available, a new verb, "to BLAST," has been coined to describe the comparison of your own sequence to sequences from other organisms. BLAST is an acronym for Basic Local Alignment Search Tool, and can be accessed through {{% resource_link "aab17ff0-6052-42fb-b84f-17bc52a6c56b" "the National Center for Biotechnology Information (NCBI)" %}} home page.
+Analysis of sequence data is no small task. "Sequence gazing" can swallow hours of time with little or no results. There are also many web-based programs to decipher patterns. The nucleotide or its translated protein can be examined in this way. Thanks to the genome sequence information that is now available, a new verb, "to BLAST," has been coined to describe the comparison of your own sequence to sequences from other organisms. BLAST is an acronym for Basic Local Alignment Search Tool, and can be accessed through [the National Center for Biotechnology Information (NCBI)](http://www.ncbi.nlm.nih.gov/) home page.
 
-The data from the MIT Biopolymers Facility is available for you to examine, by logging in to the MIT Biopolymers Facility's {{% resource_link "9a466aa8-98d4-4025-886f-e63d888b5db4" "dnaLIMS tool" %}}.
+The data from the MIT Biopolymers Facility is available for you to examine, by logging in to the MIT Biopolymers Facility's [dnaLIMS tool](http://www.dnatools.com/).
 
 Rather than look through the sequence to magically find the relevant portion, you can align the data you just got with the standard M13KO7 sequence and the differences will be quickly identified. There are several web-based programs for aligning sequences and still more programs that can be purchased. The steps for using two web-based tools are sketched here. You do not have to perform your alignments using both programs (the results ought to be the same!!). They are both provided here for your reference.
 
-Align with "CLUSTAL-W" from {{% resource_link "5d833e5f-618d-4e73-b872-ebe27a4f386d" "EMBL-EBI" %}}
+Align with "CLUSTAL-W" from [EMBL-EBI](http://www.ebi.ac.uk/)
 -------------------------------------------------------------
 
-1.  The alignment program is called {{% resource_link "e8072513-28a8-4c82-8f8b-c4145ebe6a89" "CLUSTAL-W" %}}. It's default settings should work fine for this alignment and you do not have to enter your email address unless you want to.
+1.  The alignment program is called [CLUSTAL-W](http://www.ebi.ac.uk/Tools/clustalw2/index.html). It's default settings should work fine for this alignment and you do not have to enter your email address unless you want to.
 2.  In the box labelled "Enter or Paste a set of Sequences in any supported format: you should type ">my\_sequence\_name," and on the following line paste the sequence text from your sequencing run.If there were ambiguous areas of your sequencing results, these will be listed as "N" rather than "A" "T" "G" or "C" and it's fine to include Ns in the query.
-3.  On the following line you should type ">M13KO7" followed by the M13KO7 sequence from NEB's site for {{% resource_link "88118aca-5b65-4fde-a86e-72dba65e177e" "DNA Sequence Information" %}}.
+3.  On the following line you should type ">M13KO7" followed by the M13KO7 sequence from NEB's site for [DNA Sequence Information](https://www.neb.com/tools-and-resources/interactive-tools/dna-sequences-and-maps-tool).
 4.  Hit "run" and the sequence alignment will be available in several formats. If you scroll down the page there will be areas that are aligned. These are indicated with \* as shown here.  
     {{< resource "7331e056-f590-51bb-d264-a0b28ec17636" >}}
 5.  Alternatively you can look at the data with "Jalview," scrolling to find alignments like this:  
     {{< resource "79dff8dc-516a-edbf-4b42-e71298b9b33e" >}}
 
-Align with "bl2seq" from {{% resource_link "aab17ff0-6052-42fb-b84f-17bc52a6c56b" "NCBI" %}}
+Align with "bl2seq" from [NCBI](http://www.ncbi.nlm.nih.gov/)
 -------------------------------------------------------------
 
-1.  The alignment program can be accessed through the NCBI {{% resource_link "30afe1c7-354a-42f0-ad65-e091c5cf11b2" "BLAST page" %}}.
+1.  The alignment program can be accessed through the NCBI [BLAST page](http://www.ncbi.nlm.nih.gov/blast/Blast.cgi).
 2.  To allow for gaps in the sequence alignment, uncheck the "filter" box. All the other default settings should be fine.
 3.  Paste the sequence text from your sequencing run into the "Sequence 1" box. This will now be the "query." If there were ambiguous areas of your sequencing results, these will be listed as "N" rather than "A" "T" "G" or "C" and it's fine to include Ns in the query.
-4.  Paste the M13KO7 sequence from NEB's site for {{% resource_link "dff16403-adb5-4b41-b067-56cebe3f23e0" "DNA Sequence Information" %}} into the "Sequence 2" box. Numbers are OK to include.
+4.  Paste the M13KO7 sequence from NEB's site for [DNA Sequence Information](http://www.neb.com/nebecomm/tech_reference/restriction_enzymes/dna_sequences_maps.asp) into the "Sequence 2" box. Numbers are OK to include.
 5.  Align the sequences. Matches will be shown by lines between the aligned sequences. If you find a gap in the alignments look back at your sequence data for the missing bases.
 
 You should print a screenshot of the relevant alignment, cross reference it against your oligo design and draw conclusions in your notebook. You might want to email yourself the alignment screen shot or post it to your wiki userpage.

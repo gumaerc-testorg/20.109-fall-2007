@@ -193,4 +193,4 @@ Take too long with one question. If the topic is involved, suggest you meet afte
 Rehearse Your Talk Several Times
 --------------------------------
 
-Find examples of talks at {{% resource_link "e247321b-d7b9-40f6-a7e3-3ad503b0fa92" "MIT Video" %}}
+Find examples of talks at [MIT Video](http://video.mit.edu)
