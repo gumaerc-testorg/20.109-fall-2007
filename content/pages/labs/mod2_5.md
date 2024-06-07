@@ -149,7 +149,7 @@ Please answer the following questions about this data:
 1.  Where on the array is the spot for the MFA2 gene (column and row)?
 2.  What is the systematic name for SLG1?
 3.  What is the cellular function for SNF2?
-4.  If you would like to look at the yeast genes that are on this array you can consider this question and the next one questions. They are not required! The array annotates FUN11 as "function unknown." Does this agree with the {{% resource_link "c9d4ba99-db5c-48db-a44a-da606b36d289" "SGD" %}} annotation?
+4.  If you would like to look at the yeast genes that are on this array you can consider this question and the next one questions. They are not required! The array annotates FUN11 as "function unknown." Does this agree with the [SGD](http://www.yeastgenome.org/) annotation?
 5.  Where is the PSD1 gene product localized in the cell? does this agree with the SGD annotation for PSD1?
 
 To look at the signal intensities for these 21 spots, you should scroll right. Column AF reports the signal from the green fluorescent molecule Cy3 and Column AG reports the signal from the red fluorescent molecule Cy5. Use the "Format" menu to convert the values in these columns from scientific notation to numbers with no decimal places, and then answer the following questions.
@@ -201,7 +201,7 @@ To avoid the decimals associated with gene repression, the log2 of the ratios is
 
 ### Part 3: Hybridize Microarrays
 
-The arrays we will use are the {{% resource_link "a3880060-8d88-442b-8eb7-153dd9571f85" "mouse whole genome microarrays" %}} from Agilent. Each slide has four arrays, each with 44,000 60-mer oligonucleotides. These "oligos" were first built on glass wafers and then printed onto the slide surface. The oligos represent more than 41,000 mouse genes, many spotted on the slide more than once.
+The arrays we will use are the [mouse whole genome microarrays](https://www.agilent.com/en/product/gene-expression-microarray-platform/gene-expression-exon-microarrays/model-organism-microarrays/mouse-gene-expression-microarrays-228471) from Agilent. Each slide has four arrays, each with 44,000 60-mer oligonucleotides. These "oligos" were first built on glass wafers and then printed onto the slide surface. The oligos represent more than 41,000 mouse genes, many spotted on the slide more than once.
 
 **The success of your experiment is absolutely dependent on the following:**
 
@@ -298,7 +298,7 @@ When every group is ready, we will walk the arrays over to the BioMicroCenter in
 **Here's what will happen tomorrow:**
 
 *   One of the teaching faculty will wash the unbound cDNAs off your arrays. The wash steps will be 6xSSC/0.005% Triton X-100 at 42° for 10 minutes then 0.2X SSC/0.00016% Triton X-100 at room temperature for 5 minutes.
-*   The slides will be dried then rehybridized with the Cy3 and Cy5 agents at 65°C for four hours. Genisphere sells these agents as "dendrimers," essentially large fluorescent balls with an average of 850 fluorophores each. These are described in detail at {{% resource_link "e4175a5c-4af2-46b0-bf49-74f22abf4437" "Genisphere" %}}.
+*   The slides will be dried then rehybridized with the Cy3 and Cy5 agents at 65°C for four hours. Genisphere sells these agents as "dendrimers," essentially large fluorescent balls with an average of 850 fluorophores each. These are described in detail at [Genisphere](http://www.genisphere.com/).
 
 During this time, the Cy3 and Cy5 agents will bind the capture sequences on the cDNAs bound to the arrays.
 

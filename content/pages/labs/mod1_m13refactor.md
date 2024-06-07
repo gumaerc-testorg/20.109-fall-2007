@@ -15,7 +15,7 @@ video_metadata:
   youtube_id: null
 ---
 
-All parts are specified at the {{% resource_link "a5c814bc-efb0-4d95-b08d-93de790bee4d" "Registry of Standard Biological Parts" %}}. Refine the parts there as well as here.
+All parts are specified at the [Registry of Standard Biological Parts](http://parts.igem.org/Main_Page). Refine the parts there as well as here.
 
 {{< tableopen >}}
 {{< theadopen >}}

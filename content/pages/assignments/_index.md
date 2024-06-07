@@ -132,7 +132,7 @@ Lecture slides on creating research proposal presentations ({{% resource_link bd
 Journal Club
 ------------
 
-The following lists are provided as a guideline for the types of papers that might be relevant for your presentation. You are not limited to these primary research articles. The list is provided simply to give you an idea of the kinds of subjects that could make suitable presentations for the class. Search {{% resource_link "75a70eb4-faf4-4cb6-b88b-b49c6b196fa0" "PubMed" %}} yourself to find articles of interest to you. Once you have decided on a paper for your presentation, please email the instructors. As you prepare your talk be sure to follow our {{% resource_link d8d9ecac-1b70-8a9b-893b-b0ddce686319 "guidelines for oral presentations" %}}.
+The following lists are provided as a guideline for the types of papers that might be relevant for your presentation. You are not limited to these primary research articles. The list is provided simply to give you an idea of the kinds of subjects that could make suitable presentations for the class. Search [PubMed](http://www.ncbi.nlm.nih.gov/PubMed/) yourself to find articles of interest to you. Once you have decided on a paper for your presentation, please email the instructors. As you prepare your talk be sure to follow our {{% resource_link d8d9ecac-1b70-8a9b-893b-b0ddce686319 "guidelines for oral presentations" %}}.
 
 {{% resource_link 9a600a57-eac3-a8be-d443-f573a96113a0 "List of Papers for Module 1 Presentations" %}}
 

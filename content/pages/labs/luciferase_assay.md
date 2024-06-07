@@ -26,7 +26,7 @@ Two images removed due to copyright restrictions.
 
 {{< resource "87e23ff4-b34d-a24b-6ee6-fd1e5c25358a" >}}
 
-FSM and the moment of creation. (Image courtesy of {{% resource_link "846884dc-f835-417c-9ca9-6ac3bdce3fe8" "Wikipedia" %}}.)
+FSM and the moment of creation. (Image courtesy of [Wikipedia](http://www.venganza.org/).)
 
 Facts vs Data...Pus a Measure of Measurement
 --------------------------------------------
@@ -159,7 +159,7 @@ For Next Time
 2.  Analyze your luciferase data as you did last time, namely with a bar graph comparing each sample's ALU. You might want to average the duplicates if they are close or show individual replicates if they are not. Be sure to explicitly state what can you conclude about the efficacy of each siRNA. This figure will become part of your written report for this module.
 3.  Read the following articles for a class discussion next time.
     *   The news story: Check, Erika. "RNA Interference: Hitting the Switch." _Nature_ 448 (2007): 855-8.
-    *   The original paper, describing some work labeled "RNA activation": Li, Long-Cheng, et al. "{{% resource_link "82551c52-f933-4e08-ab70-904eac14a895" "Small dsRNAs Induce Transcriptional Activation in Human Cells" %}}." _PNAS_ 103, no. 46 (2006): 17337-17342.
+    *   The original paper, describing some work labeled "RNA activation": Li, Long-Cheng, et al. "[Small dsRNAs Induce Transcriptional Activation in Human Cells](http://www.pnas.org/cgi/content/abstract/103/46/17337)." _PNAS_ 103, no. 46 (2006): 17337-17342.
         *   Questions to guide your reading and some background information can be found on the page associated with the next lab {{% resource_link cd9396b1-623d-c638-8b39-94f34a2dccd5 "Module 2 Day 4" %}}. **You do not have to turn in the answers** to these questions but you will be asked to guide the class discussion around some of these topics so you must come to lab familiar with the content of the articles and ready to discuss the material.
 
 Reagents List
