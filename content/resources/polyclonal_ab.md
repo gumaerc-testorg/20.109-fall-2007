@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Generating polyclonal antibodies.
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/13034303257c731ecfe08f6ba6467e6a_polyclonal_ab.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/13034303257c731ecfe08f6ba6467e6a_polyclonal_ab.jpg
 file_size: 25046
 file_type: image/jpeg
 image_metadata:

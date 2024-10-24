@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: DNA microarrays are slides with DNA sequences.
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/03426022eb774f2cf589c525d53e73d3_mc_hd_nkdel_miar.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/03426022eb774f2cf589c525d53e73d3_mc_hd_nkdel_miar.jpg
 file_size: 49985
 file_type: image/jpeg
 image_metadata:

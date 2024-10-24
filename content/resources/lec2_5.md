@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on expression engineering, cDNA synthesis, and microarrays.
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/240dc64c9f32c3c34b164893c45f8e1c_lec2_5.pdf
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/240dc64c9f32c3c34b164893c45f8e1c_lec2_5.pdf
 file_size: 1030142
 file_type: application/pdf
 learning_resource_types:

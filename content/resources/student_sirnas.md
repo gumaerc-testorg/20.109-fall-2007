@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: siRNAs for Renilla luciferase knockdown.
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/91024a5262fdab6f97ccd7cbe7d494c3_student_sirnas.pdf
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/91024a5262fdab6f97ccd7cbe7d494c3_student_sirnas.pdf
 file_size: 12727
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Normal and Transformed Mouse Fibroblasts. (Courtesy of G. Stephen Martin.
   Used with permission.)
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/2497796b63ebbba2dbb7d1d8985e0ee4_transform_fibro.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/2497796b63ebbba2dbb7d1d8985e0ee4_transform_fibro.jpg
 file_size: 30781
 file_type: image/jpeg
 image_metadata:

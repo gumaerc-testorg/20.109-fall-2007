@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Table 1. M13 protein functions.
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/d4521e131c3477918a0ef7336384c1ee_protein_function.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/d4521e131c3477918a0ef7336384c1ee_protein_function.jpg
 file_size: 22177
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on DNA synthesis, coupling efficiency, and a refactoring
   bacteriophage.
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/b8fbfd94ada736ad06b14aa73c578941_lec1_5.pdf
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/b8fbfd94ada736ad06b14aa73c578941_lec1_5.pdf
 file_size: 828478
 file_type: application/pdf
 learning_resource_types:
