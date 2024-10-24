@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Gel for blue group, WF.
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/7a94c7bc12baca992beded8f5a4e35ba_wfgels_6.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/7a94c7bc12baca992beded8f5a4e35ba_wfgels_6.jpg
 file_size: 25365
 file_type: image/jpeg
 image_metadata:

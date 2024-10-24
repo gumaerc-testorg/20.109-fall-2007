@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Generating monoclonal antibodies.
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/2c43276479a1f8f56dcc7a18120ec7f2_monoclonal.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/2c43276479a1f8f56dcc7a18120ec7f2_monoclonal.jpg
 file_size: 20363
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Step 2: characterize of promoter.'
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/895bd768bef49221bd52d764a287351d_promoter.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/895bd768bef49221bd52d764a287351d_promoter.jpg
 file_size: 27113
 file_type: image/jpeg
 image_metadata:

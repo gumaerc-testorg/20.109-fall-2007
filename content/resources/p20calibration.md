@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: P20 calibration.
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/5f50eed194d4cb0760c103e543a62201_p20calibration.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/5f50eed194d4cb0760c103e543a62201_p20calibration.jpg
 file_size: 30767
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Diagram of spectrophotometry process to measure absorbance. (Figure by
   MIT OpenCourseWare.)
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/b50c422ddcf75ab2417566d0aa509669_msrng_absrbnce.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/b50c422ddcf75ab2417566d0aa509669_msrng_absrbnce.jpg
 file_size: 38930
 file_type: image/jpeg
 image_metadata:

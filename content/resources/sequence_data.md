@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sequence Trace Data.
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/68bb568f7e270ace07138e9e633f9fb8_sequence_data.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/68bb568f7e270ace07138e9e633f9fb8_sequence_data.jpg
 file_size: 28535
 file_type: image/jpeg
 image_metadata:
