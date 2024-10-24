@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/539204b9dc73674eef55989880791758_loading_gel.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/539204b9dc73674eef55989880791758_loading_gel.jpg
 file_size: 17532
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Step 4a: separate stop and start.'
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/86b29175d853122dc9a40dad28ad53db_anotation_spacer.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/86b29175d853122dc9a40dad28ad53db_anotation_spacer.jpg
 file_size: 22152
 file_type: image/jpeg
 image_metadata:

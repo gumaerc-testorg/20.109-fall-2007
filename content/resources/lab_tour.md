@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/0cfd0229c2865b72d9051bcb9563a3f4_lab_tour.pdf
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/0cfd0229c2865b72d9051bcb9563a3f4_lab_tour.pdf
 file_size: 345154
 file_type: application/pdf
 learning_resource_types:

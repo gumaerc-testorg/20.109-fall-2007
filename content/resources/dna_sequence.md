@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: DNA sequence alignment.
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/7331e056f59051bbd264a0b28ec17636_dna_sequence.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/7331e056f59051bbd264a0b28ec17636_dna_sequence.jpg
 file_size: 74958
 file_type: image/jpeg
 image_metadata:
