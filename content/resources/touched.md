@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: FSM and the moment of creation. (Image courtesy of Wikipedia.)
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/87e23ff4b34da24b6ee6fd1e5c25358a_touched.jpg
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/87e23ff4b34da24b6ee6fd1e5c25358a_touched.jpg
 file_size: 28028
 file_type: image/jpeg
 image_metadata:

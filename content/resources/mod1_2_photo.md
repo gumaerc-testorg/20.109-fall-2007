@@ -2,7 +2,7 @@
 content_type: resource
 description: Diagram of agarose gel setup, for agarose gel electrophoresis. (Figure
   by MIT OpenCourseWare.)
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/d329fe1548801b95614e492ca5e08a34_mod1_2_photo.jpg
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/d329fe1548801b95614e492ca5e08a34_mod1_2_photo.jpg
 file_size: 39835
 file_type: image/jpeg
 image_metadata:

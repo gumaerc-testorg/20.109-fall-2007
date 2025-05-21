@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: M13K07 map showing single cutters in gene II to gene III region.
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/e90ca59f3550a26ce78b0a627b8dc25e_m13_genome.jpg
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/e90ca59f3550a26ce78b0a627b8dc25e_m13_genome.jpg
 file_size: 21353
 file_type: image/jpeg
 image_metadata:

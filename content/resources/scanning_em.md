@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Size vs. migration distance.
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/cf6176a311028bd5dc3fabf317191ac3_scanning_em.jpg
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/cf6176a311028bd5dc3fabf317191ac3_scanning_em.jpg
 file_size: 22979
 file_type: image/jpeg
 image_metadata:

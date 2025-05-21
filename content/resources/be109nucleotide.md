@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Normal bases versus chain-terminating bases.
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/1bac1440e299aca31ba67135033c94ae_be109nucleotide.jpg
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/1bac1440e299aca31ba67135033c94ae_be109nucleotide.jpg
 file_size: 15032
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: P200 calibration.
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/038f84f2b3841c187aaf30486715501d_p200calibration.jpg
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/038f84f2b3841c187aaf30486715501d_p200calibration.jpg
 file_size: 31344
 file_type: image/jpeg
 image_metadata:
