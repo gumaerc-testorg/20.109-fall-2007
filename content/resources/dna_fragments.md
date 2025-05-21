@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/584098ce8f2a21d0a8b44cd61f2c8fb6_dna_fragments.jpg
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/584098ce8f2a21d0a8b44cd61f2c8fb6_dna_fragments.jpg
 file_size: 22272
 file_type: image/jpeg
 image_metadata:

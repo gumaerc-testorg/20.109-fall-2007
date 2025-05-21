@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on creating oral presentations.
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/65998a665a958582f6c6e4aa3c46b54a_lec1_5_atissa.pdf
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/65998a665a958582f6c6e4aa3c46b54a_lec1_5_atissa.pdf
 file_size: 421187
 file_type: application/pdf
 learning_resource_types:

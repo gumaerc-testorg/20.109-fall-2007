@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Top Strand, Step 4.
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/479a1cbbc277af269f8cb0bc2a52d4b3_dna_strand4.jpg
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/479a1cbbc277af269f8cb0bc2a52d4b3_dna_strand4.jpg
 file_size: 8877
 file_type: image/jpeg
 image_metadata:

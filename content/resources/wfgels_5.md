@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Gel for red and pink groups, WF.
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/1f4e96f56b85fb08e6d76b2fe36a1e4c_wfgels_5.jpg
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/1f4e96f56b85fb08e6d76b2fe36a1e4c_wfgels_5.jpg
 file_size: 26973
 file_type: image/jpeg
 image_metadata:

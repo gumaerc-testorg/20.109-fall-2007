@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: P1000 calibration.
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/1d60b24e34da601dc86b55546e0e75ff_p1000calibration.jpg
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/1d60b24e34da601dc86b55546e0e75ff_p1000calibration.jpg
 file_size: 31145
 file_type: image/jpeg
 image_metadata:

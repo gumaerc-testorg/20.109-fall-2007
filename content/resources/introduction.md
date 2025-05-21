@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image courtesy of Justin Lo. Used with permission.
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/1937de87dab9267bfb14f9e1440844ac_introduction.jpg
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/1937de87dab9267bfb14f9e1440844ac_introduction.jpg
 file_size: 55942
 file_type: image/jpeg
 image_metadata:

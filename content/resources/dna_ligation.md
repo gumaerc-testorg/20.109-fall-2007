@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/408fed8124e9a56b3fe3d65976e78575_dna_ligation.jpg
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/408fed8124e9a56b3fe3d65976e78575_dna_ligation.jpg
 file_size: 26617
 file_type: image/jpeg
 image_metadata:

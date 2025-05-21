@@ -2,7 +2,7 @@
 content_type: resource
 description: The GAPD and TERT spots can be used to illustrate how microarray data
   is generated and interpreted.
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/bd829a879685c2af480aa104402e0b4e_mc_nkdel_marhyb.jpg
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/bd829a879685c2af480aa104402e0b4e_mc_nkdel_marhyb.jpg
 file_size: 64888
 file_type: image/jpeg
 image_metadata:
