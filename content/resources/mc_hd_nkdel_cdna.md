@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Creating cDNA from RNA is done using an enzyme called reverse transcriptase.
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/21aea6291be96c2b41237b8a527fa82b_mc_hd_nkdel_cdna.jpg
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/21aea6291be96c2b41237b8a527fa82b_mc_hd_nkdel_cdna.jpg
 file_size: 72248
 file_type: image/jpeg
 image_metadata:

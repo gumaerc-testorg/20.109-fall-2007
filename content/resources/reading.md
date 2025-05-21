@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Promoter for gene 8.
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/1b6198cd9f0b8c39a4b4112440350a0e_reading.jpg
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/1b6198cd9f0b8c39a4b4112440350a0e_reading.jpg
 file_size: 21542
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Loading a gel. (Figure by MIT OpenCourseWare.)
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/872825d132710d3db284b156c3298b4f_mod1_2_agaro_gel.jpg
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/872825d132710d3db284b156c3298b4f_mod1_2_agaro_gel.jpg
 file_size: 35811
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Map of M13 genome from M. Blaber. (Images courtesy of Dr. Michael Blaber.
   Used with permission.)
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/95332b7d0591fe489b78cb45d01bee35_coated_coli_m13.jpg
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/95332b7d0591fe489b78cb45d01bee35_coated_coli_m13.jpg
 file_size: 8567
 file_type: image/jpeg
 image_metadata:

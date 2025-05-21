@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Orientation lecture by Dr. Natalie Kuldell.
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/1d8d13d742247016ec6204a3fdeb6150_orientation.pdf
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/1d8d13d742247016ec6204a3fdeb6150_orientation.pdf
 file_size: 163268
 file_type: application/pdf
 learning_resource_types:

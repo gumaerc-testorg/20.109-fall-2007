@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Cuvette holder.
-file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/8d8ed3087e397174b8b2de77e5169aef_cuvetteholder.jpg
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/8d8ed3087e397174b8b2de77e5169aef_cuvetteholder.jpg
 file_size: 85983
 file_type: image/jpeg
 image_metadata:
