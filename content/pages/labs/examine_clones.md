@@ -4,7 +4,7 @@ description: This session explains how to isolate the plasmid DNA and dtermine w
   plasmids contain the modification that students intended to construct.
 draft: false
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 parent_title: Labs
 parent_type: CourseSection
