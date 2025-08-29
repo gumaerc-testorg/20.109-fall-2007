@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: pH meter.
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/51756608e7431159f60417cf89e0b9fe_ph_meter.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/51756608e7431159f60417cf89e0b9fe_ph_meter.jpg
 file_size: 86036
 file_type: image/jpeg
 image_metadata:
@@ -9,7 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs

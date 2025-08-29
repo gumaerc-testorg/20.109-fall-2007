@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Gel for yellow and purple groups, TR.
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/0fe75e32af0c40f0b6aa39dbb0a463cd_tr_yellow_purple.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/0fe75e32af0c40f0b6aa39dbb0a463cd_tr_yellow_purple.jpg
 file_size: 62166
 file_type: image/jpeg
 image_metadata:
@@ -9,7 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs

@@ -3,7 +3,7 @@ content_type: resource
 description: Aspirate the supernatant, as shown, removing as few cells as possible.
   Make sure to use a yellow pipet tip on the aspirator and change between samples.
   (Figure by MIT OpenCourseWare.)
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/93a0ca82246fdce66e664a067070415f_removing_cells.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/93a0ca82246fdce66e664a067070415f_removing_cells.jpg
 file_size: 37800
 file_type: image/jpeg
 image_metadata:
@@ -11,7 +11,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs

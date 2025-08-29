@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Gel for blue and red groups, TR.
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/5aa35ae6a7f8cb4a8a155370958a49db_tr_blue_red.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/5aa35ae6a7f8cb4a8a155370958a49db_tr_blue_red.jpg
 file_size: 42495
 file_type: image/jpeg
 image_metadata:
@@ -9,7 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Top Strand, Step 3.
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/99167740ab2eae0d060158d4fa4f4e8a_dna_strand2.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/99167740ab2eae0d060158d4fa4f4e8a_dna_strand2.jpg
 file_size: 8058
 file_type: image/jpeg
 image_metadata:
@@ -9,7 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs

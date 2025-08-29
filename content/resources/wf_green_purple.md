@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Gel for green and purple groups, WF.
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/982b6b4248c809c54fb5bb1239269a79_wf_green_purple.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/982b6b4248c809c54fb5bb1239269a79_wf_green_purple.jpg
 file_size: 49773
 file_type: image/jpeg
 image_metadata:
@@ -9,7 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs

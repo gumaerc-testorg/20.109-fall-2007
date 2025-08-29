@@ -3,7 +3,7 @@ content_type: page
 description: This module covers Western Blot analysis.
 draft: false
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 parent_title: Labs
 parent_type: CourseSection

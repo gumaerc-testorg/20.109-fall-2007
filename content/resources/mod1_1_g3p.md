@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/1516c34fda179ed45be14649acf0a105_mod1_1_g3p.pdf
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/1516c34fda179ed45be14649acf0a105_mod1_1_g3p.pdf
 file_size: 138161
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

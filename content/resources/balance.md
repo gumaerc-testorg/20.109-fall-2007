@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Balance.
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/7bd6c90c12b00e1d261bcffb1ab78c7a_balance.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/7bd6c90c12b00e1d261bcffb1ab78c7a_balance.jpg
 file_size: 91739
 file_type: image/jpeg
 image_metadata:
@@ -9,7 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs

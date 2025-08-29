@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: An M13KO7mut8 scaffold to facilitate refactoring work.
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/3e7c39d2ec86e2a58fed363ef2165813_m13k07scafold_m8.pdf
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/3e7c39d2ec86e2a58fed363ef2165813_m13k07scafold_m8.pdf
 file_size: 39919
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

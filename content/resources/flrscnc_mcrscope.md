@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Fluorescent microscope.
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/0824c259caadf3be4965f1963e07d049_flrscnc_mcrscope.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/0824c259caadf3be4965f1963e07d049_flrscnc_mcrscope.jpg
 file_size: 77682
 file_type: image/jpeg
 image_metadata:
@@ -9,7 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
