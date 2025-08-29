@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Step 4b: add chimeric RBS.'
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/724bb2b121d1bb1d34444f781b2812ba_annotation_rbs.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/724bb2b121d1bb1d34444f781b2812ba_annotation_rbs.jpg
 file_size: 26931
 file_type: image/jpeg
 image_metadata:
@@ -9,7 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Monoclonal Antibody.
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/ab4c43ee295521453db2bf732f7dbf67_mac_hd_nku_p3abi.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/ab4c43ee295521453db2bf732f7dbf67_mac_hd_nku_p3abi.jpg
 file_size: 29880
 file_type: image/jpeg
 image_metadata:
@@ -9,7 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs

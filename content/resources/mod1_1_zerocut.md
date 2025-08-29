@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: TA's Notes for Module 1 on available enzymes that don't cut M13K07.
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/924b682290249203b91475da7d476398_mod1_1_zerocut.txt
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/924b682290249203b91475da7d476398_mod1_1_zerocut.txt
 file_size: 695
 file_type: text/plain
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

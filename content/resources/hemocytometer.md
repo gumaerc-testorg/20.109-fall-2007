@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Counting cells using a hemocytometer.
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/06cb4616f9e61736fa773c3c2b52e62b_hemocytometer.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/06cb4616f9e61736fa773c3c2b52e62b_hemocytometer.jpg
 file_size: 22136
 file_type: image/jpeg
 image_metadata:
@@ -9,7 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
