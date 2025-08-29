@@ -2,7 +2,7 @@
 content_type: resource
 description: Growing colonies on medium, showing that only bacteria with plasmid grow
   into colonies. (Figure by MIT OpenCourseWare.)
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/88e1e95bb4aede6460dbbb0924980b51_mod1_3_sche_bact.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/88e1e95bb4aede6460dbbb0924980b51_mod1_3_sche_bact.jpg
 file_size: 33901
 file_type: image/jpeg
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs

@@ -3,7 +3,7 @@ content_type: page
 description: This section contains notes for Module 1.
 draft: false
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 parent_title: Labs
 parent_type: CourseSection

@@ -3,7 +3,7 @@ content_type: resource
 description: 'Plaques formed by bacteriophage upon infection of susceptible bacteria.
   Source: Assorted Views of Bacteriophage Plaques. &copy; Quiroz. Licensed for use,
   ASM MicrobeLibrary.'
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/4f3309704aeebdbb82c837fd5a00e3a0_plaques.jpg
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/4f3309704aeebdbb82c837fd5a00e3a0_plaques.jpg
 file_size: 28161
 file_type: image/jpeg
 image_metadata:
@@ -11,7 +11,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs

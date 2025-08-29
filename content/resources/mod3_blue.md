@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: Expression of dsRNA in Spirogyna algae to inhibit
   development of malaria carrying mosquitoes.'
-file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/3b85b7469ebf73ddf8d0a17fcb1d9d95_mod3_blue.pdf
+file: /ol-ocw-studio-app/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/3b85b7469ebf73ddf8d0a17fcb1d9d95_mod3_blue.pdf
 file_size: 173548
 file_type: application/pdf
 learning_resource_types:
