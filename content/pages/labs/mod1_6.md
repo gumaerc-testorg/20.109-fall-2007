@@ -28,7 +28,7 @@ With your molecular manipulations to add unique restriction sites to the gene en
 Western analysis begins with SDS-PAGE, an acronym for "Sodium Dodecyl Sulfate-Polyacrylamide Electrophoresis." The last word, "electrophoresis," is something you're already familiar with from your DNA work. SDS-PAGE uses charge to separate proteins rather than DNA, but is not identical to agarose gel electrophoresis since proteins are chemically and physically so different from DNA.
 
 - Unlike DNA, proteins are not uniformly charged. Consequently, proteins are coated with a detergent ("SDS"—same thing that's in many shampoos) to allow them to be drawn through the electrophoresis matrix according to their size.
-- Proteins are too big to move through most agarose gels, so a different matrix ("polyacrylamide" is used). Polyacrylamide is more hazardous than agarose (check out the [MSDS](https://www.msdsonline.com/sds-search/)) so extra care must be used when handling these gels.
+- Proteins are too big to move through most agarose gels, so a different matrix ("polyacrylamide" is used). Polyacrylamide is more hazardous than agarose (check out the {{% resource_link "aa0c6a74-b3f8-4171-a1ce-186a6371f0a1" "MSDS" %}}) so extra care must be used when handling these gels.
 - Proteins come in a wide wide variety of shapes and exist in complexes with other proteins. In order for each protein to move through the gel according to its size, the higher order folds are removed by boiling the proteins in the presence of a reducing agent.
 
 The electrophoresis itself you're already familiar with. It may feel different because the gels are much thinner and are run vertically rather than horizontally. After the run is done, you'll transfer the proteins out of the gel (which is why the gel is so thin) onto a charged membrane which will be probed with antibody next time.
@@ -150,7 +150,7 @@ DONE!
 
 ## For Next Time
 
-1. Remind yourself what size you expect to see for p3. Determine which of the [kaleidoscope markers](https://www.bio-rad.com/en-us/sku/1610375-precision-plus-protein-kaleidoscope-prestained-protein-standards?ID=1610375) you expect to see nearby.
+1. Remind yourself what size you expect to see for p3. Determine which of the {{% resource_link "aee88faf-371e-4e09-bb08-eff81bbd8586" "kaleidoscope markers" %}} you expect to see nearby.
 2. Your first draft of parts 1, 2, and 4 of your portfolio assignment will be due when you arrive in lab next time. Email your draft to the instructors prior to arriving in lab.
 
 ## Reagents List
