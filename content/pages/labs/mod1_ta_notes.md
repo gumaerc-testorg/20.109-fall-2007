@@ -28,7 +28,7 @@ Before term begins:
 5. Autoclave several racks of small and large test tubes.
 6. Make 1L top agar, divide between autoclaved 250 ml bottles, 100 ml per bottle for reheating
 7. Check volume/availability of needed kits, reagents:
-    - [M13KO7 from NEB](https://www.neb.com/products/n0315-m13ko7-helper-phage#Product%20Information)
+    - {{% resource_link "85bd057b-9e96-4742-8903-e296ef4d58c7" "M13KO7 from NEB" %}}
     - restriction enzymes (BamHI, others on list of no cutters ({{% resource_link "924b6822-9024-9203-b914-75da7d476398" "TXT" %}}))
     - Qiagen kit for agarose clean-up (need 1/pair of students)
     - T4 DNA ligase and buffer for ligation mix
