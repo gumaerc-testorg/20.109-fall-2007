@@ -108,7 +108,7 @@ For a total volume of 25 µl
 
 1. Prepare two reaction cocktails with water, buffer and enzyme. Prepare enough of each cocktail for 5 digests. Leave the cocktails on ice.
 2. Aliquot 5 µl of plasmids into well labeled eppendorf tubes. The labels should include the plasmid name, the enzymes to be added and your team color.
-3. Add 20 µl of each cocktail to each tube. Flick the tubes to mix the contents then incubate the tubes at 37°C, for 30 minutes. You should have 8 digests total. When your samples are digesting, you should re-read the Refactoring T7 paper that we will discuss, focusing on one aspect of the article (figure 1, 2, 3 or 4, [Supplementary Table 2](http://www.nature.com/msb/journal/v1/n1/suppinfo/msb4100025_S1.html), [Supplementary Figure 1](http://www.nature.com/msb/journal/v1/n1/suppinfo/msb4100025_S1.html)) that you will be assigned and that you will present to the class.
+3. Add 20 µl of each cocktail to each tube. Flick the tubes to mix the contents then incubate the tubes at 37°C, for 30 minutes. You should have 8 digests total. When your samples are digesting, you should re-read the Refactoring T7 paper that we will discuss, focusing on one aspect of the article (figure 1, 2, 3 or 4, {{% resource_link "5a78367d-2a72-4c92-b91a-c0ed28678fcc" "Supplementary Table 2" %}}, {{% resource_link "5a78367d-2a72-4c92-b91a-c0ed28678fcc" "Supplementary Figure 1" %}}) that you will be assigned and that you will present to the class.
 4. Add 2 µl of loading dye to each of the digests you have assembled.
 
 ### Part 3: Agarose Gel Electrophoresis
@@ -124,7 +124,7 @@ VOLUMES TO LOAD
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
 {{< tdclose >}}{{< tdopen >}}
-[1 kb Marker](https://www.neb.com/en-us/products/n0468-quick-load-1-kb-dna-ladder#Product%20Information)
+{{% resource_link "3faf9488-7a75-44f4-ba72-4a0fedc3f5a0" "1 kb Marker" %}}
 {{< tdclose >}}{{< tdopen >}}
 5 µl
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -192,7 +192,7 @@ DONE!
 1. Prepare a table with the results of your ligations and transformations. Calculate your transformation efficiency (# colonies/?g plasmid DNA) based on the transformation you performed with M13KO7. In three or four sentences, interpret the ligation results.
 2. Choose one of the following two essays to write a thoughtful response to their "fighting words." Rebut the quoted statements by first explaining what the quote refers to, explaining why the author or quoted individual might have said it, and then provide at least five counter points or examples to support the opposite point of view. Draw your arguments from your experiments with M13 whenever possible. Print out two copies of this portion of the assignment. Next time you and your lab partner will exchange responses and provide feedback to each other on the writing and ideas within.
 
-**Essay 1**: Choose **one** of the following quotes to address. Both come from Andrew Pollack in the *New York Times*, Tuesday, January 17, 2006, "[Custom-Made Microbes, at Your Service](http://query.nytimes.com/gst/fullpage.html?sec=health&res=9B03E6DA143FF934A25752C0A9609C8B63)" which quotes Professor Arnold of Caltech as saying:
+**Essay 1**: Choose **one** of the following quotes to address. Both come from Andrew Pollack in the *New York Times*, Tuesday, January 17, 2006, "{{% resource_link "dc220cd1-33d1-4287-994b-82753e7a5317" "Custom-Made Microbes, at Your Service" %}}" which quotes Professor Arnold of Caltech as saying:
 
 - "(Synthetic Biology) has a catchy new name, but anybody over 40 will recognize it as good old genetic engineering applied to more complex problems."
 
