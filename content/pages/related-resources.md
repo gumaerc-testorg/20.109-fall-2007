@@ -13,38 +13,38 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-Kuldell, Natalie H. "[How Golden is Silence? Teaching Undergraduates the Power and Limits of RNA Interference](https://www.lifescied.org/doi/10.1187/cbe.05-11-0124)." *CBE Life Sci Educ* 5, no. 3 (Fall 2006): 247-254.
+Kuldell, Natalie H. "{{% resource_link "707dc74e-dca6-4fbe-8b78-6362edee6ef6" "How Golden is Silence? Teaching Undergraduates the Power and Limits of RNA Interference" %}}." *CBE Life Sci Educ* 5, no. 3 (Fall 2006): 247-254.
 
 This paper describes the pedagogy and outcomes from an earlier version of this class.
 
 ## Polymerase Chain Reaction (PCR) Animations
 
-[Manipulation](http://www.dnai.org/b/index.html) (follow the links through "techniques" and "amplifying DNA")
+{{% resource_link "5792c605-f100-4fc9-80f7-b944148eeea3" "Manipulation" %}} (follow the links through "techniques" and "amplifying DNA")
 
 ## Writing Web Links
 
 The following links are helpful places to do further investigation into good writing:
 
-Swan, Judith A., and George D. Gopen. "The Science of Scientific Writing." *American Scientist* 78 (November-December 1990): 550-558. ([PDF](https://cseweb.ucsd.edu/~swanson/papers/science-of-writing.pdf)) - A very useful article that analyzes the structure and style of scientific writing.
+Swan, Judith A., and George D. Gopen. "The Science of Scientific Writing." *American Scientist* 78 (November-December 1990): 550-558. ({{% resource_link "a1d56f4f-7472-48ad-8b60-47bf4d2439cf" "PDF" %}}) - A very useful article that analyzes the structure and style of scientific writing.
 
 Writing Up Research - A fairly comprehensive explanation of the components of the research article from the Asian Institute of Technology.
 
 Writing in the Neurobiological Sciences - A scientific writing course from the University of Florida with many useful links.
 
-[Writing Guidelines for Engineering and Science Students](http://www.writing.engr.psu.edu/) - A useful resource on scientific writing from Penn State. Includes many examples and additional links.
+{{% resource_link "be2c103a-9eee-4dfb-b44b-a3c75caac7b4" "Writing Guidelines for Engineering and Science Students" %}} - A useful resource on scientific writing from Penn State. Includes many examples and additional links.
 
-[Instructions to Authors in the Health Sciences](http://mulford.utoledo.edu/instr/) - This site provides links to instructions to authors for over 3,500 journals in the health and life sciences.
+{{% resource_link "0e9f742e-9ad5-4811-a72e-427486bf2843" "Instructions to Authors in the Health Sciences" %}} - This site provides links to instructions to authors for over 3,500 journals in the health and life sciences.
 
 ## DNA Engineering Web Links
 
-[ORF finder](http://www.ncbi.nlm.nih.gov/gorf/gorf.html)
+{{% resource_link "a91dc07d-c9fc-400d-a8e0-038a6ea05259" "ORF finder" %}}
 
-[NCBI](http://www.ncbi.nlm.nih.gov/)
+{{% resource_link "58c53617-be5b-4ecf-8268-625ce60edfd9" "NCBI" %}}
 
-[Cybergene](http://www.cybergene.se/)
+{{% resource_link "622a4b31-b5d9-420e-8412-e133fcb70c0b" "Cybergene" %}}
 
-[New England Biolabs](https://www.neb.com/)
+{{% resource_link "ce5b87c1-6ae8-465c-a930-d5afdc2c7840" "New England Biolabs" %}}
 
 ## Systems Engineering Web Links
 
-[MIT Registry of Standard Biological Parts](http://parts.igem.org/Main_Page)
+{{% resource_link "cd48c3fa-59ea-4fa5-91fe-e2376a8b786f" "MIT Registry of Standard Biological Parts" %}}
