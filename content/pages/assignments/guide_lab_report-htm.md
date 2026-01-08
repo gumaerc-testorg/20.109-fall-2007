@@ -26,7 +26,7 @@ A formal lab report is the principle way scientific data are conveyed to the res
 *   Discussion
 *   References
 
-The requirements for each section are outlined below. This information is given in the order that you might actually write your report rather than the order in which the parts are presented in the final report. If you want more information, you can find parts of this text in an on-line collection of instructional materials used in the {{% resource_link "14678815-91e1-4d10-badf-808097cd9faf" "Purdue University Writing Lab" %}}. Other parts are inspired by Robert A. Day's book, _How to Write and Publish a Scientific Paper_ from Oryx Press, a copy of which is available in the teaching lab.
+The requirements for each section are outlined below. This information is given in the order that you might actually write your report rather than the order in which the parts are presented in the final report. If you want more information, you can find parts of this text in an on-line collection of instructional materials used in the [Purdue University Writing Lab](http://owl.english.purdue.edu/). Other parts are inspired by Robert A. Day's book, _How to Write and Publish a Scientific Paper_ from Oryx Press, a copy of which is available in the teaching lab.
 
 Authors
 -------

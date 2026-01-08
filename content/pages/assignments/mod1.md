@@ -21,7 +21,7 @@ Portfolio components:
 
 This will be written as a homework assignment associated with lab module 1.4 (Examine candidate clones), exchanged with your lab partner for peer review, then submitted to the teaching faculty as part of your portfolio. **This portion of the assignment accounts for up to 15% of your grade**.
 
-Essay 1: Choose **one** of the following quotes to address. Both come from Andrew Pollack in the New York Times, Tuesday, Jan 17, 2006, {{% resource_link "dc220cd1-33d1-4287-994b-82753e7a5317" "Custom-Made Microbes, at Your Service" %}} which quotes Professor Arnold of Caltech as saying:
+Essay 1: Choose **one** of the following quotes to address. Both come from Andrew Pollack in the New York Times, Tuesday, Jan 17, 2006, [Custom-Made Microbes, at Your Service](http://query.nytimes.com/gst/fullpage.html?sec=health&res=9B03E6DA143FF934A25752C0A9609C8B63) which quotes Professor Arnold of Caltech as saying:
 
 - "(Synthetic Biology) has a catchy new name, but anybody over 40 will recognize it as good old genetic engineering applied to more complex problems."
 
