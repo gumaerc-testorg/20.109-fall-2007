@@ -114,7 +114,7 @@ Please answer the following questions about this data:
 1. Where on the array is the spot for the MFA2 gene (column and row)?
 2. What is the systematic name for SLG1?
 3. What is the cellular function for SNF2?
-4. If you would like to look at the yeast genes that are on this array you can consider this question and the next one questions. They are not required! The array annotates FUN11 as "function unknown." Does this agree with the {{% resource_link "b8275a76-34fd-48f5-bb98-099b46b5f621" "SGD" %}} annotation?
+4. If you would like to look at the yeast genes that are on this array you can consider this question and the next one questions. They are not required! The array annotates FUN11 as "function unknown." Does this agree with the [SGD](http://www.yeastgenome.org/) annotation?
 5. Where is the PSD1 gene product localized in the cell? does this agree with the SGD annotation for PSD1?
 
 To look at the signal intensities for these 21 spots, you should scroll right. Column AF reports the signal from the green fluorescent molecule Cy3 and Column AG reports the signal from the red fluorescent molecule Cy5. Use the "Format" menu to convert the values in these columns from scientific notation to numbers with no decimal places, and then answer the following questions.
@@ -166,7 +166,7 @@ To avoid the decimals associated with gene repression, the log2 of the ratios is
 
 ### Part 3: Hybridize Microarrays
 
-The arrays we will use are the {{% resource_link "33ec2eef-4131-41ab-a478-2c36c168ba50" "mouse whole genome microarrays" %}} from Agilent. Each slide has four arrays, each with 44,000 60-mer oligonucleotides. These "oligos" were first built on glass wafers and then printed onto the slide surface. The oligos represent more than 41,000 mouse genes, many spotted on the slide more than once.
+The arrays we will use are the [mouse whole genome microarrays](https://www.agilent.com/en/product/gene-expression-microarray-platform/gene-expression-exon-microarrays/model-organism-microarrays/mouse-gene-expression-microarrays-228471) from Agilent. Each slide has four arrays, each with 44,000 60-mer oligonucleotides. These "oligos" were first built on glass wafers and then printed onto the slide surface. The oligos represent more than 41,000 mouse genes, many spotted on the slide more than once.
 
 **The success of your experiment is absolutely dependent on the following:**
 

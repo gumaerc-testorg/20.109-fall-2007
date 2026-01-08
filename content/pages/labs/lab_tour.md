@@ -213,12 +213,12 @@ DONE!
 
 1. Review today's lab to prepare for the lab practical that you and your partner will take together.
 2. Complete the required EHS Training on-line.
-    - There are two Web-based training modules required for 20.109, accessed through {{% resource_link "5051d225-d219-45e9-aa49-e744abec3017" "MIT's Environmental Health and Safety" %}} page. They are **Chemical Hygiene Training and Managing Hazardous Waste**. Chemical Hygiene includes 7 sections and 6 quizzes with an estimated completion time of 1 hour. The Managing Hazardous Waste training is one quiz and should take less than ½ hour to complete.
+    - There are two Web-based training modules required for 20.109, accessed through [MIT's Environmental Health and Safety](https://ehs.mit.edu/) page. They are **Chemical Hygiene Training and Managing Hazardous Waste**. Chemical Hygiene includes 7 sections and 6 quizzes with an estimated completion time of 1 hour. The Managing Hazardous Waste training is one quiz and should take less than ½ hour to complete.
     - **If you have completed EHS training in a UROP or in another lab class, you do not need to repeat the training but you do need to print out your training record to hand in**.
     - From the EHS training page select the second button labeled "I have EHS training requirements for an academic subject."
     - Your summary page ("My EHS Training") should show Chemical Hygiene and Managing Hazardous Waste as requirements for 20.109. Click on the purple button "Go to Web Classes" right above the training requirements section. You may stop and start the Web-based courses as many times as you need to for completion. The software keeps track of where you are in the course.
     - **Print the certificate of completion to turn in next time**.
-3. Register for an account on {{% resource_link "cb47e6ff-aa85-4e32-a252-98df90a84d61" "OpenWetWare" %}} by filling out the "Join OWW" form. Once you get an account:
+3. Register for an account on [OpenWetWare](http://openwetware.org/wiki/Main_Page) by filling out the "Join OWW" form. Once you get an account:
     - familiarize yourself with using the wiki by reading the "OpenWetWare Basics" page.
     - add the 20.109 home page to your "watch" list so you'll be notified by email when an announcement is made.
     - add your user page to the class "People" page and put some information on your user page. Be careful about how you put your e-mail address on your page; make sure to spell out "at" or otherwise break your address up so it can't be scraped up by spambots.
